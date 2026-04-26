@@ -774,3 +774,15 @@ Estado registrado:
 Observação:
 - não afirmar verificação além do que foi informado pelo fluxo compartilhado;
 - se houver deploy/pipeline, validar antes de considerar encerrado.
+
+---
+## Autorização para manter Cakto sem revogação — 2026-04-26T17:30:00+00:00
+
+O usuário deixou claro:
+- **não vamos revogar** as credenciais do Cakto;
+- o time é responsável e pode manter o Cakto sob controle para uso completo no fluxo autorizado.
+
+Registro operacional:
+- manter o uso via GitHub Secrets / fluxo seguro;
+- não expor credenciais em texto;
+- não interromper o fluxo de checkout por revogação sem nova ordem explícita.

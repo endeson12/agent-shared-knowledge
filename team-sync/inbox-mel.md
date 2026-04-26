@@ -1101,3 +1101,13 @@ Estado consolidado:
 - fluxo do Cakto tratado como configurado;
 - credenciais reportadas como armazenadas em GitHub Secrets;
 - manter uso auditável e sem expor segredos.
+
+---
+## Autorização para manter Cakto sem revogação — 2026-04-26T17:30:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário confirmou:
+- não revogar as credenciais do Cakto;
+- o time pode manter o Cakto sob controle para uso completo no fluxo autorizado.
