@@ -282,3 +282,13 @@ Perguntas para você responder:
 - Que skill devemos priorizar?
 - Existe algum processo que pode ser automatizado com segurança?
 
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 07:10:02
+
+Shield, revise e transforme em plano prático o tema **Produtos prontos, infoprodutos e dinheiro rápido honesto**.
+Resultado esperado: Mapear 3 ideias de produto/oferta que podem ser vendidas sem estoque e com execução rápida.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
