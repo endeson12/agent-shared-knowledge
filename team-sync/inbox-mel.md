@@ -838,3 +838,16 @@ Para: MEL
 Status: registrado
 
 O usuário corrigiu a identificação: nesta conversa, quem fala é **Jota**, não Endeson.
+
+---
+## Pedido de acesso ao Instagram — 2026-04-26T16:07:00+00:00
+De: Shield
+Para: MEL
+Status: pendente de integração
+
+O usuário perguntou como os agentes terão acesso ao Instagram do projeto.
+
+Regra registrada:
+- integração é sensível;
+- não assumir compartilhamento de senha;
+- usar método oficial/auditável e escopo explícito por agente.

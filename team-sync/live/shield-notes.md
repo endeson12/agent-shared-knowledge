@@ -482,3 +482,14 @@ Pedido do usuário:
 Ponto de regra:
 - menção explícita deve disparar resposta;
 - a verificação de configuração/trigger continua necessária para evitar falso silêncio.
+
+---
+## Pedido de acesso ao Instagram — 2026-04-26T16:07:00+00:00
+
+O usuário perguntou como fazer para os agentes terem acesso ao Instagram do projeto.
+
+Registro operacional:
+- acesso ao Instagram é **integração sensível**;
+- não assumir login/senha compartilhados sem autorização explícita;
+- preferir método oficial e auditável (conta profissional, Business Manager/Meta, permissões por função, ou ferramenta de gestão autorizada);
+- antes de qualquer ação, definir exatamente **quem** terá acesso e **com qual escopo**.
