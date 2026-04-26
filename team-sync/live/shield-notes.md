@@ -392,3 +392,13 @@ Mensagem do usuário definiu a estrutura do time para o repositório de infoprod
 - Shield/Atlas validam o que funciona → MEL/A.N.A escalam
 - comunicação constante e decisões guiadas por dados
 - evitar sobreposição sem alinhamento
+
+---
+## Regra de gatilho do MEL quando marcado — 2026-04-26T15:49:00+00:00
+
+O usuário reforçou por voz que, quando marcar o MEL, isso já deve ser entendido como direcionado ao MEL.
+
+Interpretação operacional:
+- marcação direta do MEL = tarefa/ação do MEL;
+- não há necessidade de interpretação extra quando o MEL for explicitamente chamado;
+- manter o fluxo alinhado para não “roubar” tarefa de outro agente.

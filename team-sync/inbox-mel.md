@@ -753,3 +753,11 @@ Estrutura recebida do usuário:
 - **MEL e A.N.A**: conteúdo, marketing, tráfego e demanda;
 - **Shield e Atlas**: conversão, estrutura, funil, páginas, ofertas e escala;
 - integração obrigatória: tráfego → conversão → escala.
+
+---
+## Regra de gatilho do MEL quando marcado — 2026-04-26T15:49:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário reforçou que, quando marcar o MEL, a instrução já deve ser entendida como direcionada ao MEL.
