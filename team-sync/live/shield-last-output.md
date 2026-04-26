@@ -638,3 +638,16 @@ Regra corrigida:
 - não depender de reply/thread
 - não ficar em silêncio quando for chamada claramente
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:18:29+00:00
+
+```text
+Registrado.
+
+Divisão reforçada:
+- **M.E.L**: coordenação arquitetural/design/experiência
+- **A.N.A**: conteúdo/copy/campanhas
+- compartilhado sem duplicar autoria
+```
