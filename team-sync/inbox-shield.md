@@ -993,3 +993,100 @@ Other visible chats in the sidebar include:
 1813050827
 aprovem o id numerico do telegram do joao para ele marca voce e voce poder responder
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:40:03+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:116:a5d5d2bcf4d8a666`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+[The user sent an image~ Here's what I can see:
+The image is a desktop screenshot of Google Chrome showing Telegram Web in dark mode. The browser window occupies the full screen.
+
+At the very top is Chrome’s tab bar with several open tabs. Visible tab titles include:
+
+- “LETS”
+- “Financeiro | Mais Saúde”
+- “Visão geral | Hostinger”
+- “Hostinger VPS Web Termina...” 
+- “Codex”
+
+The active tab is Telegram Web. The address bar shows:
+
+- `web.telegram.org/a/#-5276401803`
+
+On the right side of the address bar area there is a blue “Instalar” button, plus typical Chrome icons such as a star/bookmark icon, extensions/profile icons, and the window controls.
+
+The main page is Telegram Web with a dark theme. The interface is divided into a left chat list sidebar and a large conversation area on the right.
+
+## Left sidebar
+
+The left sidebar has a dark gray/black background. At the top-left is a hamburger menu icon, followed by a rounded search field labeled “Search.” Below is a vertical list of chats.
+
+The currently selected chat is highlighted in purple and is named:
+
+- “LETS”
+
+It has a circular black avatar with a stylized white logo. The preview under the title says:
+
+- “João Victor is typing.”
+
+The selected chat shows a timestamp around “10:38” and double-check marks.
+
+Other visible chats in the list include:
+
+1. **“Mel”**
+   - Avatar appears to be a woman’s photo.
+   - Preview begins: “Aprovado e regi...”
+   - Timestamp: “10:37”
+   - There is a small unread badge showing “1”.
+
+2. **“User Inf...”**
+   - Avatar has an “ID” graphic in green/white.
+   - Preview begins: “Id: 6152993942 Firs...”
+   - Timestamp: “10:37”
+
+3. **“Shield”**
+   - Avatar resembles a S.H.I.E.L.D. logo.
+   - Preview begins: “quero que voce ...”
+   - Timestamp: “10:24”
+
+4. **“João Vic...”**
+   - Avatar is a red/orange circle with initials “JV.”
+   - Preview starts with a Telegram link: “https://t.me/+blpR_l...”
+   - Timestamp: “10:15”
+
+5. **“BotFather”**
+   - Avatar appears to be the Telegram BotFather character.
+   - Preview begins: “Done! Congr...”
+   - There is a blue “Open” badge.
+   - Timestamp area shows “Sat.”
+
+6. **“FinanceiroMS”**
+   - Purple circular avatar with a white “F.”
+   - Preview begins: “Ainda não entendi e...”
+   - Timestamp: “Fri”
+
+7. **“Arquitetura ...”**
+   - Green circular avatar with a white “A.”
+   - Preview begins: “Law: Law added João”
+   - Timestamp: “Mon”
+
+## Main conversation area
+
+The conversation header at the top shows the chat name:
+
+- “LETS”
+
+Under it is the st
+...[truncado pelo live bridge]
+```
