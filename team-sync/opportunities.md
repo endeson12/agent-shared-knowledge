@@ -36,3 +36,4 @@ Registrar oportunidades práticas para Endeson/Anderson ganhar produtividade, ve
 - 2026-04-26T14:10:01+00:00 — Sprint horário criado: Sites, landing pages e funis simples. Saída esperada: Propor 1 estrutura de página, 1 fluxo de captura e 1 automação de follow-up.
 
 - 2026-04-26T14:30:02+00:00 — MEL deve revisar oportunidades de automação comercial, criação de conteúdo, funis, campanhas e APIs úteis registradas no repositório.
+- 2026-04-26T15:10:02+00:00 — Sprint horário criado: Conteúdo orgânico: Reels, Shorts, carrosséis e posts. Saída esperada: Criar 5 pautas curtas com gancho, promessa e CTA.
