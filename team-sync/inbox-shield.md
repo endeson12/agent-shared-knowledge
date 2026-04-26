@@ -775,3 +775,117 @@ Visible chats include:
 ```text
 [The user sent a voice message~ Here's what they said: "Eu quero que você responde no grupo apenas quando você for marcada, independente se foi eu, se foi o João Vito, se foi a Ana, ou se foi o Shield ou o Atlas, você só vai responder quando você for marcada e você tem autorização para responder qualquer pessoa que te marcar dentro desse grupo."]
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:31:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:100:b07264bb04b223e9`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+[The user sent an image~ Here's what I can see:
+The image is a widescreen screenshot of **Telegram Web** open in a desktop web browser using a dark theme. The browser appears to be Chrome/Chromium on Windows, with multiple tabs open across the top.
+
+## Browser and top bar
+
+At the very top is a dark browser tab bar. Several tabs are visible, including:
+
+- A tab with Telegram icon/title: **“LETS”**
+- **“Financeiro | Mais Saúde”**
+- **“Visão geral | Hostinger”**
+- **“Hostinger VPS Web Termina…”**
+- **“Codex”**
+
+The address bar shows:
+
+- **web.telegram.org/a/#-5276401803**
+
+On the right side of the address bar area there is a blue button labeled:
+
+- **“Instalar”**
+
+There are also typical browser icons such as back/forward arrows, refresh, bookmark/star, extensions/profile icons, and window controls.
+
+---
+
+## Overall Telegram layout
+
+Telegram Web is divided into three main vertical sections:
+
+1. **Left sidebar** — chat list
+2. **Center panel** — current group chat conversation
+3. **Right sidebar** — group information panel
+
+The interface uses a dark gray/black theme with purple Telegram accent colors.
+
+---
+
+## Left sidebar: chat list
+
+At the top-left of Telegram there is a hamburger menu icon, followed by a search field labeled:
+
+- **Search**
+
+Below it is a list of chats. The currently selected chat is highlighted in purple and is titled:
+
+- **LETS**
+
+The selected chat shows:
+
+- A circular black logo avatar with stylized white lettering
+- The group name **“LETS”**
+- A small muted speaker icon beside the name
+- Time: **10:29**
+- Message preview: **“A.N.A: ⚠️ The mode…”**
+
+Other visible chats include:
+
+### “Mel”
+- Avatar appears to be a woman’s photo
+- Muted icon beside the name
+- Time: **10:25**
+- Preview: **“Entendido e registra…”**
+
+### “Shield”
+- Gray circular logo/avatar
+- Muted icon
+- Double-check marks
+- Time: **10:24**
+- Preview: **“▰ quero que você …”**
+
+### “João Vic…”
+- Red/orange circular avatar with initials **JV**
+- A star emoji next to the name
+- Muted icon
+- Time: **10:15**
+- Preview begins with a Telegram link: **“https://t.me/+blpR…”**
+
+### “BotFather”
+- BotFather avatar image
+- Verification check badge
+- Muted icon
+- Date: **Sat**
+- Preview: **“Done! Congr…”**
+- A purple pill-shaped button labeled **“Open”**
+
+### “FinanceiroMS”
+- Purple/blue circular avatar with letter **F**
+- Muted icon
+- Date: **Fri**
+- Preview: **“Ainda não entendi e…”**
+
+### “Arquitetura …”
+- Green circular avatar with letter **A**
+- Muted icon
+- Date: **Mon**
+- Preview: **
+...[truncado pelo live bridge]
+```
