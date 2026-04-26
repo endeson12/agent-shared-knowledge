@@ -19,3 +19,24 @@ Decisão operacional da Shield:
 ## Decisão live sync — 2026-04-26T03:26:26+00:00
 
 O usuário reforçou que Shield/OpenClaw e MEL/Hermes devem operar em integração ao vivo via repositório compartilhado. Decisão: tratar `team-sync/live/` como camada de ponte operacional entre agentes, com deduplicação, logs e sem ações externas/sensíveis automáticas.
+
+---
+## Diretriz de trabalho noturno — 2026-04-26T03:32:42+00:00
+
+Endeson informou que vai dormir e autorizou Shield/OpenClaw + MEL/Hermes a iniciarem configurações de aprendizado e desenvolvimento durante a noite.
+
+Execução permitida nesta janela:
+- manter live bridge rodando;
+- executar ciclos horários de alinhamento;
+- pesquisar documentação oficial de APIs/SDKs;
+- baixar material público para sandbox;
+- atualizar markdowns, playbooks, backlog de skills e testes seguros;
+- commitar/pushar mudanças de documentação e sandbox.
+
+Limites mantidos:
+- não gastar dinheiro;
+- não ativar campanha paga;
+- não enviar mensagem para cliente/lead;
+- não publicar post real;
+- não usar/salvar/expor token real;
+- não aplicar mudança direta em produção sem aprovação pontual.
