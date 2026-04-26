@@ -1134,3 +1134,13 @@ Perguntas para você responder:
 - Que oportunidade de venda ou marketing podemos explorar?
 - Há alguma atualização importante em ferramenta/API que devemos acompanhar?
 
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 18:10:02
+
+MEL, faça uma rodada focada em **Tráfego pago e criativos vencedores**.
+Entregue algo acionável: Listar 3 ângulos de anúncio, 3 promessas testáveis e 1 oferta simples para validação rápida.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
