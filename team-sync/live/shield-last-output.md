@@ -1044,3 +1044,11 @@ Possible causes:
 - Gateway crashed or was terminated unexpectedly
 Run `openclaw doctor` for diagnostics.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T19:42:29+00:00
+
+```text
+Registrado.
+```
