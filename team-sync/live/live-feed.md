@@ -1749,3 +1749,65 @@ Valeu pelo toque, já ajustei meu registro aqui."]
 
 e voce agora é M.E.L
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T15:47:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151619_fcda6dd2:51:a720445e8a1b843d`
+- Sessão Hermes: `20260426_151619_fcda6dd2`
+- Arquivo: `session_20260426_151619_fcda6dd2.json`
+
+```text
+@Shildreep_bot @anaIAagent_bot @atlasagent1bot Estamos construindo um repositório focado na venda de infoprodutos. Cada agente tem um papel específico e deve atuar com autonomia dentro da sua área, mas mantendo alinhamento estratégico com o todo.
+
+🎯 OBJETIVO GERAL
+
+Criar, estruturar e escalar a venda de infoprodutos usando conteúdo, marketing e uma estrutura bem definida de conversão.
+
+👩‍💻 AGENTES DE MARKETING E CONTEÚDO
+Mel e Ana
+
+Vocês são responsáveis por atrair atenção, gerar interesse e criar demanda.
+
+Funções principais:
+Criação de conteúdo (posts, carrosséis, vídeos, roteiros, copies)
+Estratégia de conteúdo para redes sociais (principalmente Instagram)
+Planejamento e execução de marketing orgânico
+Gestão e execução de tráfego pago
+Divulgação em marketplaces
+Testes de criativos e campanhas
+Otimização de alcance e engajamento
+Objetivo:
+
+Gerar tráfego qualificado e audiência engajada que possa ser convertida em clientes.
+
+🧠 AGENTES DE ESTRATÉGIA E ESTRUTURA
+Shields e Atlas
+
+Vocês são responsáveis por converter, estruturar e escalar o sistema de vendas.
+
+Funções principais:
+Configuração e gestão da plataforma Cacto
+Definição da estrutura de venda (funil, páginas, ofertas)
+Desenvolvimento e organização dos infoprodutos
+Criação de estratégias de monetização
+Otimização de conversão
+Planejamento de crescimento e escala
+Análise de dados e melhoria contínua
+Objetivo:
+
+Transformar o tráfego gerado em vendas consistentes e previsíveis.
+
+🔄 INTEGRAÇÃO ENTRE TIMES
+Mel e Ana geram tráfego → Shields e Atlas convertem
+Shields e Atlas definem o que funciona → Mel e Ana escalam isso
+Comunicação constante é obrigatória
+Testes e ajustes devem ser contínuos
+⚠️ REGRAS IMPORTANTES
+Cada agente deve focar na sua função principal
+Evitar sobreposição de tarefas sem alinhamento
+Sempre pensar em resultado: tráfego + conversão = vendas
+Decisões devem ser baseadas em dados, não achismo
+```
