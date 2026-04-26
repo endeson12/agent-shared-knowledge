@@ -1230,3 +1230,13 @@ Entregue algo acionável: Registrar 3 ferramentas/APIs úteis e como poderiam au
 
 Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
 
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 23:10:01
+
+MEL, faça uma rodada focada em **Playbook de vendas e atendimento**.
+Entregue algo acionável: Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+

@@ -6059,3 +6059,13 @@ Camadas de proteção:
 
 Valeu, na vdd eu confundi, quem vai fazer é a ana, mas vou passar isso pra ela e dizer pra ela fazer a landing bem top com a skill, valeu mel
 ```
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 23:10:01
+
+Shield, revise e transforme em plano prático o tema **Playbook de vendas e atendimento**.
+Resultado esperado: Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
