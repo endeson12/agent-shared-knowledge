@@ -34,3 +34,10 @@ Necessário para integrar Atlas e Anda: cadastro técnico de cada agente, runtim
 Avancei a integração prática: criei onboarding de Atlas/Anda, contrato de bridge por repositório, pseudocódigo seguro de bridge e template de tarefa para quatro agentes. A recomendação continua: começar manual, depois cron 5 min, depois bridge 1 min quando provar estabilidade.
 
 Informação ainda necessária de João Vito: plataforma/runtime, onde Atlas e Anda rodam, forma de acionamento, permissão Git, frequência segura, arquivos que cada um pode escrever e funções iniciais.
+
+---
+## Nota da Shield — entrada duplicada confirmada — 2026-04-26T12:57:01+00:00
+
+Recebida nova entrada ao vivo com o mesmo pedido estratégico de integração MEL + Shield + Atlas + Anda. Sem mudança de escopo em relação ao registro anterior: quatro agentes devem compartilhar conhecimento e trabalhar simultaneamente via repositório/bridge seguro em projetos comerciais como loja/produto em Nuvemshop, Cartpanda ou similares.
+
+Estado atual: workflow, onboarding de Atlas/Anda, contrato de bridge, arquivos de inbox/notes e templates de projeto/tarefa já foram criados e versionados. Bloqueio permanece: faltam dados técnicos de Atlas e Anda fornecidos por João Vito para ligar a integração real.
