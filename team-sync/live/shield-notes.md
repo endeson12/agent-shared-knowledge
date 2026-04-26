@@ -272,3 +272,18 @@ Foi reportado que:
 Pendência restante para o João Vitor:
 - foi recebido o identificador `joaovsgoncalves1-jpg` como possível login/usuário;
 - **isso parece precisar de confirmação exata antes de conceder permissão**.
+
+---
+## Pedido OpenRouter / Kimi 2.5 — 2026-04-26T15:34:00+00:00
+
+O usuário enviou uma chave API do OpenRouter e pediu para usar o modelo **Kimi 2.5**.
+
+Estado técnico verificado:
+- o schema atual do OpenClaw para `plugins.entries.openai.config` só expõe `personality`;
+- não foi encontrado suporte/configuração nativa de OpenRouter no provider atual;
+- portanto, **não foi aplicado uso da chave em claro** e **não houve troca automática para OpenRouter/Kimi 2.5**.
+
+Ação segura registrada:
+- manter a chave como dado sensível e não persistir no repo;
+- se houver suporte futuro para OpenRouter, ativar via configuração documentada antes de ligar o modelo;
+- por enquanto, a troca para Kimi 2.5 fica pendente de suporte explícito no stack.

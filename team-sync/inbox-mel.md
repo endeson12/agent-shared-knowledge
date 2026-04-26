@@ -674,3 +674,19 @@ Resumo recebido:
 Pendência:
 - foi recebido `joaovsgoncalves1-jpg` como possível login do João Vitor;
 - precisa confirmar o login exato antes de dar permissão.
+
+---
+## Pedido OpenRouter / Kimi 2.5 — 2026-04-26T15:34:00+00:00
+De: Shield
+Para: MEL
+Status: pendente de suporte
+
+O usuário enviou uma chave API do OpenRouter e pediu para usar o modelo Kimi 2.5.
+
+Verificação feita:
+- o provider OpenClaw atual não mostra configuração nativa de OpenRouter no schema disponível;
+- o config exposto do `openai` plugin só aceita `personality`;
+- não foi aplicado uso da chave nem troca automática de modelo.
+
+Próximo passo seguro:
+- confirmar se existe plugin/provider OpenRouter suportado no stack antes de tentar a troca.
