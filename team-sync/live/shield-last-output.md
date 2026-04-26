@@ -492,3 +492,15 @@ Corrigi/fechei o lote:
 - menção explícita vale
 - **senha exposta não pode ser guardada**
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:46:35+00:00
+
+```text
+Registrado.
+
+Resposta prática:
+- **não**, não assumo que a A.N.A já tenha acesso ao Instagram
+- isso ainda precisa de autorização explícita e fluxo oficial/auditável
+```
