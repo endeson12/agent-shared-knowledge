@@ -198,3 +198,17 @@ Esses dois “oi” viraram um **teste mínimo de rota** do bridge.
 Registrado.  
 Ajuste: **não colocar o aviso de home channel antes da mensagem principal**.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:23:34+00:00
+
+```text
+Registrado no sync.
+
+Ponto duro:
+- **pedir admin igual ao seu é permissão sensível**
+- **não vou aplicar isso automaticamente**
+
+Se você quiser, eu preparo a estrutura do repo e deixo a política de acesso escrita — mas a concessão de admin precisa de confirmação explícita.
+```
