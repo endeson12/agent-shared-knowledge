@@ -678,3 +678,16 @@ Resumo:
 - sem exposição em código/logs
 - Atlas/Shield podem usar no checkout
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:28:33+00:00
+
+```text
+Registrado como **status informado**, não como verificação completa.
+
+Resumo:
+- Cakto tratado como configurado no fluxo
+- secrets reportadas em GitHub Secrets
+- ainda precisa validar deploy/pipeline antes de encerrar de vez
+```
