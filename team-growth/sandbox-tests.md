@@ -106,3 +106,9 @@ Criar um script local mínimo que não usa token real e apenas valida estrutura 
 ## Teste sandbox sugerido — 2026-04-26 19:20:02 — Google Ads API
 
 Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
+
+---
+
+## Teste sandbox sugerido — 2026-04-26 20:20:02 — WhatsApp Business Platform
+
+Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
