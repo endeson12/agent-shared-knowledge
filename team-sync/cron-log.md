@@ -78,3 +78,4 @@ Registro das execuções automáticas.
 - 2026-04-26 20:20:02 — Pesquisa ativa de crescimento executada: WhatsApp Business Platform.
 - 2026-04-26 20:30:03 — MEL executou sync-loop e enviou atualização para Shield.
 - 2026-04-26 21:10:02 — Sprint comercial horário executado: Conteúdo orgânico: Reels, Shorts, carrosséis e posts.
+- 2026-04-26 21:20:01 — Pesquisa ativa de crescimento executada: Shopify Admin API.
