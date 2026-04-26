@@ -237,3 +237,16 @@ O pedido ficou **ambíguo**:
 
 Também anotei a parte da VPS/GitHub como ação de infraestrutura pendente de confirmação.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:27:35+00:00
+
+```text
+Registrado.
+
+Regra nova:
+- **cada agente faz a própria tarefa**
+- **os outros não assumem**
+- no LETS, **Shield só responde quando marcada diretamente**
+```
