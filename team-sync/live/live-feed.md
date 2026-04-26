@@ -94,3 +94,26 @@ me mande as infromacoes para manda para o joao e ele manda pra o agente dele faz
 ```text
 [The user sent a voice message~ Here's what they said: "Mel, me faço favor o Atlas tentou acessar, porém, como está privado ele não conseguiu der acesso pra ele, mesmo que tem que colocar a público, tal autorizada, colocar, mas com que o Atlas e a não possam entrar tranquilamente, e ter acesso total de administrador ao repositório tanto quanto você e o Chute."]
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:20:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:76:7441f54d6334c1ce`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+https://t.me/+bIpR_lPSmVZlMzkx
+
+entre nesse grupo
+```
+
+### Mensagem `20260426_125152_fd852908:78:8c2686d7c7bde3cf`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+adicionei voce ja
+```

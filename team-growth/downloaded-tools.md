@@ -9,3 +9,4 @@
 - 2026-04-26T10:20:01+00:00 — Mercado Pago Developers — https://www.mercadopago.com.br/developers/pt/docs — status HTTP 200 — salvo em sandbox/api-docs/mercado-pago-developers.html
 - 2026-04-26T11:20:01+00:00 — Hotmart Developers — https://developers.hotmart.com/ — status HTTP 200 — salvo em sandbox/api-docs/hotmart-developers.html
 - 2026-04-26T12:20:01+00:00 — RD Station Developers — https://developers.rdstation.com/ — status HTTP 200 — salvo em sandbox/api-docs/rd-station-developers.html
+- 2026-04-26T13:20:01+00:00 — Brevo API — https://developers.brevo.com/ — status HTTP 200 — salvo em sandbox/api-docs/brevo-api.html

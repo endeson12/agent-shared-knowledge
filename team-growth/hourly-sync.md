@@ -631,3 +631,11 @@ Não ativar campanhas pagas.
 Não publicar nada automaticamente.
 Não prometer dinheiro rápido sem validação real.
 
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 13:20:01
+
+Fonte estudada: **Brevo API**
+Link: https://developers.brevo.com/
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.
