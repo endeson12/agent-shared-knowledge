@@ -387,3 +387,15 @@ Pontos-chave:
 - handoff obrigatório
 - **não assumir GitHub “pra tudo”**: permissão precisa ser explícita por agente/escopo
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:02:28+00:00
+
+```text
+Registrado.
+
+Regra prática:
+- **admin no repo ≠ push irrestrito pra todos os agentes**
+- continua valendo **sequência + handoff + escopo por agente**
+```
