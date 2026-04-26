@@ -532,3 +532,14 @@ Regra operacional registrada:
   3. ativar 2FA;
   4. mover credenciais para um cofre/secret manager ou fluxo privado seguro;
   5. nunca reutilizar a senha exposta.
+
+---
+## Regra de autonomia e separação de mensagens — 2026-04-26T16:43:00+00:00
+
+Áudio transcrito do usuário: o time deve operar de forma autônoma e separada.
+
+Regra operacional:
+- cada agente recebe a informação mas só responde se a mensagem for para ele;
+- não misturar funções entre agentes;
+- só integrar os agentes quando o usuário disser explicitamente;
+- manter separação de fluxo: cada pessoa/agente responde ao que lhe foi endereçado.

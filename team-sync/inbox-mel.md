@@ -899,3 +899,14 @@ Regra:
 - rotacionar a senha imediatamente;
 - ativar 2FA;
 - mover credenciais para cofre/fluxo privado seguro.
+
+---
+## Regra de autonomia e separação de mensagens — 2026-04-26T16:43:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário reforçou por áudio:
+- cada agente responde só ao que é dele;
+- não misturar informações/funções;
+- integração só quando ele pedir explicitamente.
