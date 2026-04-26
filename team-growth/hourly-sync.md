@@ -731,3 +731,11 @@ Não ativar campanhas pagas.
 Não publicar nada automaticamente.
 Não prometer dinheiro rápido sem validação real.
 
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 15:20:02
+
+Fonte estudada: **Google Sheets API**
+Link: https://developers.google.com/sheets/api/guides/concepts
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.

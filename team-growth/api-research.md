@@ -743,3 +743,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 15:20:02 — Google Sheets API
+
+- URL: https://developers.google.com/sheets/api/guides/concepts
+- Categoria: sdk-research.md
+- Propósito: Base simples para CRM, relatórios, funil e operações.
+- Sandbox: sandbox/api-docs/google-sheets-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
