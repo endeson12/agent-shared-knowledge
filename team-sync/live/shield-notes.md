@@ -27,3 +27,10 @@ Entrada ao vivo recebida via Hermes/MEL: Endeson quer que MEL, Shield, Atlas e A
 Decisão operacional registrada: `/root/agent-shared-knowledge` deve funcionar como barramento compartilhado de coordenação. O desenho recomendado é começar com Git + arquivos padronizados + bridge/cron seguro, sem tokens reais, sem gasto, sem publicação e sem mensagens externas automáticas.
 
 Necessário para integrar Atlas e Anda: cadastro técnico de cada agente, runtime/plataforma, onde roda, como acionar, permissões Git, limites de segurança, arquivos que pode escrever, frequência de sincronização e papel inicial desejado.
+
+---
+## Nota da Shield — kit prático Atlas/Anda — 2026-04-26T12:56:00+00:00
+
+Avancei a integração prática: criei onboarding de Atlas/Anda, contrato de bridge por repositório, pseudocódigo seguro de bridge e template de tarefa para quatro agentes. A recomendação continua: começar manual, depois cron 5 min, depois bridge 1 min quando provar estabilidade.
+
+Informação ainda necessária de João Vito: plataforma/runtime, onde Atlas e Anda rodam, forma de acionamento, permissão Git, frequência segura, arquivos que cada um pode escrever e funções iniciais.
