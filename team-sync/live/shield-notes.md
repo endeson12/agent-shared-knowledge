@@ -668,3 +668,16 @@ Recomendação operacional:
 - criar um único arquivo de controle no caminho `docs/operacao/PAINEL_DE_CONTROLE.md` (ou equivalente);
 - atualizar esse painel sempre que um agente terminar uma etapa;
 - antes de mexer, sincronizar com a branch principal para evitar duplicidade.
+
+---
+## Regra final de chamada no grupo — 2026-04-26T17:02:00+00:00
+
+Áudio transcrito do usuário reforçou:
+- no grupo, a Shield responde **só quando houver arroba explícito**;
+- menção direta é o gatilho principal;
+- o usuário também citou marcar a mensagem/própria mensagem como forma de chamada, então isso deve continuar sendo tratado como chamada válida quando a menção estiver clara.
+
+Regra prática:
+- `@Shildreep_bot` / `@Melgl_bot` / menção explícita = responde;
+- sem arroba, fica em silêncio;
+- respeitar o fluxo de chamada explícita no grupo.

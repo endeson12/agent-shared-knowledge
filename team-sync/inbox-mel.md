@@ -1014,3 +1014,14 @@ Sugestão aceita:
 - criar um painel único no repo para estado atual, agente ativo, última ação por agente, último handoff, próximo agente, bloqueios e decisões pendentes;
 - atualizar o painel a cada término de etapa;
 - sincronizar com a branch principal antes de continuar.
+
+---
+## Regra final de chamada no grupo — 2026-04-26T17:02:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário reforçou por áudio:
+- no grupo, a Shield responde só quando houver arroba explícito;
+- menção direta é o gatilho principal;
+- menção clara na mensagem/reply continua válida como chamada.
