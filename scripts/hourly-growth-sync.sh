@@ -4,10 +4,31 @@ set -euo pipefail
 REPO="$HOME/agent-shared-knowledge"
 cd "$REPO"
 
+# Sincronização tolerante: não travar a rotina se rede/Git remoto estiverem temporariamente indisponíveis.
 git pull --rebase || true
 
 NOW="$(date '+%Y-%m-%d %H:%M:%S')"
-ISO_NOW="$(date -Is)"
+ISO_NOW="$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+
+mkdir -p team-growth sandbox/downloaded-repos sandbox/api-docs sandbox/sdk-tests sandbox/skill-tests
+
+touch team-growth/hourly-sync.md \
+  team-growth/marketing-research.md \
+  team-growth/paid-traffic.md \
+  team-growth/organic-traffic.md \
+  team-growth/infoproducts.md \
+  team-growth/dropshipping.md \
+  team-growth/winning-products.md \
+  team-growth/fast-selling-products.md \
+  team-growth/campaign-ideas.md \
+  team-growth/content-ideas.md \
+  team-growth/api-research.md \
+  team-growth/sdk-research.md \
+  team-growth/skill-backlog.md \
+  team-growth/downloaded-tools.md \
+  team-growth/sandbox-tests.md \
+  team-growth/risks.md \
+  team-growth/decisions.md
 
 cat >> team-growth/hourly-sync.md <<EOM
 
@@ -17,7 +38,7 @@ cat >> team-growth/hourly-sync.md <<EOM
 
 ## Missão da hora
 
-Shield/OpenClaw e Mel/Hermes devem evoluir conhecimento em:
+Shield e MEL devem evoluir conhecimento em:
 
 - vendas
 - marketing digital
@@ -45,7 +66,8 @@ Shield/OpenClaw e Mel/Hermes devem evoluir conhecimento em:
 
 ## Regra
 
-Registrar descobertas no repositório. Baixar apenas documentação, SDKs oficiais e repositórios públicos para sandbox.
+Registrar descobertas no repositório.
+Baixar apenas documentação, SDKs oficiais e repositórios para sandbox.
 Não usar tokens reais em testes.
 Não ativar campanhas pagas.
 Não publicar nada automaticamente.
@@ -117,42 +139,90 @@ Propor skills para:
 - pesquisador de concorrentes permitido
 EOM
 
+cat >> team-growth/marketing-research.md <<EOM
+
+---
+
+## Radar de marketing — $NOW
+
+Foco deste ciclo:
+- mapear oportunidades de retorno rápido sem prometer ganho;
+- priorizar ofertas com dor clara, ticket validável e criativos testáveis;
+- separar hipótese de fato comprovado;
+- registrar fontes e próximos testes em sandbox.
+EOM
+
+cat >> team-growth/paid-traffic.md <<EOM
+
+---
+
+## Tráfego pago — $NOW
+
+Hipóteses seguras para estudo:
+- campanhas de mensagens no WhatsApp Business com aprovação humana;
+- remarketing somente com consentimento e pixel configurado corretamente;
+- testes A/B de criativos antes de escalar orçamento;
+- checklist de política Meta/TikTok/Google antes de qualquer publicação.
+EOM
+
+cat >> team-growth/organic-traffic.md <<EOM
+
+---
+
+## Tráfego orgânico — $NOW
+
+Ideias de canais:
+- Reels/TikTok com demonstração de produto;
+- carrossel educativo para dor + solução;
+- prova social ética;
+- conteúdo de comparação e checklist;
+- WhatsApp Business com opt-in, sem spam.
+EOM
+
+cat >> team-growth/campaign-ideas.md <<EOM
+
+---
+
+## Ideias de campanha — $NOW
+
+Modelos a desenvolver:
+- Problema → demonstração → oferta → chamada para WhatsApp.
+- Antes/depois permitido e comprovável, sem promessa enganosa.
+- Criativo UGC com teste de 3 ganchos nos primeiros 3 segundos.
+- Página simples com oferta, prova, FAQ e garantia clara.
+EOM
+
 cat >> team-growth/risks.md <<EOM
 
 ---
 
-## Regras de segurança/autonomia — $NOW
+## Riscos — $NOW
 
-Permitido automaticamente:
-- pesquisar ferramentas, APIs, SDKs, skills e documentação oficial;
-- baixar repositórios públicos apenas para sandbox;
-- criar skills experimentais locais;
-- atualizar markdowns e propostas;
-- criar scripts de teste sem tokens reais.
-
-Proibido automaticamente:
-- gastar dinheiro;
-- ativar campanha paga;
-- publicar posts reais;
-- enviar mensagens para leads/clientes;
-- expor tokens;
-- instalar pacotes suspeitos fora de sandbox;
-- rodar código remoto desconhecido em produção;
-- alterar DNS, bancos ou serviços críticos;
-- spam, scraping proibido ou bypass de regras;
-- prometer dinheiro rápido sem validação.
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
 EOM
 
 cat >> team-growth/decisions.md <<EOM
-- $NOW — Ciclo horário executado. Repositório atualizado para evolução autônoma segura de Shield/OpenClaw e Mel/Hermes.
+- $ISO_NOW — Ciclo horário executado. Repositório atualizado para evolução autônoma segura de Shield/OpenCloud e MEL/Hermes em marketing digital.
 EOM
 
-cat >> team-sync/cron-log.md <<EOM
-- $NOW — team-growth hourly sync executado.
-EOM
+if [ -x ./scripts/scan-secrets.sh ]; then
+  ./scripts/scan-secrets.sh || exit 1
+else
+  echo "ERRO: scripts/scan-secrets.sh não encontrado ou não executável." >&2
+  exit 1
+fi
 
-./scripts/scan-secrets.sh || exit 1
-
-git add .
-git commit -m "Hourly growth sync - $NOW" || true
+git add team-growth sandbox scripts/hourly-growth-sync.sh scripts/scan-secrets.sh
+if git diff --cached --quiet; then
+  echo "Nada novo para commitar em $NOW"
+else
+  git commit -m "Hourly growth sync - $NOW" || true
+fi
 git push || true

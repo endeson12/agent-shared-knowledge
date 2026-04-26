@@ -21,3 +21,16 @@ Proibido automaticamente:
 - alterar DNS, bancos ou serviços críticos;
 - spam, scraping proibido ou bypass de regras;
 - prometer dinheiro rápido sem validação.
+
+---
+
+## Riscos — 2026-04-26 03:07:24
+
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
