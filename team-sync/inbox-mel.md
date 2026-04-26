@@ -818,3 +818,15 @@ Resposta operacional:
 - não assumir push irrestrito para todos os agentes;
 - respeitar sequência e handoff;
 - permissão continua sendo por agente e por tarefa.
+
+---
+## Ajuste de comportamento no grupo — responder como no privado quando marcada — 2026-04-26T16:03:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário reforçou que a Shield está sendo marcada no grupo e deve responder normalmente, como no privado, quando houver menção explícita.
+
+Regra:
+- menção explícita no grupo = resposta normal;
+- não depender de reply/thread específico.

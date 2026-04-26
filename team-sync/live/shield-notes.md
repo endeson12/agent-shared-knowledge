@@ -453,3 +453,13 @@ Registro operacional:
 - **admin no repositório não deve ser tratado como permissão automática e irrestrita para todos os agentes**;
 - commit/push precisa respeitar o fluxo em sequência e o escopo do handoff;
 - permissões devem continuar sendo tratadas por agente e por tarefa.
+
+---
+## Ajuste de comportamento no grupo — responder como no privado quando marcada — 2026-04-26T16:03:00+00:00
+
+O usuário reforçou que a Shield está sendo marcada no grupo e deve responder normalmente, **como no privado**, quando houver menção explícita.
+
+Regra operacional atualizada:
+- menção explícita no grupo = resposta normal da Shield;
+- não depender de reply/thread específico para ativar a resposta;
+- manter a configuração de grupo ajustada para detectar menções de forma confiável.
