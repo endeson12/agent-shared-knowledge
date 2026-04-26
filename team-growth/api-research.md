@@ -1087,3 +1087,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 22:20:01 — WooCommerce REST API
+
+- URL: https://woocommerce.github.io/woocommerce-rest-api-docs/
+- Categoria: dropshipping.md
+- Propósito: Produtos, pedidos, cupons e automações para lojas WordPress.
+- Sandbox: sandbox/api-docs/woocommerce-rest-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.

@@ -1081,3 +1081,11 @@ Não ativar campanhas pagas.
 Não publicar nada automaticamente.
 Não prometer dinheiro rápido sem validação real.
 
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 22:20:01
+
+Fonte estudada: **WooCommerce REST API**
+Link: https://woocommerce.github.io/woocommerce-rest-api-docs/
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.
