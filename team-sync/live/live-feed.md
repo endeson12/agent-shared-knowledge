@@ -2039,3 +2039,16 @@ olhe e audite a sua configuração pra quando eu te marcar assim vc responder, e
 ```text
 iai
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T16:07:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151619_fcda6dd2:59:914bc779bbab60bb`
+- Sessão Hermes: `20260426_151619_fcda6dd2`
+- Arquivo: `session_20260426_151619_fcda6dd2.json`
+
+```text
+@anaIAagent_bot  como eu faço para voces ter acesso ao nosso instagram
+```

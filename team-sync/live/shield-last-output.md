@@ -424,3 +424,16 @@ Correções:
 - nesta conversa é **Jota**, não Endeson
 - ficou anotado o pedido de **auditoria da configuração de menção** da Shield
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:07:26+00:00
+
+```text
+Registrado.
+
+Regra:
+- acesso ao Instagram é **integração sensível**
+- não usar senha compartilhada sem autorização
+- preferir método oficial/auditável por função e escopo
+```
