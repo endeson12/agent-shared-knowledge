@@ -211,3 +211,15 @@ Regra prática:
 - se o Telegram não tiver home channel definido, evitar começar a entrega com o aviso;
 - priorizar a mensagem útil primeiro;
 - deixar o aviso de configuração só quando for realmente necessário e sem atrapalhar o fluxo.
+
+---
+## Novo repositório compartilhado — “Pequenos com Deus” — 2026-04-26T15:23:00+00:00
+
+Pedido recebido: criar um repositório compartilhado chamado **Pequenos com Deus** para Shield, MEL, Atlas e Ana.
+
+Pedido adicional: dar a todos os quatro **permissões de administrador iguais às do usuário**.
+
+Status:
+- registrar o pedido no sync;
+- **não executar concessão de admin automaticamente** sem confirmação explícita, porque isso é permissão sensível;
+- se o repositório ainda não existir, alinhar nome/URL/owner antes de criar.
