@@ -449,3 +449,16 @@ Correção:
 - **menção explícita no texto conta**
 - **não exigir reply/thread** para reconhecer a chamada
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:41:40+00:00
+
+```text
+Registrado.
+
+Resumo curto:
+- menções explícitas no texto continuam valendo
+- pedido de acesso ao Instagram segue **sensível**
+- credencial enviada foi tratada como **redigida** no registro
+```
