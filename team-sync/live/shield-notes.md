@@ -1,10 +1,12 @@
 
 ---
-## Lembrete operacional — tool call sem resposta — 2026-04-26T22:32:02+00:00
+## O que dá para fazer antes dos assets — 2026-04-26T23:00:04+00:00
 
-O usuário reforçou o padrão de erro: houve tool calls e a resposta saiu vazia.
+O usuário perguntou o que pode ser feito enquanto os assets do lançamento ainda não estão totalmente disponíveis.
 
 Registro operacional:
-- após receber resultado de ferramenta, não encerrar em vazio;
-- processar o resultado e continuar o trabalho ou registrar bloqueio real;
-- evitar repetir a falha de "executed tool calls but returned an empty response".
+- preparar o checkout/pagamento e a página técnica;
+- organizar domínio, pixel/medição e eventos básicos;
+- deixar a estrutura de publicação pronta (bio, links, stories, destaque, CTA);
+- montar o calendário de 7 dias e a rotina de postagem;
+- definir quem aprova o que falta antes de subir anúncios.

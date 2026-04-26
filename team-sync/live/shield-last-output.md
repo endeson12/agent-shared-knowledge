@@ -1124,3 +1124,19 @@ Registrado.
 ```text
 Registrado.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T23:00:48+00:00
+
+```text
+Registrado. Enquanto isso, já dá pra avançar em:
+
+- checkout/pagamento
+- domínio/medição
+- estrutura de publicação
+- calendário de 7 dias
+- rotina de aprovação do que falta
+
+Se quiser, eu organizo isso em ordem de execução.
+```
