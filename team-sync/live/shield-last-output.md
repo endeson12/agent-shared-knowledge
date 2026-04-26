@@ -691,3 +691,13 @@ Resumo:
 - secrets reportadas em GitHub Secrets
 - ainda precisa validar deploy/pipeline antes de encerrar de vez
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:30:56+00:00
+
+```text
+Entendido. Não vamos revogar o Cakto.
+
+Vamos manter o fluxo sob controle do time e usar só no caminho autorizado, sem expor credenciais.
+```
