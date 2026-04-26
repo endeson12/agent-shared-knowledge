@@ -748,3 +748,104 @@ Below it are multiple chats with avatars and truncated previews:
 ```text
 ENTAO SE EU MARCA VOCE LA VOCE VAI ME RESPONDER POR LA?
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:53:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_134808_259c9635:10:f630112f91be1353`
+- Sessão Hermes: `20260426_134808_259c9635`
+- Arquivo: `session_20260426_134808_259c9635.json`
+
+```text
+[The user sent an image~ Here's what I can see:
+The image is a widescreen screenshot of a desktop browser showing **Telegram Web** in dark mode. The interface is open to a group chat named **“LETS”**.
+
+At the very top, a dark browser tab bar is visible with several open tabs. The active page URL in the address bar is:
+
+**web.telegram.org/a/#-5276401803**
+
+Visible browser tabs include titles such as:
+
+- **LETS**
+- **Financeiro | Mais Saú...**
+- **Visão geral | Hosting...**
+- **Hostinger VPS Web...**
+- **Codex**
+- **tradutor de inglês - P...**
+
+The browser uses a dark theme. On the right side of the toolbar there are standard browser icons such as extensions/profile/menu controls, and the window controls are in the top-right corner.
+
+---
+
+## Telegram layout
+
+The Telegram Web interface is split into two main columns:
+
+1. **Left sidebar** with chats and search.
+2. **Main chat area** on the right showing the selected group conversation.
+
+The whole Telegram UI is dark-themed, with black/dark gray backgrounds and purple accents.
+
+---
+
+## Left sidebar
+
+At the top-left of Telegram there is a hamburger menu icon, followed by a rounded search field labeled:
+
+**Search**
+
+Below it is the chat list. The selected chat is highlighted in purple.
+
+### Selected chat
+
+The selected chat is:
+
+**LETS**
+
+It has a circular black avatar with a small white stylized logo or lettering. Under the chat name, the preview text reads:
+
+**You: @MelqI_bot ES...**
+
+The time shown for this chat is:
+
+**10:51**
+
+There are small icons next to the name, including what appears to be a muted speaker icon.
+
+---
+
+### Other visible chats in the sidebar
+
+Below the selected chat are several other conversations:
+
+#### Shield
+- Name: **Shield**
+- Preview: **Fechado. Corrig...**
+- Time: **10:51**
+- There is a gray unread badge with **1**
+- Avatar: gray/black circular emblem resembling crossed shapes or a shield-like symbol.
+- A muted icon is visible near the name.
+
+#### Mel
+- Name: **Mel**
+- Preview: **Sim. Se você me m...**
+- Time: **10:50**
+- Avatar: a photo of a woman with warm brown/orange tones.
+- Muted icon appears near the name.
+
+#### User Inf...
+- Name begins: **User Inf...**
+- Preview: **Id: 6152993942 Firs...**
+- Time: **10:37**
+- Avatar: green circular face/icon with “ID” style lettering.
+- There is a small blue/purple icon next to the name and a muted icon.
+
+#### João Vic...
+- Name begins: **João Vic...**
+- Preview: **https://t.me/+bIpR_I...**
+- Time: **10:15**
+- Avatar: red/orange circle with l
+...[truncado pelo live bridge]
+```
