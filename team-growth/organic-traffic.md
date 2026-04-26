@@ -35,3 +35,14 @@ Ideias de canais:
 - Riscos: custos, limites de uso, políticas da plataforma, privacidade, LGPD, tokens e ações externas.
 - Próximo teste seguro: criar exemplo em sandbox usando dados fake e arquivo .env.example, sem token real.
 - Observação: Baixado para análise em sandbox. Revisar documentação oficial, autenticação, permissões, limites, custos, webhooks e riscos antes de qualquer uso real.
+
+---
+
+## Tráfego orgânico — 2026-04-26 04:00:03
+
+Ideias de canais:
+- Reels/TikTok com demonstração de produto;
+- carrossel educativo para dor + solução;
+- prova social ética;
+- conteúdo de comparação e checklist;
+- WhatsApp Business com opt-in, sem spam.
