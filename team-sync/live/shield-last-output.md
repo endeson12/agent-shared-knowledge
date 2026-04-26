@@ -701,3 +701,11 @@ Entendido. Não vamos revogar o Cakto.
 
 Vamos manter o fluxo sob controle do time e usar só no caminho autorizado, sem expor credenciais.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:36:29+00:00
+
+```text
+{"detail":"The 'gpt-5.2-codex' model is not supported when using Codex with a ChatGPT account."}
+```
