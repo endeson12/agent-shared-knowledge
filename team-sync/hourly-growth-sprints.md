@@ -100,3 +100,20 @@
 - Registrar ferramentas em tool-watchlist.md ou api-watchlist.md.
 - Registrar campanhas/conteúdos em campaign-ideas.md e content-ideas.md.
 
+
+---
+
+## Sprint comercial — 2026-04-26 08:10:02
+
+**Tema:** Sites, landing pages e funis simples
+
+**Resultado esperado:** Propor 1 estrutura de página, 1 fluxo de captura e 1 automação de follow-up.
+
+**Regras:**
+- Priorizar ações práticas que geram retorno rápido, sem prometer milagre.
+- Separar ideias em: executar agora, testar amanhã, estudar depois.
+- Não instalar ferramenta paga, não publicar nada e não usar credenciais sem aprovação.
+- Registrar oportunidades concretas em opportunities.md.
+- Registrar ferramentas em tool-watchlist.md ou api-watchlist.md.
+- Registrar campanhas/conteúdos em campaign-ideas.md e content-ideas.md.
+
