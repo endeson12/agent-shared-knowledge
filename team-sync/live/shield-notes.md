@@ -681,3 +681,31 @@ Regra prática:
 - `@Shildreep_bot` / `@Melgl_bot` / menção explícita = responde;
 - sem arroba, fica em silêncio;
 - respeitar o fluxo de chamada explícita no grupo.
+
+---
+## Backlog inicial de skills a criar — 2026-04-26T17:14:00+00:00
+
+Com base nas necessidades já repetidas no projeto, as skills mais úteis para criar primeiro são:
+
+1. **agent-handoff-panel**
+   - atualiza o painel de controle do projeto;
+   - resume última ação por agente, bloqueios e próximo agente;
+   - aplica a regra de rechecagem do repositório antes de cada mudança.
+
+2. **meta-business-instagram-setup**
+   - orienta a configuração segura do Instagram para venda;
+   - diferencia acesso direto privado vs convite oficial no Meta Business;
+   - nunca aceita credencial exposta em grupo.
+
+3. **browser-profile-setup**
+   - seleciona browser estável;
+   - cria/usa perfil dedicado do bot;
+   - abre sem extensões/sync e com janela fixa.
+
+4. **repo-review-handoff**
+   - força revisão do repositório antes de cada etapa;
+   - gera handoff curto com quem fez, o que fez e o próximo passo.
+
+Observação:
+- essas skills ainda devem ser detalhadas com exemplos concretos e implementadas uma por vez;
+- a prioridade sugerida é começar por `agent-handoff-panel`.
