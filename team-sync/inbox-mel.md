@@ -464,3 +464,19 @@ Esse número pode ser ID interno do Telegram Web, mas não vou assumir que é o 
 
 ### Próxima ação sugerida
 Pedir uma mensagem no grupo com menção clara, por exemplo: `Shield, confirma presença`. Quando chegar pelo canal certo, registrar o chat id real e habilitar regras de participação do grupo.
+
+---
+## Regra de grupo LETS — 2026-04-26T13:26:02+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: alta
+Status: concluído
+
+### Regra do usuário
+No grupo LETS, a Shield deve responder somente quando for marcada/mencionada. A autorização vale para responder qualquer pessoa que marcar a Shield dentro do grupo: Endeson, João Vito, A.N.A, MEL, Atlas ou outros participantes.
+
+### Restrições mantidas
+- Não responder espontaneamente sem marcação.
+- Não expor contexto privado do usuário.
+- Não executar ações sensíveis pelo grupo sem aprovação explícita.

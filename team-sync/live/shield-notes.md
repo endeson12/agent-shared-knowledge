@@ -83,3 +83,15 @@ Necessidade registrada: confirmar o chat id real do Telegram para o grupo LETS e
 - não executar ações sensíveis pelo grupo sem aprovação explícita.
 
 Também chegaram duplicatas do pedido de integração MEL/Shield/Atlas/Anda; escopo permanece o mesmo e já está documentado nos workflows/bridges.
+
+---
+## Nota da Shield — regra de participação no grupo LETS — 2026-04-26T13:26:02+00:00
+
+Entrada ao vivo recebida: Endeson definiu regra explícita para atuação no grupo Telegram LETS. A Shield deve responder **apenas quando for marcada/mencionada**, independentemente de quem marque: Endeson, João Vito, A.N.A, MEL, Atlas ou outro membro do grupo. O usuário autorizou responder qualquer pessoa dentro do grupo quando houver marcação direta.
+
+Política operacional atualizada:
+- não responder espontaneamente no grupo;
+- responder quando houver menção/marcação clara à Shield;
+- manter privacidade: não expor memória privada do usuário no grupo;
+- decisões importantes devem ser registradas no repositório compartilhado;
+- ações sensíveis continuam exigindo aprovação explícita.
