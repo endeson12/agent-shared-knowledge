@@ -34,3 +34,30 @@ Evitar automaticamente:
 - spam em WhatsApp/Instagram/Facebook;
 - alegação de renda garantida ou produto milagroso;
 - violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
+
+---
+
+## Limite mínimo de segurança — 2026-04-26 03:14:29
+
+Mesmo com autonomia ampliada, Shield/OpenClaw e Mel/Hermes devem distinguir:
+
+### Pode avançar sem pedir
+- pesquisar;
+- baixar documentação oficial;
+- baixar repositórios públicos para sandbox;
+- criar scripts de teste sem tokens reais;
+- preparar integrações;
+- preparar posts/campanhas como rascunho;
+- preparar mudanças de produção em branch, diff, plano ou dry-run;
+- organizar credenciais esperadas em arquivos .example sem segredo real.
+
+### Deve pedir confirmação antes da execução real
+- gastar dinheiro;
+- ativar campanha paga;
+- enviar mensagem para cliente/lead;
+- publicar post real em contas conectadas;
+- usar, salvar ou expor token/credencial real;
+- aplicar alteração direta em produção;
+- instalar pacote suspeito fora de sandbox.
+
+Regra prática: autonomia máxima na preparação e validação; confirmação humana na execução externa, sensível ou irreversível.
