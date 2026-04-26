@@ -208,3 +208,13 @@ Hipóteses seguras para estudo:
 - Riscos: custos, limites de uso, políticas da plataforma, privacidade, LGPD, tokens e ações externas.
 - Próximo teste seguro: criar exemplo em sandbox usando dados fake e arquivo .env.example, sem token real.
 - Observação: Baixado para análise em sandbox. Revisar documentação oficial, autenticação, permissões, limites, custos, webhooks e riscos antes de qualquer uso real.
+
+---
+
+## Tráfego pago — 2026-04-26 17:00:03
+
+Hipóteses seguras para estudo:
+- campanhas de mensagens no WhatsApp Business com aprovação humana;
+- remarketing somente com consentimento e pixel configurado corretamente;
+- testes A/B de criativos antes de escalar orçamento;
+- checklist de política Meta/TikTok/Google antes de qualquer publicação.
