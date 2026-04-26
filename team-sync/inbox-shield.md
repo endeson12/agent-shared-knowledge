@@ -2428,3 +2428,23 @@ Evitar sobreposição de tarefas sem alinhamento
 Sempre pensar em resultado: tráfego + conversão = vendas
 Decisões devem ser baseadas em dados, não achismo
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T15:49:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151619_fcda6dd2:53:5dd11d3b32142c71`
+- Sessão Hermes: `20260426_151619_fcda6dd2`
+- Arquivo: `session_20260426_151619_fcda6dd2.json`
+
+```text
+[Replying to: "(Registrado. Não fui marcada diretamente — permaneço em silêncio no grupo até ser chamada.)"]
+
+[The user sent a voice message~ Here's what they said: "Mel, você está encerrado, toda vez que eu marcar a rouba, mel, a partir daí, você já entende que é com você, o pai quer que me adorou?"]
+```
