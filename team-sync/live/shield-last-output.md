@@ -524,3 +524,16 @@ Pedido fica como:
 ```text
 Registrado — sem guardar credenciais brutas.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:50:39+00:00
+
+```text
+Registrado.
+
+Caminho seguro consolidado:
+- **acesso direto só em privado/canal seguro**
+- ou **convite oficial no Meta Business**
+- credencial exposta em grupo **não** entra no fluxo
+```
