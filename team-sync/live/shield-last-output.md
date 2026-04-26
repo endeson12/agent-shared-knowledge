@@ -314,3 +314,15 @@ O time entendeu a função.
 ```text
 Registrado.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:42:29+00:00
+
+```text
+Registrado.
+
+Nome correto:
+- **A.N.A**
+- não “Anda”
+```
