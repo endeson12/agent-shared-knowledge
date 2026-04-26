@@ -1090,3 +1090,21 @@ The conversation header at the top shows the chat name:
 Under it is the st
 ...[truncado pelo live bridge]
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:49:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_134808_259c9635:0:f6ddf237cd4dec7f`
+- Sessão Hermes: `20260426_134808_259c9635`
+- Arquivo: `session_20260426_134808_259c9635.json`
+
+```text
+OI
+```
