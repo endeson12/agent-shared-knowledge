@@ -4,3 +4,7 @@ team-growth/*-runtime.log
 
 # Local backups generated during setup/maintenance
 backups/
+
+# Local live bridge state/runtime
+.live-message-bridge-state.json
+team-sync/live/*-runtime.log

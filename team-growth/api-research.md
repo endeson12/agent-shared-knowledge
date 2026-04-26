@@ -72,3 +72,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 03:21:11 — Meta Marketing API
+
+- URL: https://developers.facebook.com/docs/marketing-apis/
+- Categoria: paid-traffic.md
+- Propósito: Meta Ads, campanhas, públicos, criativos e reporting.
+- Sandbox: sandbox/api-docs/meta-marketing-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.

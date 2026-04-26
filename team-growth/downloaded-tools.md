@@ -1,0 +1,1 @@
+- 2026-04-26T03:21:11+00:00 — Meta Marketing API — https://developers.facebook.com/docs/marketing-apis/ — status HTTP 200 — salvo em sandbox/api-docs/meta-marketing-api.html
