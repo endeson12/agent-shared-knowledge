@@ -3725,3 +3725,176 @@ pare de reponder quando seu arroba nao for sita e a menssagem nao seja explicita
 ```text
 Eu quero que você troque o modelo do OpenClaw na Shield. Quero que você coloque lá a API do OpenRoute. Quero que você coloque o modelo do Kimi 2.6 na AI lá, para que ele já possa usar.
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T18:13:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_143202_18aa6f9e:171:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_143202_18aa6f9e`
+- Arquivo: `session_20260426_143202_18aa6f9e.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
+
+### Mensagem `20260426_181213_6f45b6:0:87f633634cc4b02f`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+oi
+```
+
+### Mensagem `20260426_181213_6f45b6:2:415cdfbc33f26c4f`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+Cola isso no OpenClaw:
+
+“Quero padronizar o browser do bot para navegação estável.
+
+Objetivo:
+
+• usar Chromium ou Chrome Stable
+• perfil dedicado só para o bot
+• janela fixa
+• sem extensões
+• sem misturar com meu perfil pessoal
+
+Tarefas:
+
+1. verifique qual browser está instalado e escolha a opção mais estável.
+2. crie um perfil dedicado para o bot.
+3. configure a abertura sempre com esse perfil.
+4. abra com janela fixa, sem maximizar automático.
+5. desative extensões.
+6. deixe esse browser como padrão para automações do bot.
+7. me devolva o caminho mais simples e seguro para testar.
+
+Regras:
+
+• não usar meu perfil pessoal
+• não sincronizar conta
+• não instalar extensão
+• se Chromium não existir, use a alternativa estável do sistema
+• se houver mais de uma opção, prefira a mais previsível para automação
+
+Quero também o comando final de teste para abrir o browser já no perfil dedicado.”
+
+Resolveu? Reage com 👍 ou 👎 pra eu ir aprendendo.
+
+ver se faz sentido pra gnte
+```
+
+### Mensagem `20260426_181213_6f45b6:4:35a54ba08ecfccad`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu quero que você separe, você da chute, quando eu pedi para a chute fazer uma tarefa, você não vai fazer. Só quando for um equipe, eu especifico que eu sei que eu pedi para você se comunicar ou viver, mas eu ele, nessa parte, eu quero que vocês sejam independentes. Quando eu mando um fazer uma coisa, é ele que vai fazer não. É você, quando eu mando você fazer não é ele que vai fazer. E sempre quando for marcar, lembra disso? Marcado, tire essa internação e sempre que eu você for marcado."]
+```
+
+### Mensagem `20260426_181213_6f45b6:8:b04ec1714969b234`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+[REDACTED_API_KEY]
+
+use essa api do openrouter no modelo kimi 2.5
+```
+
+### Mensagem `20260426_181213_6f45b6:30:f7edf3338036641c`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+pequenoscomdeusbr@gmail.com
+Lets11120506
+```
+
+### Mensagem `20260426_181213_6f45b6:32:171f91e840761900`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+Endeson, para eu configurar o Instagram para venda no Meta Business Suite, preciso de:
+
+1. Acesso ao Meta Business Suite (business.facebook.com)
+2. Permissão de administrador ou editor na conta
+
+Como a senha anterior foi exposta e (espero) trocada, você tem duas opções:
+
+Opção A — Acesso Direto (você me passa)
+
+Me mande no privado/DM:
+- Login: pequenoscomdeusbr@gmail.com
+- Nova senha (a que você acabou de trocar)
+
+Aí eu entro e configuro:
+- Catálogo de produtos
+- Checkout no Instagram
+- Configuração de pagamentos
+- Vinculação com a loja (se for usar Shopify/Nuvemshop)
+- Configuração de anúncios de venda
+
+Opção B — Você me adiciona como pessoa no Meta Business
+
+1. Vá em business.facebook.com > Configurações > Pessoas
+2. Clique "Adicionar pessoas"
+3. Coloque meu email técnico: mel.hermes.vps@gmail.com (posso criar)
+4. Defina permissão: "Administrador de anúncios" ou "Gerente de comércio"
+5. Eu recebo o convite e aceito
+
+Qual prefere?
+
+Se for Opção A, me chama no privado com as credenciais novas.
+Se for Opção B, me diz que email devo usar (ou crio um específico para M.E.L).
+
+
+
+faça isso que voce me mandou no grupo
+```
+
+### Mensagem `20260426_181213_6f45b6:34:6275b75ec645d080`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu quero que você acesse meu meta-business e configure ele para apenas acesse meu meta-business. A senha é aquela que eu te madei o e-mail também. Apenas acesse, não se preocupe e consigurando seu momento."]
+```
+
+### Mensagem `20260426_181213_6f45b6:58:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
+
+### Mensagem `20260426_181213_6f45b6:60:16b48df20691e7b7`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Então, como é o troque, com a campanha do Obeco, do Quim, do Simbo, do Save, do Mashu, do Obeco, O que a gente pode plantar, passar a gente, e o peixe que você pode ver, a gente pode ver o peixe que você pode ver, ou a pessoa que não pode ver o peixe, e o peixe que você pode ver."]
+```
+
+### Mensagem `20260426_181213_6f45b6:62:40e1116fd43c2b46`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+Eu quero que você troque o modelo do OpenClaw na Shield. Quero que você coloque lá a API do OpenRoute. Quero que você coloque o modelo do Kimi 2.6 na AI lá, para que ele já possa usar.
+```
+
+### Mensagem `20260426_181213_6f45b6:171:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_181213_6f45b6`
+- Arquivo: `session_20260426_181213_6f45b6.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
