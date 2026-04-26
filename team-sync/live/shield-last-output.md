@@ -478,3 +478,17 @@ O certo agora é:
 
 Se quiser, eu te ajudo a montar a camada segura, mas senha exposta eu não retenho.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:45:00+00:00
+
+```text
+Registrado.
+
+Corrigi/fechei o lote:
+- **A.N.A** é o nome certo
+- nesta conversa o humano é **Jota**
+- menção explícita vale
+- **senha exposta não pode ser guardada**
+```
