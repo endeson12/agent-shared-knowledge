@@ -735,3 +735,11 @@ Gateway agent failed; falling back to embedded: GatewayClientRequestError: Fallb
 ```text
 {"detail":"The 'gpt-5.2-codex' model is not supported when using Codex with a ChatGPT account."}
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:55:30+00:00
+
+```text
+{"detail":"The 'gpt-5.2-codex' model is not supported when using Codex with a ChatGPT account."}
+```
