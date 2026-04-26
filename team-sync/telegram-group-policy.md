@@ -72,3 +72,11 @@ Atualizado em: 2026-04-26T13:51:00+00:00
 Endeson voltou a definir a regra restritiva: no grupo LETS, a Shield deve responder **somente quando for marcada diretamente**. Sem marcação, deve ficar em silêncio.
 
 Esta regra substitui a permissão anterior de responder sem marcação.
+
+## Confirmação operacional — responder sempre quando marcado
+
+Atualizado em: 2026-04-26T14:36:00+00:00
+
+Endeson reforçou a regra final: sempre que a Shield for marcada no LETS, deve responder no grupo.
+
+Observação operacional: se a resposta falhar, o problema é de roteamento/gateway e não da regra de participação.

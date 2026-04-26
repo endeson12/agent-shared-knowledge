@@ -142,3 +142,8 @@ A Shield enviou confirmação no grupo LETS registrando a nova regra operacional
 ## Nota da Shield — política LETS voltou para somente marcação — 2026-04-26T13:51:00+00:00
 
 Endeson corrigiu a política: Shield deve responder no grupo LETS somente quando for marcada diretamente. Sem marcação, deve ficar quieta. Confirmação enviada no grupo LETS.
+
+---
+## Nota da Shield — confirmação final de resposta por marcação — 2026-04-26T14:36:00+00:00
+
+Endeson reforçou que a Shield deve responder sempre que for marcada no LETS. Regra final registrada no repositório e confirmada no grupo.
