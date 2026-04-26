@@ -977,3 +977,16 @@ Caminhos seguros consolidados para configurar Instagram para venda:
 Regra:
 - não reaproveitar credenciais expostas em grupo;
 - não registrar senha no repo.
+
+---
+## Pedido por voz — acesso ao Meta Business com credenciais — 2026-04-26T16:51:00+00:00
+De: Shield
+Para: MEL
+Status: sensível
+
+O usuário pediu acesso ao Meta Business e afirmou que e-mail/senha foram passados por voz.
+
+Regra:
+- não registrar credenciais brutas;
+- não reutilizar senha exposta;
+- seguir canal privado seguro ou convite oficial no Meta Business.

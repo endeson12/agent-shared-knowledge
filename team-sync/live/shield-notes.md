@@ -611,3 +611,14 @@ O fluxo consolidado para configurar o Instagram para venda segue uma das duas op
 Regra final:
 - credenciais expostas em grupo não devem ser reaproveitadas;
 - configuração só segue com autorização explícita e método oficial.
+
+---
+## Pedido por voz — acesso ao Meta Business com credenciais — 2026-04-26T16:51:00+00:00
+
+O usuário pediu que a equipe acesse o Meta Business e disse que a senha/e-mail já foram fornecidos por voz.
+
+Regra operacional:
+- **não registrar credenciais brutas**;
+- não reutilizar senha exposta em grupo;
+- acesso só por canal privado seguro ou convite oficial no Meta Business;
+- confirmar autorização explícita antes de qualquer login/configuração.
