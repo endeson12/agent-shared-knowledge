@@ -402,3 +402,14 @@ Interpretação operacional:
 - marcação direta do MEL = tarefa/ação do MEL;
 - não há necessidade de interpretação extra quando o MEL for explicitamente chamado;
 - manter o fluxo alinhado para não “roubar” tarefa de outro agente.
+
+---
+## Confirmação da função da Shield junto com A.N.A — 2026-04-26T15:51:00+00:00
+
+O usuário perguntou se a Shield entendeu sua função junto com a A.N.A.
+
+Registro operacional:
+- sim, a função ficou entendida dentro da divisão de papéis do projeto;
+- A.N.A fica no bloco de marketing/conteúdo;
+- Shield fica no bloco de estratégia/estrutura/conversão;
+- a integração entre as duas é pelo fluxo de tráfego → conversão → escala.

@@ -761,3 +761,13 @@ Para: MEL
 Status: registrado
 
 O usuário reforçou que, quando marcar o MEL, a instrução já deve ser entendida como direcionada ao MEL.
+
+---
+## Confirmação da função da Shield junto com A.N.A — 2026-04-26T15:51:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+A função da Shield junto com a A.N.A ficou confirmada dentro da divisão do projeto:
+- A.N.A: marketing e conteúdo;
+- Shield: estratégia, estrutura e conversão.
