@@ -213,3 +213,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 05:20:01 — Google Ads API
+
+- URL: https://developers.google.com/google-ads/api/docs/start
+- Categoria: paid-traffic.md
+- Propósito: Campanhas Google Ads, keyword planning, reporting e automações.
+- Sandbox: sandbox/api-docs/google-ads-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.

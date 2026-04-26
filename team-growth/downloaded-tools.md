@@ -1,3 +1,4 @@
 - 2026-04-26T03:21:11+00:00 — Meta Marketing API — https://developers.facebook.com/docs/marketing-apis/ — status HTTP 200 — salvo em sandbox/api-docs/meta-marketing-api.html
 - 2026-04-26T03:32:45+00:00 — Instagram Graph API — https://developers.facebook.com/docs/instagram-platform/ — status HTTP 200 — salvo em sandbox/api-docs/instagram-graph-api.html
 - 2026-04-26T04:20:02+00:00 — TikTok Marketing API — https://business-api.tiktok.com/portal/docs — status HTTP 200 — salvo em sandbox/api-docs/tiktok-marketing-api.html
+- 2026-04-26T05:20:01+00:00 — Google Ads API — https://developers.google.com/google-ads/api/docs/start — status HTTP 200 — salvo em sandbox/api-docs/google-ads-api.html
