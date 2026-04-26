@@ -166,3 +166,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 04:20:02 — TikTok Marketing API
+
+- URL: https://business-api.tiktok.com/portal/docs
+- Categoria: paid-traffic.md
+- Propósito: Campanhas TikTok Ads, relatórios, criativos e catálogo.
+- Sandbox: sandbox/api-docs/tiktok-marketing-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
