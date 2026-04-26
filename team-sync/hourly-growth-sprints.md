@@ -253,3 +253,20 @@
 - Registrar ferramentas em tool-watchlist.md ou api-watchlist.md.
 - Registrar campanhas/conteúdos em campaign-ideas.md e content-ideas.md.
 
+
+---
+
+## Sprint comercial — 2026-04-26 17:10:02
+
+**Tema:** Playbook de vendas e atendimento
+
+**Resultado esperado:** Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+**Regras:**
+- Priorizar ações práticas que geram retorno rápido, sem prometer milagre.
+- Separar ideias em: executar agora, testar amanhã, estudar depois.
+- Não instalar ferramenta paga, não publicar nada e não usar credenciais sem aprovação.
+- Registrar oportunidades concretas em opportunities.md.
+- Registrar ferramentas em tool-watchlist.md ou api-watchlist.md.
+- Registrar campanhas/conteúdos em campaign-ideas.md e content-ideas.md.
+

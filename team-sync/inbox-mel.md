@@ -1025,3 +1025,13 @@ O usuário reforçou por áudio:
 - no grupo, a Shield responde só quando houver arroba explícito;
 - menção direta é o gatilho principal;
 - menção clara na mensagem/reply continua válida como chamada.
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 17:10:02
+
+MEL, faça uma rodada focada em **Playbook de vendas e atendimento**.
+Entregue algo acionável: Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
