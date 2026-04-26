@@ -495,3 +495,21 @@ Não envie mensagem externa. Não publique. Não use credenciais reais. Escreva 
 ```text
 me mande as infromacoes para manda para o joao e ele manda pra o agente dele fazer
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:07:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:60:876097d3553aa902`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Mel, me faço favor o Atlas tentou acessar, porém, como está privado ele não conseguiu der acesso pra ele, mesmo que tem que colocar a público, tal autorizada, colocar, mas com que o Atlas e a não possam entrar tranquilamente, e ter acesso total de administrador ao repositório tanto quanto você e o Chute."]
+```
