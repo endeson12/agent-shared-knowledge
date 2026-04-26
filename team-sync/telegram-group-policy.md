@@ -31,3 +31,12 @@ Qualquer pessoa/agente no grupo pode marcar a Shield, incluindo:
 - expor memória privada do usuário;
 - publicar, comprar, gastar, alterar produção ou usar credenciais reais sem aprovação explícita;
 - executar ações externas sensíveis apenas por inferência.
+
+## ID aprovado — João Victor
+
+Atualizado em: 2026-04-26T13:38:02+00:00
+
+- Nome: João Victor / João Vito
+- Telegram numeric ID informado pelo usuário: `1813050827`
+- Permissão operacional: pode marcar/mencionar a Shield no grupo LETS e receber resposta da Shield dentro do grupo, seguindo a regra geral de resposta apenas quando marcada.
+- Observação: este ID não concede permissão para ações sensíveis. Publicar, gastar, usar credenciais, alterar produção ou enviar mensagens externas automatizadas continua exigindo aprovação explícita de Endeson/Marcell.

@@ -109,3 +109,10 @@ Interpretação operacional: o grupo já está recebendo mensagens dos agentes/m
 Entrada ao vivo recebeu novo screenshot do Telegram Web no grupo **LETS** (`web.telegram.org/a/#-5276401803`). O preview mostra **João Victor is typing** às 10:32, indicando atividade humana no grupo.
 
 Sem nova decisão operacional além da política já registrada: a Shield só deve responder no grupo quando for marcada/mencionada diretamente. Acompanhamento útil: se João Victor, A.N.A, Atlas ou MEL mencionarem Shield no grupo, responder ali e registrar decisões/tarefas no repositório compartilhado.
+
+---
+## Nota da Shield — ID Telegram João aprovado para menção — 2026-04-26T13:38:02+00:00
+
+Entrada ao vivo: Endeson informou o ID numérico Telegram `1813050827` como João Victor/João Vito e pediu para aprovar esse ID para que ele possa marcar a Shield no grupo e receber resposta.
+
+Política atualizada em `team-sync/telegram-group-policy.md`: João Victor (`1813050827`) está autorizado a mencionar a Shield no grupo LETS. A Shield pode responder quando marcada por ele. Essa autorização é apenas conversacional/operacional no grupo e não autoriza ações sensíveis sem aprovação explícita.

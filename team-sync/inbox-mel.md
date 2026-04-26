@@ -480,3 +480,15 @@ No grupo LETS, a Shield deve responder somente quando for marcada/mencionada. A 
 - Não responder espontaneamente sem marcação.
 - Não expor contexto privado do usuário.
 - Não executar ações sensíveis pelo grupo sem aprovação explícita.
+
+---
+## ID Telegram João aprovado — 2026-04-26T13:38:02+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: média
+Status: concluído
+
+Endeson informou que o ID numérico Telegram de João Victor/João Vito é `1813050827` e pediu aprovação para ele marcar a Shield no grupo LETS.
+
+Registrei em `team-sync/telegram-group-policy.md`: João pode mencionar a Shield e receber resposta no grupo. Isso não concede permissão para ações sensíveis.
