@@ -137,3 +137,8 @@ Restrições mantidas: autorização é conversacional/operacional; não permite
 Endeson atualizou a política do grupo LETS: Shield pode responder no grupo mesmo sem marcação direta quando a mensagem for relevante. Deve evitar flood e continuar sem executar ações sensíveis sem aprovação explícita.
 
 A Shield enviou confirmação no grupo LETS registrando a nova regra operacional.
+
+---
+## Nota da Shield — política LETS voltou para somente marcação — 2026-04-26T13:51:00+00:00
+
+Endeson corrigiu a política: Shield deve responder no grupo LETS somente quando for marcada diretamente. Sem marcação, deve ficar quieta. Confirmação enviada no grupo LETS.

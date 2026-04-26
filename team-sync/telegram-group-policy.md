@@ -64,3 +64,11 @@ Diretriz de bom senso:
 - Não responder a todo ruído/conversa casual para evitar flood.
 - Continuar protegendo memória privada e dados sensíveis.
 - Ações sensíveis seguem exigindo aprovação explícita.
+
+## Atualização final — resposta somente com marcação
+
+Atualizado em: 2026-04-26T13:51:00+00:00
+
+Endeson voltou a definir a regra restritiva: no grupo LETS, a Shield deve responder **somente quando for marcada diretamente**. Sem marcação, deve ficar em silêncio.
+
+Esta regra substitui a permissão anterior de responder sem marcação.
