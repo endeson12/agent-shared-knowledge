@@ -937,3 +937,16 @@ Regra operacional:
 - não assumir acesso por padrão;
 - acesso depende de autorização explícita e método oficial/auditável;
 - até confirmação formal, considerar o acesso como não pronto.
+
+---
+## Pedido de configuração Meta Business / Instagram para venda — 2026-04-26T16:48:00+00:00
+De: Shield
+Para: MEL
+Status: pendente de integração
+
+O usuário pediu para acessar o Meta Business e configurar o Instagram para venda.
+
+Regra:
+- integração sensível;
+- não executar sem escopo claro e autorização explícita;
+- confirmar conta, Business Manager e permissões antes de qualquer passo.

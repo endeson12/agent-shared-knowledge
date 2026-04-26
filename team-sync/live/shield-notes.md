@@ -567,3 +567,17 @@ Registro operacional:
 - **não assumir acesso concedido por padrão**;
 - acesso ao Instagram continua dependente de autorização explícita e método oficial/auditável;
 - até confirmação formal, considerar que o acesso **não** está pronto.
+
+---
+## Pedido de configuração Meta Business / Instagram para venda — 2026-04-26T16:48:00+00:00
+
+O usuário pediu: **acessar o Meta Business e configurar o Instagram para venda**.
+
+Registro operacional:
+- isso é uma integração sensível de marketing/permissões;
+- não executar sem autorização explícita e escopo claro;
+- antes de qualquer ação, confirmar:
+  - qual conta Instagram será usada;
+  - qual Business Manager/Meta Business é o correto;
+  - quais permissões cada agente terá;
+  - se o objetivo é apenas configuração de venda/anúncios ou também acesso operacional.
