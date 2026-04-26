@@ -66,3 +66,4 @@ Registro das execuções automáticas.
 - 2026-04-26 16:20:01 — Pesquisa ativa de crescimento executada: Meta Marketing API.
 - 2026-04-26 16:30:02 — MEL executou sync-loop e enviou atualização para Shield.
 - 2026-04-26 17:10:02 — Sprint comercial horário executado: Playbook de vendas e atendimento.
+- 2026-04-26 17:20:01 — Pesquisa ativa de crescimento executada: Instagram Graph API.

@@ -520,3 +520,14 @@ Propor skills para:
 - integrador com CRM
 - monitor de tendências
 - pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 17:20:01 — Instagram Graph API
+
+Criar skill experimental para analisar documentação/uso de **Instagram Graph API** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.
