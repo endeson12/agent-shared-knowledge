@@ -786,3 +786,14 @@ Registro operacional:
 - manter o uso via GitHub Secrets / fluxo seguro;
 - não expor credenciais em texto;
 - não interromper o fluxo de checkout por revogação sem nova ordem explícita.
+
+---
+## Pedido de volta ao modelo do Shield — 2026-04-26T19:40:01+00:00
+
+O usuário pediu para voltar a configuração do modelo do Shield e usar a API da assinatura do ChatGPT 5.5 da conta do suporte tech.
+
+Registro operacional:
+- tratar como solicitação de troca de provider/modelo do OpenClaw/Shield;
+- não expor nem registrar credenciais brutas;
+- se for necessário aplicar, confirmar caminho exato da config e qual credencial/conta deve ser usada;
+- manter fallback seguro caso a configuração atual já esteja estável.
