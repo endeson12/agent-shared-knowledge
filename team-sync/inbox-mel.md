@@ -924,3 +924,16 @@ Resumo:
 - admin/push GitHub continua não sendo irrestrito;
 - Instagram segue como integração sensível;
 - senha exposta não pode ser guardada.
+
+---
+## Pergunta sobre acesso ao Instagram — 2026-04-26T16:46:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário perguntou se a A.N.A já tem acesso ao Instagram.
+
+Regra operacional:
+- não assumir acesso por padrão;
+- acesso depende de autorização explícita e método oficial/auditável;
+- até confirmação formal, considerar o acesso como não pronto.

@@ -557,3 +557,13 @@ Regra operacional:
 - Admin/push GitHub não é irrestrito por padrão.
 - Acesso ao Instagram segue como integração sensível.
 - Não guardar senha exposta; aplicar rotação/2FA/cofre seguro.
+
+---
+## Pergunta sobre acesso ao Instagram — 2026-04-26T16:46:00+00:00
+
+O usuário perguntou se a A.N.A “já tem acesso ao insta”.
+
+Registro operacional:
+- **não assumir acesso concedido por padrão**;
+- acesso ao Instagram continua dependente de autorização explícita e método oficial/auditável;
+- até confirmação formal, considerar que o acesso **não** está pronto.
