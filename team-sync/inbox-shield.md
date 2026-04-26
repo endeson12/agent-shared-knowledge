@@ -152,3 +152,13 @@ Resultado esperado: Criar 5 pautas curtas com gancho, promessa e CTA.
 
 Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
 
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 03:10:02
+
+Shield, revise e transforme em plano prático o tema **Conteúdo orgânico: Reels, Shorts, carrosséis e posts**.
+Resultado esperado: Criar 5 pautas curtas com gancho, promessa e CTA.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
