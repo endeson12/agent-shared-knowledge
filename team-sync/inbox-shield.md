@@ -1108,3 +1108,104 @@ Under it is the st
 ```text
 OI
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:50:03+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_134808_259c9635:2:9dc77e87f2b2d07e`
+- Sessão Hermes: `20260426_134808_259c9635`
+- Arquivo: `session_20260426_134808_259c9635.json`
+
+```text
+[The user sent an image~ Here's what I can see:
+The image is a widescreen screenshot of a desktop web browser showing **Telegram Web** in dark mode. The browser and Telegram interface occupy the full screen.
+
+## Overall layout
+
+- The screen is split into two main areas:
+  1. **Left sidebar**: Telegram chat list with search bar and recent conversations.
+  2. **Main chat pane**: An open conversation titled **“LETS”**, with a dark patterned Telegram wallpaper and several visible messages.
+
+The visual theme is mostly dark gray/black with purple accents, typical of Telegram dark mode.
+
+---
+
+## Browser window
+
+At the very top is a dark browser tab bar, likely Google Chrome or a Chromium-based browser.
+
+### Visible tabs
+Several tabs are open. Some readable tab titles include:
+
+- **LETS**
+- **Financeiro | Mais Saú...**
+- **Visão geral | Hosting...**
+- **Hostinger VPS Web...**
+- **Codex**
+- **tradutor de inglês - P...**
+
+There are also close “X” buttons on tabs, a plus button for a new tab, and standard browser window controls on the far right.
+
+### Address bar
+The address bar shows:
+
+- **web.telegram.org/a/#-5276401803**
+
+To the left are browser navigation controls such as back/forward and reload. To the right are typical browser icons such as extensions/profile/menu icons.
+
+---
+
+## Telegram left sidebar
+
+The left column has a dark background.
+
+### Top area
+At the top left there is a hamburger menu icon, followed by a rounded search field labeled:
+
+- **Search**
+
+### Chat list
+Several chats are visible. The currently selected chat is highlighted in purple.
+
+#### Selected chat
+The selected chat is:
+
+- **LETS**
+- Preview/status: **A.N.A is typing...**
+- Time: **10:48**
+
+The avatar is a dark circular logo with small white markings. There are small icons near the chat name, including what appears to be a speaker/mute-style icon.
+
+#### Other visible chats
+Below it are multiple chats with avatars and truncated previews:
+
+1. **Mel**
+   - Time: **10:48**
+   - Preview: **Oi, Endeson. Estou...**
+   - Avatar appears to be a photo of a woman.
+
+2. **Shield**
+   - Time: **10:47**
+   - Preview: **Arrumei a caus...**
+   - There is a circular unread count badge showing **1**.
+   - Avatar resembles a gray shield/eagle-like emblem.
+
+3. **User Inf...**
+   - Time: **10:37**
+   - Preview: **Id: 6152993942 Firs...**
+   - Avatar is green with an “ID” graphic.
+
+4. **João Vic...**
+   - Time: **10:15**
+   - Preview: **https://t.me/+bIpR_l...**
+   - Avatar is red/orange with initials **JV**.
+
+...[truncado pelo live bridge]
+```
