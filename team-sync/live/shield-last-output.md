@@ -263,3 +263,22 @@ Estado:
 - `endeson12` já é admin/owner
 - ficou pendente **confirmar o login exato do João Vitor** antes de dar permissão
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:36:27+00:00
+
+```text
+Registrei, mas **não apliquei**.
+
+Motivo:
+- o stack daqui **não mostra suporte nativo a OpenRouter** no config atual;
+- o plugin `openai` só expõe `personality`;
+- não vou usar a chave em claro.
+
+Então o pedido ficou assim:
+- **OpenRouter/Kimi 2.5: pendente de suporte**
+- chave tratada como sensível e não salva
+
+Se você quiser, eu posso procurar a rota certa pra habilitar OpenRouter no stack.
+```
