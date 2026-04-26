@@ -1,10 +1,10 @@
 
 ---
-## Pedido curto de ação — 2026-04-26T22:31:01+00:00
+## Lembrete operacional — tool call sem resposta — 2026-04-26T22:32:02+00:00
 
-O usuário respondeu com "Crie" ao resumo dos bloqueios do plano de vendas.
+O usuário reforçou o padrão de erro: houve tool calls e a resposta saiu vazia.
 
 Registro operacional:
-- há uma solicitação explícita para criar algo relacionado ao fluxo atual;
-- o contexto não especifica o artefato desejado, então falta apenas a definição mínima do que deve ser criado;
-- manter o registro dos bloqueios: conteúdo pronto, checkout pendente, verba de tráfego indisponível.
+- após receber resultado de ferramenta, não encerrar em vazio;
+- processar o resultado e continuar o trabalho ou registrar bloqueio real;
+- evitar repetir a falha de "executed tool calls but returned an empty response".
