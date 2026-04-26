@@ -727,3 +727,11 @@ Gateway agent failed; falling back to embedded: GatewayClientRequestError: Fallb
 [agent/embedded] au
 ...[truncado pelo live bridge]
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:40:31+00:00
+
+```text
+{"detail":"The 'gpt-5.2-codex' model is not supported when using Codex with a ChatGPT account."}
+```
