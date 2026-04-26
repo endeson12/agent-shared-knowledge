@@ -159,3 +159,23 @@ OpenClaw/Shield excedeu timeout de 240s; entrada já ficou registrada para o pr�
 ```text
 completed
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:14:13+00:00
+
+```text
+Pronto. Registrei no repo.
+
+Resumo seco:
+- **não há Chromium/Chrome/Brave instalado no PATH**
+- então **não dá pra fixar um browser dedicado agora**
+- documentei a estratégia segura: **Chromium/Chrome Stable + perfil dedicado + sem extensões + sem sync + janela fixa**
+
+Comando de teste sugerido depois de instalar o browser:
+```bash
+chromium --user-data-dir=/root/.openclaw/browser/bot-profile --profile-directory=Default --disable-extensions --disable-sync --no-first-run --window-size=1280,900 --window-position=40,40
+```
+
+Commit enviado.
+```

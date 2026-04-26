@@ -1309,3 +1309,50 @@ Other visible chats underneath:
 ```text
 oi
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T15:13:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_143202_18aa6f9e:2:415cdfbc33f26c4f`
+- Sessão Hermes: `20260426_143202_18aa6f9e`
+- Arquivo: `session_20260426_143202_18aa6f9e.json`
+
+```text
+Cola isso no OpenClaw:
+
+“Quero padronizar o browser do bot para navegação estável.
+
+Objetivo:
+
+• usar Chromium ou Chrome Stable
+• perfil dedicado só para o bot
+• janela fixa
+• sem extensões
+• sem misturar com meu perfil pessoal
+
+Tarefas:
+
+1. verifique qual browser está instalado e escolha a opção mais estável.
+2. crie um perfil dedicado para o bot.
+3. configure a abertura sempre com esse perfil.
+4. abra com janela fixa, sem maximizar automático.
+5. desative extensões.
+6. deixe esse browser como padrão para automações do bot.
+7. me devolva o caminho mais simples e seguro para testar.
+
+Regras:
+
+• não usar meu perfil pessoal
+• não sincronizar conta
+• não instalar extensão
+• se Chromium não existir, use a alternativa estável do sistema
+• se houver mais de uma opção, prefira a mais previsível para automação
+
+Quero também o comando final de teste para abrir o browser já no perfil dedicado.”
+
+Resolveu? Reage com 👍 ou 👎 pra eu ir aprendendo.
+
+ver se faz sentido pra gnte
+```
