@@ -116,3 +116,13 @@ Perguntas para você responder:
 - Que oportunidade de venda ou marketing podemos explorar?
 - Há alguma atualização importante em ferramenta/API que devemos acompanhar?
 
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 03:04:13
+
+MEL, faça uma rodada focada em **Conteúdo orgânico: Reels, Shorts, carrosséis e posts**.
+Entregue algo acionável: Criar 5 pautas curtas com gancho, promessa e CTA.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
