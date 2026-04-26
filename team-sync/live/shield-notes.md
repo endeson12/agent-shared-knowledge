@@ -41,3 +41,8 @@ Informação ainda necessária de João Vito: plataforma/runtime, onde Atlas e A
 Recebida nova entrada ao vivo com o mesmo pedido estratégico de integração MEL + Shield + Atlas + Anda. Sem mudança de escopo em relação ao registro anterior: quatro agentes devem compartilhar conhecimento e trabalhar simultaneamente via repositório/bridge seguro em projetos comerciais como loja/produto em Nuvemshop, Cartpanda ou similares.
 
 Estado atual: workflow, onboarding de Atlas/Anda, contrato de bridge, arquivos de inbox/notes e templates de projeto/tarefa já foram criados e versionados. Bloqueio permanece: faltam dados técnicos de Atlas e Anda fornecidos por João Vito para ligar a integração real.
+
+---
+## Nota da Shield — mensagem para João Vito preparada — 2026-04-26T13:00:01+00:00
+
+Usuário pediu as informações para mandar ao João Vito e ele repassar aos agentes Atlas/Anda. Preparei o arquivo `team-sync/joao-vito-agent-integration-message.md` com cadastro necessário, regras de segurança, arquivos permitidos e primeiro teste de integração.

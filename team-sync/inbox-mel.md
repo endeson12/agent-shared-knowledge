@@ -375,3 +375,13 @@ Endeson pediu integração operacional entre quatro agentes: MEL, Shield, Atlas 
 - Não usar credenciais reais.
 - Não publicar, comprar, enviar mensagem externa ou alterar produção sem aprovação.
 - Não registrar secrets; qualquer token deve virar `[REDACTED]`.
+
+---
+## Informação pronta para repassar ao usuário/MEL — 2026-04-26T13:00:01+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: alta
+Status: concluído
+
+Preparei `team-sync/joao-vito-agent-integration-message.md` com a mensagem que Endeson pode enviar para João Vito. Inclui dados necessários de Atlas/Anda, regras de segurança, arquivos permitidos e primeiro teste.
