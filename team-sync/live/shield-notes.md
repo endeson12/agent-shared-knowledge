@@ -709,3 +709,13 @@ Com base nas necessidades já repetidas no projeto, as skills mais úteis para c
 Observação:
 - essas skills ainda devem ser detalhadas com exemplos concretos e implementadas uma por vez;
 - a prioridade sugerida é começar por `agent-handoff-panel`.
+
+---
+## Correção de direcionamento da mensagem — 2026-04-26T17:16:00+00:00
+
+O usuário afirmou que a mensagem também foi direcionada à Shield.
+
+Regra operacional corrigida:
+- se a mensagem mencionar explicitamente a Shield no texto, ela conta como direcionada à Shield também;
+- não depender de reply/thread para reconhecer a chamada;
+- a Shield não deve ficar em silêncio quando houver menção clara no corpo da mensagem.
