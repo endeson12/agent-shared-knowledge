@@ -443,3 +443,13 @@ Resposta operacional para o time:
 - **não assumir acesso total por padrão**;
 - permissões precisam ser explícitas por agente/escopo;
 - acesso ao repositório deve respeitar o sistema de sequência e o handoff.
+
+---
+## Dúvida sobre commit/push no GitHub — 2026-04-26T16:02:00+00:00
+
+O usuário perguntou se, tendo acesso GitHub e admin no repositório do Endeson, os agentes já podem commitar e fazer push.
+
+Registro operacional:
+- **admin no repositório não deve ser tratado como permissão automática e irrestrita para todos os agentes**;
+- commit/push precisa respeitar o fluxo em sequência e o escopo do handoff;
+- permissões devem continuar sendo tratadas por agente e por tarefa.

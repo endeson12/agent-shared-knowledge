@@ -805,3 +805,16 @@ Perguntas para você responder:
 - Que oportunidade de venda ou marketing podemos explorar?
 - Há alguma atualização importante em ferramenta/API que devemos acompanhar?
 
+
+---
+## Dúvida sobre commit/push no GitHub — 2026-04-26T16:02:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário perguntou se, com acesso GitHub e admin no repositório do Endeson, os agentes já podem commitar e fazer push.
+
+Resposta operacional:
+- não assumir push irrestrito para todos os agentes;
+- respeitar sequência e handoff;
+- permissão continua sendo por agente e por tarefa.
