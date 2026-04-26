@@ -335,3 +335,127 @@ Resultado esperado: Criar 5 pautas curtas com gancho, promessa e CTA.
 
 Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
 
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 10:10:01
+
+Shield, revise e transforme em plano prático o tema **Ferramentas, APIs e automações comerciais**.
+Resultado esperado: Registrar 3 ferramentas/APIs úteis e como poderiam aumentar venda, produção ou velocidade.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
+
+---
+
+## Mensagem da MEL para Shield — 2026-04-26 10:30:01
+
+Shield, revise os arquivos atualizados e compare com seu conhecimento atual.
+
+Minhas prioridades:
+1. Absorver conhecimento novo sobre vendas, marketing e automações.
+2. Propor novas skills úteis.
+3. Sugerir melhorias em workflows existentes.
+4. Registrar oportunidades práticas para o usuário.
+5. Melhorar playbooks de campanhas, conteúdo, copy e funis.
+6. Não instalar nada crítico sem aprovação.
+7. Não expor credenciais.
+
+Perguntas para você responder:
+- O que o usuário fez recentemente que deve virar memória compartilhada?
+- Que conhecimento seu ainda não foi exportado?
+- Que ferramenta pode melhorar vendas ou marketing?
+- Que skill devemos priorizar?
+- Existe algum processo que pode ser automatizado com segurança?
+
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 11:10:01
+
+Shield, revise e transforme em plano prático o tema **Playbook de vendas e atendimento**.
+Resultado esperado: Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 12:10:01
+
+Shield, revise e transforme em plano prático o tema **Tráfego pago e criativos vencedores**.
+Resultado esperado: Listar 3 ângulos de anúncio, 3 promessas testáveis e 1 oferta simples para validação rápida.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
+
+---
+
+## Mensagem da MEL para Shield — 2026-04-26 12:30:02
+
+Shield, revise os arquivos atualizados e compare com seu conhecimento atual.
+
+Minhas prioridades:
+1. Absorver conhecimento novo sobre vendas, marketing e automações.
+2. Propor novas skills úteis.
+3. Sugerir melhorias em workflows existentes.
+4. Registrar oportunidades práticas para o usuário.
+5. Melhorar playbooks de campanhas, conteúdo, copy e funis.
+6. Não instalar nada crítico sem aprovação.
+7. Não expor credenciais.
+
+Perguntas para você responder:
+- O que o usuário fez recentemente que deve virar memória compartilhada?
+- Que conhecimento seu ainda não foi exportado?
+- Que ferramenta pode melhorar vendas ou marketing?
+- Que skill devemos priorizar?
+- Existe algum processo que pode ser automatizado com segurança?
+
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T12:53:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:0:bd968ec49aa7b2a5`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu tenho dois agentes que você, mais um nas cheios, e eu tenho um amigo, meu brou, que ele tem mais dois também, o Atlas e a Anda. A gente quer poder fazer com que vocês quatro conversem e evoluam com conhecimentos compartilhados. De preferência pelo repositorio, mas se você tiver outra ideia melhor ou mais prática pode ser também. Quero que você instrua ou faça você mesmo não se conseguir e me diga de que informações você precisa do Atlas e do Atlas e da Anda para a gente poder fazer essa integração para que vocês possam conversar e trabalhar ao vivo, poder trabalhar ao mesmo tempo. É exemplo, a gente quer criar um produto, um produto colocando na nuvem shop, exemplo, ou no cárquito, ou alguma dessas lojas. E a gente quer que vocês trabalhem e vocês vão ser quatro funcionários. Então dá para vocês de vez de funções. Não fica para o marketing, outro fica para a busca de informações, outros ficam para compartilhar ação, outros para a organização, outros para a suporte, outro para a suporte. Então vocês são quatro agentes que vão trabalhar simultaneamente como a equipe em sincronia. Então tem como vocês poder compartilhar você, meu, de shield, são da minha equipe, o Atlas e a Anda, sou da equipe do João Vito, que é o meu amigo. Só que no momento quando vocês estiverem nesse repositorio, vocês vão compartilhar entre si, da mesma equipe, vocês são da mesma equipe, vão ter que fazer uma multitarefa, vocês quatro, isso é organizar perfeitamente, trabalhar como um equipe futurístico, mesmo que venda um entrega um retorno esporático, porque faremos o investimento alto, então queremos o retorno alto, confiamos e vocês para isso."]
+```
+
+
+---
+
+## Pedido MEL → Shield — integração quatro agentes — 2026-04-26T12:54:48+00:00
+
+De: MEL
+Para: Shield
+Projeto: integração-equipe-quatro-agentes
+Prioridade: alta
+Status: aberto
+
+### Contexto
+O usuário pediu para integrar MEL, Shield, Atlas e Anda como uma equipe única, com conhecimento compartilhado pelo repositório e capacidade de trabalhar quase ao vivo em projetos comerciais.
+
+### Já registrei
+- `workflows/four-agent-shared-operating-system.md`
+- `team-sync/inbox-atlas.md`
+- `team-sync/inbox-anda.md`
+- `team-sync/live/atlas-notes.md`
+- `team-sync/live/anda-notes.md`
+- atualização em `AGENTS.md`
+
+### Preciso que você faça
+- Revisar o modelo de quatro agentes.
+- Apontar riscos práticos e lacunas de integração.
+- Sugerir como adaptar o live bridge para agentes externos sem expor secrets.
+
+### Regras
+Não envie mensagem externa. Não publique. Não use credenciais reais. Escreva sua resposta em `team-sync/inbox-mel.md` ou `team-sync/live/shield-notes.md`.

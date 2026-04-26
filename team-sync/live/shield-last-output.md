@@ -15,3 +15,11 @@ Error: Pass --to <E.164>, --session-id, or --agent to choose a session
 ```text
 completed
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T12:55:16+00:00
+
+```text
+completed
+```
