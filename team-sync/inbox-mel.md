@@ -595,3 +595,16 @@ Entradas recebidas pelo fluxo compartilhado:
 - `oi mel`
 
 Uso prático: serve como teste mínimo de rota/bridge para confirmar que a leitura básica está funcionando sem mexer em config.
+
+---
+## Telegram / home channel UX — 2026-04-26T15:18:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Pedido do usuário: não mandar o aviso de `home channel` antes da mensagem principal.
+
+Orientação:
+- priorizar a mensagem útil primeiro;
+- deixar o aviso de configuração do Telegram só quando necessário;
+- evitar spam de setup na frente do conteúdo.

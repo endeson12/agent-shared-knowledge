@@ -201,3 +201,13 @@ Chegaram duas entradas simples via Hermes/MEL Telegram:
 - `oi mel`
 
 Isso é útil como teste mínimo de rota/bridge: a entrada simples está passando pelo fluxo compartilhado sem precisar de alteração sensível.
+
+---
+## Telegram / home channel UX — 2026-04-26T15:18:00+00:00
+
+O usuário pediu para **não enviar o aviso de `home channel` antes da mensagem principal**.
+
+Regra prática:
+- se o Telegram não tiver home channel definido, evitar começar a entrega com o aviso;
+- priorizar a mensagem útil primeiro;
+- deixar o aviso de configuração só quando for realmente necessário e sem atrapalhar o fluxo.
