@@ -1052,3 +1052,11 @@ Run `openclaw doctor` for diagnostics.
 ```text
 Registrado.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T20:51:26+00:00
+
+```text
+Registrado.
+```

@@ -1,10 +1,10 @@
 
 ---
-## Regra reforçada de mention-gating — 2026-04-26T19:42:02+00:00
+## Prosseguir sem depender dos bots citados — 2026-04-26T20:51:02+00:00
 
-O usuário reforçou que a Shield só deve responder quando estiver explicitamente marcada.
+O usuário perguntou como prosseguir pulando a situação envolvendo @anaIAagent_bot, @atlasagent1bot e @Shildreep_bot.
 
 Registro operacional:
-- reply/thread context sozinho não é gatilho;
-- mensagens como "mel já ta digitando" não mudam a regra;
-- manter silêncio até marca explícita da Shield ou comando direto equivalente.
+- seguir com o fluxo atual sem esperar esses bots, se a etapa não depender deles;
+- manter a coordenação no repositório compartilhado;
+- se houver bloqueio real de integração, registrar o bloqueio e pedir a próxima decisão mínima.
