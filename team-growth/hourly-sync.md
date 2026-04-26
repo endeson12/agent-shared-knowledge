@@ -131,3 +131,11 @@ Não ativar campanhas pagas.
 Não publicar nada automaticamente.
 Não prometer dinheiro rápido sem validação real.
 
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 03:32:45
+
+Fonte estudada: **Instagram Graph API**
+Link: https://developers.facebook.com/docs/instagram-platform/
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.

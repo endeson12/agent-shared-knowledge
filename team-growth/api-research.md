@@ -119,3 +119,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 03:32:45 — Instagram Graph API
+
+- URL: https://developers.facebook.com/docs/instagram-platform/
+- Categoria: organic-traffic.md
+- Propósito: Publicação, insights, mídia e presença orgânica no Instagram.
+- Sandbox: sandbox/api-docs/instagram-graph-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.

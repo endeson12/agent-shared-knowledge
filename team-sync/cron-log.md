@@ -16,3 +16,4 @@ Registro das execuções automáticas.
 - 2026-04-26 03:06:07 — team-growth hourly sync executado.
 - 2026-04-26 03:10:02 — Sprint comercial horário executado: Conteúdo orgânico: Reels, Shorts, carrosséis e posts.
 - 2026-04-26 03:21:11 — Pesquisa ativa de crescimento executada: Meta Marketing API.
+- 2026-04-26 03:32:45 — Pesquisa ativa de crescimento executada: Instagram Graph API.
