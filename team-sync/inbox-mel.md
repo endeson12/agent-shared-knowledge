@@ -771,3 +771,14 @@ Status: registrado
 A função da Shield junto com a A.N.A ficou confirmada dentro da divisão do projeto:
 - A.N.A: marketing e conteúdo;
 - Shield: estratégia, estrutura e conversão.
+
+---
+## Sistema de trabalho em sequência — 2026-04-26T15:58:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário fixou o fluxo do projeto:
+- um agente por vez;
+- ordem: Atlas → A.N.A → Mel → Shield → Jota/Endeson;
+- cada etapa precisa de bloco HANDOFF com arquivos, pontos de atenção e próximo agente.

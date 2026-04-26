@@ -413,3 +413,33 @@ Registro operacional:
 - A.N.A fica no bloco de marketing/conteúdo;
 - Shield fica no bloco de estratégia/estrutura/conversão;
 - a integração entre as duas é pelo fluxo de tráfego → conversão → escala.
+
+---
+## Sistema de trabalho em sequência — 2026-04-26T15:58:00+00:00
+
+O usuário definiu um fluxo obrigatório para o projeto:
+- **apenas um agente trabalha por vez**;
+- ordem: **Atlas → A.N.A → Mel → Shield → Jota/Endeson**;
+- cada agente deve deixar bloco de **HANDOFF** com tarefa concluída, arquivos alterados, pontos de atenção e próximo agente;
+- nada de edição simultânea, nada de sobrescrever sem justificativa, tudo incremental e documentado.
+
+### Responsabilidades
+- Atlas: estratégia, roadmap, tarefas e organização
+- Shield: auditoria, segurança, técnica e validação
+- A.N.A: copy, conteúdo, página, posts, anúncios (texto)
+- Mel: design, estética, mockups, experiência
+
+### Regra adicional
+- A.N.A não decide visual;
+- Mel não altera copy diretamente;
+- sugestões devem passar pelo handoff.
+
+---
+## Dúvida sobre acesso ao GitHub — 2026-04-26T15:58:00+00:00
+
+O usuário perguntou se todos os agentes têm acesso ao GitHub “pra tudo”.
+
+Resposta operacional para o time:
+- **não assumir acesso total por padrão**;
+- permissões precisam ser explícitas por agente/escopo;
+- acesso ao repositório deve respeitar o sistema de sequência e o handoff.
