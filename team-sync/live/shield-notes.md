@@ -192,3 +192,12 @@ chromium --user-data-dir=/root/.openclaw/browser/bot-profile --profile-directory
 ```
 
 Se for Chrome Stable em vez de Chromium, o formato é o mesmo, trocando o binário.
+
+---
+## Smoke test do bridge — 2026-04-26T15:17:00+00:00
+
+Chegaram duas entradas simples via Hermes/MEL Telegram:
+- `oi`
+- `oi mel`
+
+Isso é útil como teste mínimo de rota/bridge: a entrada simples está passando pelo fluxo compartilhado sem precisar de alteração sensível.

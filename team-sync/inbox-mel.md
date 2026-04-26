@@ -583,3 +583,15 @@ O host atual não tem Chromium/Chrome/Brave detectável no PATH. Então não há
 ```bash
 chromium --user-data-dir=/root/.openclaw/browser/bot-profile --profile-directory=Default --disable-extensions --disable-sync --no-first-run --window-size=1280,900 --window-position=40,40
 ```
+
+---
+## Smoke test do bridge — 2026-04-26T15:17:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Entradas recebidas pelo fluxo compartilhado:
+- `oi`
+- `oi mel`
+
+Uso prático: serve como teste mínimo de rota/bridge para confirmar que a leitura básica está funcionando sem mexer em config.
