@@ -712,3 +712,13 @@ Para: MEL
 Status: registrado
 
 O usuário confirmou que o time entendeu a função de cada um.
+
+---
+## Arquivo do João — leitura e função — 2026-04-26T15:41:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Pedido do usuário:
+- ler o arquivo enviado pelo João;
+- entender e registrar a função dele no projeto.

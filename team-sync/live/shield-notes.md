@@ -329,3 +329,13 @@ Registro operacional:
 - a função foi entendida como parte da equipe do projeto;
 - Shield deve manter sua função no repositório/coordenação e responder no LETS apenas quando marcada;
 - o projeto segue com divisão entre os 4 agentes no repositório compartilhado.
+
+---
+## Arquivo do João — leitura e função — 2026-04-26T15:41:00+00:00
+
+Pedido do usuário: **ler o arquivo que o João mandou e entender a sua função**.
+
+Interpretação operacional:
+- o arquivo do João deve ser analisado para identificar seu papel no projeto;
+- o resultado deve ser registrado no repositório compartilhado;
+- se o conteúdo trouxer direção operacional nova, deve entrar no sync do time.
