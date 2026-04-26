@@ -4801,3 +4801,237 @@ The active chat is **"LETS"** with **6 members**, indicated at the top of the pa
 ```text
 You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T18:25:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_143202_18aa6f9e:208:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_143202_18aa6f9e`
+- Arquivo: `session_20260426_143202_18aa6f9e.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
+
+### Mensagem `20260426_182307_fabd8c:0:87f633634cc4b02f`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+oi
+```
+
+### Mensagem `20260426_182307_fabd8c:2:415cdfbc33f26c4f`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+Cola isso no OpenClaw:
+
+“Quero padronizar o browser do bot para navegação estável.
+
+Objetivo:
+
+• usar Chromium ou Chrome Stable
+• perfil dedicado só para o bot
+• janela fixa
+• sem extensões
+• sem misturar com meu perfil pessoal
+
+Tarefas:
+
+1. verifique qual browser está instalado e escolha a opção mais estável.
+2. crie um perfil dedicado para o bot.
+3. configure a abertura sempre com esse perfil.
+4. abra com janela fixa, sem maximizar automático.
+5. desative extensões.
+6. deixe esse browser como padrão para automações do bot.
+7. me devolva o caminho mais simples e seguro para testar.
+
+Regras:
+
+• não usar meu perfil pessoal
+• não sincronizar conta
+• não instalar extensão
+• se Chromium não existir, use a alternativa estável do sistema
+• se houver mais de uma opção, prefira a mais previsível para automação
+
+Quero também o comando final de teste para abrir o browser já no perfil dedicado.”
+
+Resolveu? Reage com 👍 ou 👎 pra eu ir aprendendo.
+
+ver se faz sentido pra gnte
+```
+
+### Mensagem `20260426_182307_fabd8c:4:35a54ba08ecfccad`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu quero que você separe, você da chute, quando eu pedi para a chute fazer uma tarefa, você não vai fazer. Só quando for um equipe, eu especifico que eu sei que eu pedi para você se comunicar ou viver, mas eu ele, nessa parte, eu quero que vocês sejam independentes. Quando eu mando um fazer uma coisa, é ele que vai fazer não. É você, quando eu mando você fazer não é ele que vai fazer. E sempre quando for marcar, lembra disso? Marcado, tire essa internação e sempre que eu você for marcado."]
+```
+
+### Mensagem `20260426_182307_fabd8c:8:b04ec1714969b234`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+[REDACTED_API_KEY]
+
+use essa api do openrouter no modelo kimi 2.5
+```
+
+### Mensagem `20260426_182307_fabd8c:30:f7edf3338036641c`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+pequenoscomdeusbr@gmail.com
+Lets11120506
+```
+
+### Mensagem `20260426_182307_fabd8c:32:171f91e840761900`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+Endeson, para eu configurar o Instagram para venda no Meta Business Suite, preciso de:
+
+1. Acesso ao Meta Business Suite (business.facebook.com)
+2. Permissão de administrador ou editor na conta
+
+Como a senha anterior foi exposta e (espero) trocada, você tem duas opções:
+
+Opção A — Acesso Direto (você me passa)
+
+Me mande no privado/DM:
+- Login: pequenoscomdeusbr@gmail.com
+- Nova senha (a que você acabou de trocar)
+
+Aí eu entro e configuro:
+- Catálogo de produtos
+- Checkout no Instagram
+- Configuração de pagamentos
+- Vinculação com a loja (se for usar Shopify/Nuvemshop)
+- Configuração de anúncios de venda
+
+Opção B — Você me adiciona como pessoa no Meta Business
+
+1. Vá em business.facebook.com > Configurações > Pessoas
+2. Clique "Adicionar pessoas"
+3. Coloque meu email técnico: mel.hermes.vps@gmail.com (posso criar)
+4. Defina permissão: "Administrador de anúncios" ou "Gerente de comércio"
+5. Eu recebo o convite e aceito
+
+Qual prefere?
+
+Se for Opção A, me chama no privado com as credenciais novas.
+Se for Opção B, me diz que email devo usar (ou crio um específico para M.E.L).
+
+
+
+faça isso que voce me mandou no grupo
+```
+
+### Mensagem `20260426_182307_fabd8c:34:6275b75ec645d080`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu quero que você acesse meu meta-business e configure ele para apenas acesse meu meta-business. A senha é aquela que eu te madei o e-mail também. Apenas acesse, não se preocupe e consigurando seu momento."]
+```
+
+### Mensagem `20260426_182307_fabd8c:58:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
+
+### Mensagem `20260426_182307_fabd8c:60:16b48df20691e7b7`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Então, como é o troque, com a campanha do Obeco, do Quim, do Simbo, do Save, do Mashu, do Obeco, O que a gente pode plantar, passar a gente, e o peixe que você pode ver, a gente pode ver o peixe que você pode ver, ou a pessoa que não pode ver o peixe, e o peixe que você pode ver."]
+```
+
+### Mensagem `20260426_182307_fabd8c:62:40e1116fd43c2b46`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+Eu quero que você troque o modelo do OpenClaw na Shield. Quero que você coloque lá a API do OpenRoute. Quero que você coloque o modelo do Kimi 2.6 na AI lá, para que ele já possa usar.
+```
+
+### Mensagem `20260426_182307_fabd8c:171:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
+
+### Mensagem `20260426_182307_fabd8c:173:fc1eebb2757a104a`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+[The user sent an image~ Here's what I can see:
+This is a screenshot of the **Telegram Web** interface (specifically `web.telegram.org`) running in a Chromium-based browser (likely Google Chrome) in **dark mode**. Here is a detailed breakdown:
+
+## Browser & Top Bar
+- **URL Bar**: Displays `web.telegram.org/a/#-5276401803`
+- **Browser Tabs**: Multiple tabs are open with the following visible labels/favicons (left to right): "LE", "Meta", "Bran", "Meta", "ChatC", "Hosti", "Activi", "Finan", "Visão", "Code:", "tradu", "Confi", "catast", "Hydro", and a "+" button for a new tab.
+- **Browser Controls**: Standard window controls (minimize, maximize, close) are visible at the top right, along with a user profile icon labeled "D".
+
+## Left Sidebar (Chat List)
+The sidebar has a dark background and contains:
+- **Top**: A hamburger menu icon (three horizontal lines) and a search bar with placeholder text "Search".
+- **Chat List Items** (from top to bottom):
+  1. **"Mel"**: Profile picture of a woman with dark hair; timestamp **15:14**; message preview "Skill 'openclaw' c..."
+  2. **"LETS"** (currently selected/highlighted with a purple background): Black circular profile picture with white "LETS" text; a speaker/mute icon; timestamp **15:13**; message preview "Shield: ⚠️ Rate-limit..."
+  3. **"Shield"**: Gray circular icon with a white "X" symbol; timestamp **14:03**; message preview "Registrado. Regra fi..."
+  4. **"BotFather"**: Robot/cyborg avatar with a purple checkmark; timestamp **12:15**; message preview "Privacy mod..." with a green **"Open"** pill button.
+  5. **"João Vic..."**: Red/pink circular avatar with "JV" in white text; timestamp **12:11**; message preview "Cola isso no Ope..."
+  6. **"User Inf..."**: Green circular avatar with "ID" text; timestamp **10:37**; message preview "Id: 6152993942 Firs..."
+  7. **"Finanzeiros"**: Purple circular avatar with "F" text; timestamp **"Fri"**; message preview "Ainda não entendi e..."
+  8. **"Arquitetura ..."**: Green circular avatar with "A" text; timestamp **"Mon"**; message preview "Law: Law added João"
+
+## Main Chat Area (Active Conversation)
+The active chat is **"LETS"** with **6 members**, indicated at the top of the panel.
+
+**Background**: Dark with a subtle pattern of line-drawn teacups, spoons, andabstract shapes in purple.
+
+**Message History** (chronological):
+
+1. **Draft/Note Message** (dark gray box with white text):
+   > "- ou João me aciona pra essa etapa com acesso operacional
+   > 
+   > Mensagem cur
+...[truncado pelo live bridge]
+```
+
+### Mensagem `20260426_182307_fabd8c:202:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
+
+### Mensagem `20260426_182307_fabd8c:208:ebb4495cd05fcc28`
+- Sessão Hermes: `20260426_182307_fabd8c`
+- Arquivo: `session_20260426_182307_fabd8c.json`
+
+```text
+You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
+```
