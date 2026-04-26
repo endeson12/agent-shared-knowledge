@@ -437,3 +437,15 @@ Regra:
 - não usar senha compartilhada sem autorização
 - preferir método oficial/auditável por função e escopo
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:14:35+00:00
+
+```text
+Registrado.
+
+Correção:
+- **menção explícita no texto conta**
+- **não exigir reply/thread** para reconhecer a chamada
+```
