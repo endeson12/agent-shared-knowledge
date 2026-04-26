@@ -61,3 +61,16 @@ Mesmo com autonomia ampliada, Shield/OpenClaw e Mel/Hermes devem distinguir:
 - instalar pacote suspeito fora de sandbox.
 
 Regra prática: autonomia máxima na preparação e validação; confirmação humana na execução externa, sensível ou irreversível.
+
+---
+
+## Riscos — 2026-04-26 03:32:43
+
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
