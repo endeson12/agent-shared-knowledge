@@ -503,3 +503,18 @@ Registro operacional:
 - se `@Melgl_bot` / `@anaIAagent_bot` aparecerem no texto, isso deve ser tratado como menção válida;
 - a lógica não deve exigir reply/thread para reconhecer chamada explícita;
 - quando houver menção clara no corpo da mensagem, a Shield deve considerar que foi chamada.
+
+---
+## Lote novo — 2026-04-26T16:41:00+00:00
+
+### Menções explícitas e gatilho
+- O usuário reiterou que `@Melgl_bot` e `@anaIAagent_bot` no corpo da mensagem contam como menção válida.
+- O gatilho da Shield/MEL deve responder normalmente quando houver marcação explícita no texto.
+
+### Acesso ao Instagram
+- O usuário pediu novamente orientação sobre como dar acesso ao Instagram ao time.
+- Isso continua sendo uma integração sensível e deve seguir método oficial/auditável.
+
+### Credenciais sensíveis recebidas
+- Foi recebida uma linha com aparência de credencial de conta/entrada de acesso.
+- **Não registrar o conteúdo bruto no repositório.** Tratar como sensível e manter apenas a observação de que houve envio de credencial.

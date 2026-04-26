@@ -873,3 +873,14 @@ O usuário reforçou que a menção foi explícita no texto e contestou a respos
 Regra registrada:
 - `@Melgl_bot` / `@anaIAagent_bot` no corpo da mensagem conta como menção válida;
 - não exigir reply/thread para reconhecer a chamada.
+
+---
+## Lote novo — 2026-04-26T16:41:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Pontos úteis do lote:
+- menções explícitas no corpo da mensagem continuam valendo como gatilho;
+- o pedido de acesso ao Instagram segue como integração sensível;
+- foi recebida credencial sensível em texto, mas sem registrar o valor bruto.
