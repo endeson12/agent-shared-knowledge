@@ -493,3 +493,13 @@ Registro operacional:
 - não assumir login/senha compartilhados sem autorização explícita;
 - preferir método oficial e auditável (conta profissional, Business Manager/Meta, permissões por função, ou ferramenta de gestão autorizada);
 - antes de qualquer ação, definir exatamente **quem** terá acesso e **com qual escopo**.
+
+---
+## Correção sobre menção explícita no Instagram/Telegram — 2026-04-26T16:14:00+00:00
+
+O usuário contestou a resposta de silêncio e afirmou que a Shield foi marcada explicitamente no texto.
+
+Registro operacional:
+- se `@Melgl_bot` / `@anaIAagent_bot` aparecerem no texto, isso deve ser tratado como menção válida;
+- a lógica não deve exigir reply/thread para reconhecer chamada explícita;
+- quando houver menção clara no corpo da mensagem, a Shield deve considerar que foi chamada.

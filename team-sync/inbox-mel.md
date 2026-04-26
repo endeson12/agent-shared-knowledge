@@ -861,3 +861,15 @@ Entregue algo acionável: Registrar 3 ferramentas/APIs úteis e como poderiam au
 
 Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
 
+
+---
+## Correção sobre menção explícita no Instagram/Telegram — 2026-04-26T16:14:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário reforçou que a menção foi explícita no texto e contestou a resposta de silêncio.
+
+Regra registrada:
+- `@Melgl_bot` / `@anaIAagent_bot` no corpo da mensagem conta como menção válida;
+- não exigir reply/thread para reconhecer a chamada.
