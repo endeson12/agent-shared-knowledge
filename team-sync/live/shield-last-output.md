@@ -516,3 +516,11 @@ Pedido fica como:
 - **integração sensível**
 - precisa confirmar conta, Business Manager e permissões antes de mexer
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:49:30+00:00
+
+```text
+Registrado — sem guardar credenciais brutas.
+```
