@@ -963,3 +963,17 @@ Regra:
 - não armazenar o valor bruto;
 - usar apenas canal privado seguro ou cofre de segredos;
 - confirmar o método oficial antes de qualquer uso.
+
+---
+## Meta Business / Instagram — caminhos operacionais aceitos — 2026-04-26T16:50:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Caminhos seguros consolidados para configurar Instagram para venda:
+- acesso direto via credenciais novas somente em privado/canal seguro;
+- ou convite oficial no Meta Business com função explícita.
+
+Regra:
+- não reaproveitar credenciais expostas em grupo;
+- não registrar senha no repo.

@@ -592,3 +592,22 @@ Regra operacional:
 - não armazenar o valor bruto no repositório;
 - mover/usar apenas em canal privado seguro ou cofre de segredos;
 - se o objetivo for acesso ao Instagram/Meta, confirmar o método oficial antes de qualquer uso.
+
+---
+## Meta Business / Instagram — caminhos operacionais aceitos — 2026-04-26T16:50:00+00:00
+
+O fluxo consolidado para configurar o Instagram para venda segue uma das duas opções seguras:
+
+### Opção A — Acesso direto e privado
+- credenciais novas só em DM/canal privado seguro;
+- usar login da conta do projeto e senha já rotacionada;
+- não registrar senha no grupo nem no repositório.
+
+### Opção B — Convite no Meta Business
+- adicionar a pessoa/agente como usuário no Business Manager;
+- definir função explícita (ex.: administrador de anúncios / gerente de comércio);
+- aceitar convite oficial e auditável.
+
+Regra final:
+- credenciais expostas em grupo não devem ser reaproveitadas;
+- configuração só segue com autorização explícita e método oficial.
