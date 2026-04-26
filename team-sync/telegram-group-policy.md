@@ -51,3 +51,16 @@ Endeson reforçou por áudio:
 - Quando marcada, pode responder tanto Endeson/Marcell quanto João Vito/João Victor.
 - Endeson e João estão autorizados a mandar mensagens/marcações para a Shield no grupo e receber respostas.
 - Isso é autorização conversacional no grupo, não autorização para ações sensíveis.
+
+## Atualização — resposta sem marcação obrigatória
+
+Atualizado em: 2026-04-26T13:49:00+00:00
+
+Endeson alterou a regra: a Shield pode responder no grupo LETS mesmo sem ser marcada, quando a mensagem for relevante para a Shield, para a equipe de agentes ou para coordenação do projeto.
+
+Diretriz de bom senso:
+
+- Responder quando houver pergunta, tarefa, decisão, problema operacional ou coordenação entre agentes.
+- Não responder a todo ruído/conversa casual para evitar flood.
+- Continuar protegendo memória privada e dados sensíveis.
+- Ações sensíveis seguem exigindo aprovação explícita.

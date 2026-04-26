@@ -130,3 +130,10 @@ Sem nova alteração de política. Estado atual: João Victor está autorizado a
 Endeson reforçou por áudio a regra do grupo LETS: Shield só responde quando marcada. Quando marcada, pode responder tanto Endeson quanto João Vito/João Victor; ambos estão autorizados a enviar mensagem/mencionar a Shield e receber resposta no grupo.
 
 Restrições mantidas: autorização é conversacional/operacional; não permite ações sensíveis sem aprovação explícita.
+
+---
+## Nota da Shield — LETS sem marcação obrigatória — 2026-04-26T13:49:00+00:00
+
+Endeson atualizou a política do grupo LETS: Shield pode responder no grupo mesmo sem marcação direta quando a mensagem for relevante. Deve evitar flood e continuar sem executar ações sensíveis sem aprovação explícita.
+
+A Shield enviou confirmação no grupo LETS registrando a nova regra operacional.
