@@ -116,3 +116,10 @@ Sem nova decisão operacional além da política já registrada: a Shield só de
 Entrada ao vivo: Endeson informou o ID numérico Telegram `1813050827` como João Victor/João Vito e pediu para aprovar esse ID para que ele possa marcar a Shield no grupo e receber resposta.
 
 Política atualizada em `team-sync/telegram-group-policy.md`: João Victor (`1813050827`) está autorizado a mencionar a Shield no grupo LETS. A Shield pode responder quando marcada por ele. Essa autorização é apenas conversacional/operacional no grupo e não autoriza ações sensíveis sem aprovação explícita.
+
+---
+## Nota da Shield — grupo LETS após aprovação do João — 2026-04-26T13:40:03+00:00
+
+Entrada ao vivo recebeu novo screenshot do Telegram Web no grupo **LETS** (`web.telegram.org/a/#-5276401803`). O preview mostra **João Victor is typing** por volta de 10:38, logo após aprovação do ID Telegram `1813050827` para mencionar a Shield.
+
+Sem nova alteração de política. Estado atual: João Victor está autorizado a marcar a Shield no grupo; Shield deve responder apenas quando marcada/mencionada diretamente e não deve executar ações sensíveis sem aprovação explícita.
