@@ -562,3 +562,21 @@ Regra adicionada:
 - toda mudança precisa de **quem fez + o que fez**, resumido
 - isso ajuda o próximo agente a continuar sem bagunça
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:54:34+00:00
+
+```text
+Processado.
+
+Ficou consolidado:
+- menção explícita no texto conta
+- cada agente responde só ao que é dele
+- Instagram/Meta Business só via método oficial
+- credenciais não são guardadas
+- browser dedicado ainda depende de browser estável instalado
+- OpenRouter/Kimi 2.5 segue pendente de suporte nativo
+
+Se quiser, o próximo passo é definir o método oficial do Meta Business.
+```
