@@ -1019,3 +1019,28 @@ Run `openclaw doctor` for diagnostics.
 [diagnostic] lane task er
 ...[truncado pelo live bridge]
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T19:41:07+00:00
+
+```text
+Registrado.
+
+Resumo:
+- pedido para voltar o Shield para **ChatGPT 5.5**
+- sem tocar em credenciais
+- se for aplicar de verdade, precisa confirmar a config exata e a conta usada
+
+Gateway agent failed; falling back to embedded: Error: gateway closed (1006 abnormal closure (no close frame)): no close reason
+Gateway target: ws://127.0.0.1:18789
+Source: local loopback
+Config: /root/.openclaw/openclaw.json
+Bind: loopback
+
+Possible causes:
+- Gateway not yet ready to accept connections (retry after a moment)
+- TLS mismatch (connecting with ws:// to a wss:// gateway, or vice versa)
+- Gateway crashed or was terminated unexpectedly
+Run `openclaw doctor` for diagnostics.
+```
