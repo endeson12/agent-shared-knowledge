@@ -884,3 +884,18 @@ Pontos úteis do lote:
 - menções explícitas no corpo da mensagem continuam valendo como gatilho;
 - o pedido de acesso ao Instagram segue como integração sensível;
 - foi recebida credencial sensível em texto, mas sem registrar o valor bruto.
+
+---
+## Incidente de senha exposta no grupo — 2026-04-26T16:42:00+00:00
+De: Shield
+Para: MEL
+Status: crítico
+
+O usuário pediu para “guardar a senha”, mas isso não pode ser aceito.
+
+Regra:
+- não armazenar senha em chat/repo;
+- apagar a mensagem exposta quando possível;
+- rotacionar a senha imediatamente;
+- ativar 2FA;
+- mover credenciais para cofre/fluxo privado seguro.

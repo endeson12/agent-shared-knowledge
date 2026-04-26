@@ -518,3 +518,17 @@ Registro operacional:
 ### Credenciais sensíveis recebidas
 - Foi recebida uma linha com aparência de credencial de conta/entrada de acesso.
 - **Não registrar o conteúdo bruto no repositório.** Tratar como sensível e manter apenas a observação de que houve envio de credencial.
+
+---
+## Incidente de senha exposta no grupo — 2026-04-26T16:42:00+00:00
+
+O usuário pediu para “apagar a mensagem” e “guardar a senha” após exposição em grupo.
+
+Regra operacional registrada:
+- **não armazenar senhas em chat nem no repositório**;
+- se uma senha vazar em grupo, a resposta correta é:
+  1. apagar a mensagem exposta quando possível;
+  2. rotacionar a senha imediatamente;
+  3. ativar 2FA;
+  4. mover credenciais para um cofre/secret manager ou fluxo privado seguro;
+  5. nunca reutilizar a senha exposta.
