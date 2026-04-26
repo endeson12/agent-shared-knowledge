@@ -12,3 +12,4 @@
 - 2026-04-26T13:20:01+00:00 — Brevo API — https://developers.brevo.com/ — status HTTP 200 — salvo em sandbox/api-docs/brevo-api.html
 - 2026-04-26T14:20:02+00:00 — Mailchimp Marketing API — https://mailchimp.com/developer/marketing/api/ — status HTTP 200 — salvo em sandbox/api-docs/mailchimp-marketing-api.html
 - 2026-04-26T15:20:02+00:00 — Google Sheets API — https://developers.google.com/sheets/api/guides/concepts — status HTTP 200 — salvo em sandbox/api-docs/google-sheets-api.html
+- 2026-04-26T16:20:01+00:00 — Meta Marketing API — https://developers.facebook.com/docs/marketing-apis/ — status HTTP 200 — salvo em sandbox/api-docs/meta-marketing-api.html
