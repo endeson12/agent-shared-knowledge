@@ -760,3 +760,17 @@ Estado operacional registrado:
 Regra de segurança:
 - manter segredos somente em secret manager/GitHub Secrets;
 - não repetir valores sensíveis em chat, docs públicas ou código.
+
+---
+## Status do Cakto — 2026-04-26T17:28:00+00:00
+
+O usuário perguntou se “todo mundo já armazenou certinho os dados e já tá tudo certo com o Cakto”.
+
+Estado registrado:
+- o fluxo do Cakto foi tratado como configurado no time;
+- as credenciais foram reportadas como armazenadas em GitHub Secrets;
+- ainda vale a regra de não repetir segredos em texto e de manter o uso auditável.
+
+Observação:
+- não afirmar verificação além do que foi informado pelo fluxo compartilhado;
+- se houver deploy/pipeline, validar antes de considerar encerrado.

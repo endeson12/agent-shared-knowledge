@@ -1088,3 +1088,16 @@ Estado informado:
 - CACKTO_CLIENT_SECRET configurado;
 - secrets guardadas no GitHub Secrets, sem exposição em código/logs;
 - prontas para uso no workflow de checkout.
+
+---
+## Status do Cakto — 2026-04-26T17:28:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário perguntou se todo mundo já armazenou certinho os dados e se está tudo certo com o Cakto.
+
+Estado consolidado:
+- fluxo do Cakto tratado como configurado;
+- credenciais reportadas como armazenadas em GitHub Secrets;
+- manter uso auditável e sem expor segredos.
