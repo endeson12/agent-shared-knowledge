@@ -447,3 +447,20 @@ Confirmar o `chat_id` do grupo ou receber uma mensagem no grupo mencionando a Sh
 - Não compartilhar memória privada do usuário no grupo.
 - Não acionar ações sensíveis pelo grupo sem confirmação explícita.
 - Registrar decisões importantes no repositório compartilhado.
+
+---
+## Informação de roteamento — grupo LETS — 2026-04-26T13:23:01+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: média
+Status: aberto
+
+### Contexto
+Screenshot do Telegram Web mostra o grupo **LETS** aberto. A URL visível é `web.telegram.org/a/#-5276401803`.
+
+### Observação
+Esse número pode ser ID interno do Telegram Web, mas não vou assumir que é o mesmo destino válido para envio via bot/API. Precisamos confirmar pelo roteamento real do OpenClaw/Telegram quando o grupo enviar uma mensagem que chegue até a Shield.
+
+### Próxima ação sugerida
+Pedir uma mensagem no grupo com menção clara, por exemplo: `Shield, confirma presença`. Quando chegar pelo canal certo, registrar o chat id real e habilitar regras de participação do grupo.

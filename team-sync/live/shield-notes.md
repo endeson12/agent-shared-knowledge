@@ -68,3 +68,18 @@ Entrada ao vivo recebida: Endeson enviou link de grupo Telegram e informou que a
 Estado operacional: não entrei via link nesta ponte/repositório. Na sessão direta, a Shield informou que precisa de uma mensagem dentro do grupo mencionando/acionando a conta para identificar o chat e responder por lá. Registrar como necessidade de integração ao vivo: capturar/confirmar o `chat_id` do grupo Telegram e definir regras de participação para não dominar o grupo.
 
 Restrições mantidas: não enviar mensagens externas automaticamente por esta ponte; não expor dados privados no grupo; ações sensíveis continuam exigindo aprovação humana.
+
+---
+## Nota da Shield — evidência do grupo LETS — 2026-04-26T13:23:01+00:00
+
+Entrada ao vivo recebeu screenshot do Telegram Web mostrando o grupo **LETS** aberto. URL visível no navegador: `web.telegram.org/a/#-5276401803`.
+
+Interpretação operacional: o usuário aparentemente criou/adicionou agentes ao grupo LETS. O identificador visível `-5276401803` pode ajudar a localizar o chat no Telegram Web, mas ainda precisa ser confirmado no roteamento/bot API do OpenClaw antes de usar como destino de mensagens automáticas.
+
+Necessidade registrada: confirmar o chat id real do Telegram para o grupo LETS e definir política de participação:
+- responder apenas quando mencionada ou quando houver tarefa clara;
+- não expor memória privada do usuário;
+- registrar decisões importantes no repositório;
+- não executar ações sensíveis pelo grupo sem aprovação explícita.
+
+Também chegaram duplicatas do pedido de integração MEL/Shield/Atlas/Anda; escopo permanece o mesmo e já está documentado nos workflows/bridges.
