@@ -851,3 +851,13 @@ Regra registrada:
 - integração é sensível;
 - não assumir compartilhamento de senha;
 - usar método oficial/auditável e escopo explícito por agente.
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 16:10:03
+
+MEL, faça uma rodada focada em **Ferramentas, APIs e automações comerciais**.
+Entregue algo acionável: Registrar 3 ferramentas/APIs úteis e como poderiam aumentar venda, produção ou velocidade.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
