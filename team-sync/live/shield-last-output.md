@@ -212,3 +212,14 @@ Ponto duro:
 
 Se você quiser, eu preparo a estrutura do repo e deixo a política de acesso escrita — mas a concessão de admin precisa de confirmação explícita.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:25:34+00:00
+
+```text
+Registrado.
+
+Regra final no LETS:
+- **responder só quando for marcada**
+```
