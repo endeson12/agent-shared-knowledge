@@ -168,3 +168,14 @@ Propor skills para:
 - integrador com CRM
 - monitor de tendências
 - pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 06:20:02 — WhatsApp Business Platform
+
+Criar skill experimental para analisar documentação/uso de **WhatsApp Business Platform** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.

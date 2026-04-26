@@ -260,3 +260,28 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## Pesquisa ativa — 2026-04-26 06:20:02 — WhatsApp Business Platform
+
+- Link oficial: https://developers.facebook.com/docs/whatsapp/
+- Finalidade: Atendimento, notificações aprovadas, funil e automação com consentimento.
+- Status download: HTTP 200
+- Arquivo sandbox: sandbox/api-docs/whatsapp-business-platform.html
+- Texto extraído: sandbox/api-docs/whatsapp-business-platform.txt
+- Uso possível em vendas: criar automações, relatórios, funis, segmentações, integração com CRM/planilhas e geração de campanhas/ideias.
+- Autenticação: verificar OAuth/API key/permissões na documentação oficial antes de qualquer teste.
+- Riscos: custos, limites de uso, políticas da plataforma, privacidade, LGPD, tokens e ações externas.
+- Próximo teste seguro: criar exemplo em sandbox usando dados fake e arquivo .env.example, sem token real.
+- Observação: Baixado para análise em sandbox. Revisar documentação oficial, autenticação, permissões, limites, custos, webhooks e riscos antes de qualquer uso real.
+
+---
+
+## API avaliada — 2026-04-26 06:20:02 — WhatsApp Business Platform
+
+- URL: https://developers.facebook.com/docs/whatsapp/
+- Categoria: api-research.md
+- Propósito: Atendimento, notificações aprovadas, funil e automação com consentimento.
+- Sandbox: sandbox/api-docs/whatsapp-business-platform.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
