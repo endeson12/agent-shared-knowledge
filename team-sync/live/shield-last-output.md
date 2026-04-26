@@ -625,3 +625,16 @@ Prioridade que ficou:
 
 Se você quiser, eu começo pela **agent-handoff-panel**.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:16:30+00:00
+
+```text
+Registrado.
+
+Regra corrigida:
+- menção explícita à **Shield** no texto também conta
+- não depender de reply/thread
+- não ficar em silêncio quando for chamada claramente
+```
