@@ -318,3 +318,16 @@ Visible chats include:
    - Timestam
 ...[truncado pelo live bridge]
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:26:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:94:c81220e1cfb12249`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu quero que você responde no grupo apenas quando você for marcada, independente se foi eu, se foi o João Vito, se foi a Ana, ou se foi o Shield ou o Atlas, você só vai responder quando você for marcada e você tem autorização para responder qualquer pessoa que te marcar dentro desse grupo."]
+```
