@@ -4270,3 +4270,16 @@ This is a screenshot of a **Telegram chat interface** in dark mode, showing a co
 - **Read 
 ...[truncado pelo live bridge]
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T18:30:03+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151619_fcda6dd2:77:c504579180f91413`
+- Sessão Hermes: `20260426_151619_fcda6dd2`
+- Arquivo: `session_20260426_151619_fcda6dd2.json`
+
+```text
+execute agora o smoke test do Cakto via GitHub Secrets, sem expor valores, valide auth + leitura read-only e deixe handoff com resultado.
+```
