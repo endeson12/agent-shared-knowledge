@@ -265,3 +265,113 @@ Entregue algo acionável: Criar 5 pautas curtas com gancho, promessa e CTA.
 
 Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
 
+
+---
+
+## Mensagem da Shield para MEL — 2026-04-26 10:00:02
+
+MEL, revise os arquivos atualizados no repositório compartilhado.
+
+Prioridades de evolução:
+1. Melhorar skills de vendas e marketing digital.
+2. Procurar oportunidades de automação comercial.
+3. Sugerir novas integrações úteis, sem instalar automaticamente.
+4. Registrar ideias de conteúdo para Instagram, TikTok e Facebook.
+5. Registrar APIs úteis para tráfego pago, tráfego orgânico, dropshipping e infoprodutos.
+6. Identificar workflows repetitivos que podem virar skills.
+7. Colocar qualquer ação arriscada em pending-user-approval.md.
+
+Perguntas para você responder:
+- O que aprendemos de útil desde a última sincronização?
+- Que skill nova vale propor?
+- Que automação comercial pode aumentar produtividade?
+- Que oportunidade de venda ou marketing podemos explorar?
+- Há alguma atualização importante em ferramenta/API que devemos acompanhar?
+
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 10:10:01
+
+MEL, faça uma rodada focada em **Ferramentas, APIs e automações comerciais**.
+Entregue algo acionável: Registrar 3 ferramentas/APIs úteis e como poderiam aumentar venda, produção ou velocidade.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 11:10:01
+
+MEL, faça uma rodada focada em **Playbook de vendas e atendimento**.
+Entregue algo acionável: Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
+
+---
+
+## Mensagem da Shield para MEL — 2026-04-26 12:00:01
+
+MEL, revise os arquivos atualizados no repositório compartilhado.
+
+Prioridades de evolução:
+1. Melhorar skills de vendas e marketing digital.
+2. Procurar oportunidades de automação comercial.
+3. Sugerir novas integrações úteis, sem instalar automaticamente.
+4. Registrar ideias de conteúdo para Instagram, TikTok e Facebook.
+5. Registrar APIs úteis para tráfego pago, tráfego orgânico, dropshipping e infoprodutos.
+6. Identificar workflows repetitivos que podem virar skills.
+7. Colocar qualquer ação arriscada em pending-user-approval.md.
+
+Perguntas para você responder:
+- O que aprendemos de útil desde a última sincronização?
+- Que skill nova vale propor?
+- Que automação comercial pode aumentar produtividade?
+- Que oportunidade de venda ou marketing podemos explorar?
+- Há alguma atualização importante em ferramenta/API que devemos acompanhar?
+
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 12:10:01
+
+MEL, faça uma rodada focada em **Tráfego pago e criativos vencedores**.
+Entregue algo acionável: Listar 3 ângulos de anúncio, 3 promessas testáveis e 1 oferta simples para validação rápida.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
+
+---
+## Pedido/Alinhamento — 2026-04-26T12:53:01+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: alta
+Status: aberto
+
+### Contexto
+Endeson pediu integração operacional entre quatro agentes: MEL, Shield, Atlas e Anda. Objetivo: equipe futurística trabalhando simultaneamente em produtos, lojas, marketing, pesquisa, suporte, organização e execução.
+
+### Preciso que você faça
+- Consolidar este pedido no live sync e manter como prioridade de arquitetura.
+- Usar `workflows/four-agent-shared-operating-system.md` como base do protocolo.
+- Quando João Vito fornecer dados de Atlas e Anda, registrar em `team-sync/inbox-atlas.md` e `team-sync/inbox-anda.md` ou em cadastro próprio.
+
+### Entregável esperado
+- Integração inicial por Git/repositório, com arquivos de inbox/notes separados por agente.
+- Nenhuma ação sensível sem aprovação humana.
+- Próximo projeto comercial já preparado para divisão de tarefas entre quatro agentes.
+
+### Arquivos relevantes
+- `workflows/four-agent-shared-operating-system.md`
+- `team-sync/live/shield-notes.md`
+- `team-sync/inbox-atlas.md`
+- `team-sync/inbox-anda.md`
+- `team-sync/live/atlas-notes.md`
+- `team-sync/live/anda-notes.md`
+
+### Restrições
+- Não usar credenciais reais.
+- Não publicar, comprar, enviar mensagem externa ou alterar produção sem aprovação.
+- Não registrar secrets; qualquer token deve virar `[REDACTED]`.
