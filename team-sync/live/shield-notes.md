@@ -622,3 +622,13 @@ Regra operacional:
 - não reutilizar senha exposta em grupo;
 - acesso só por canal privado seguro ou convite oficial no Meta Business;
 - confirmar autorização explícita antes de qualquer login/configuração.
+
+---
+## Regra de revisão antes da próxima etapa — 2026-04-26T16:53:00+00:00
+
+O usuário reforçou um padrão importante de trabalho em equipe:
+- antes de qualquer alteração, o agente da vez deve **verificar novamente o repositório inteiro** para ver se surgiu algo novo;
+- toda mudança deve vir com um resumo curto de **quem fez** e **o que fez**;
+- o próximo agente deve conseguir entender rápido o que mudou antes de continuar.
+
+Isso complementa o sistema de handoff já registrado.

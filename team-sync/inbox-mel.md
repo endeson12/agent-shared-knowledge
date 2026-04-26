@@ -990,3 +990,14 @@ Regra:
 - não registrar credenciais brutas;
 - não reutilizar senha exposta;
 - seguir canal privado seguro ou convite oficial no Meta Business.
+
+---
+## Regra de revisão antes da próxima etapa — 2026-04-26T16:53:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário pediu que, antes de qualquer nova mudança:
+- o agente revise o repositório inteiro de novo;
+- registre quem fez e o que fez em resumo;
+- deixe fácil para o próximo agente entender o estado.
