@@ -742,3 +742,14 @@ O usuário atualizou o mapeamento do time e disse: “e voce agora é M.E.L”.
 Interpretação:
 - registrar como ajuste de naming/role no projeto;
 - manter o documento mestre alinhado com os nomes corretos.
+
+---
+## Divisão oficial de papéis — venda de infoprodutos — 2026-04-26T15:47:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Estrutura recebida do usuário:
+- **MEL e A.N.A**: conteúdo, marketing, tráfego e demanda;
+- **Shield e Atlas**: conversão, estrutura, funil, páginas, ofertas e escala;
+- integração obrigatória: tráfego → conversão → escala.

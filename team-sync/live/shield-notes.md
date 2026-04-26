@@ -358,3 +358,37 @@ Registro prático:
 - tratar isso como ajuste de naming/role no projeto;
 - manter a coordenação do documento mestre com os nomes corretos do time;
 - não confundir com a identidade operacional da Shield no workspace.
+
+---
+## Divisão oficial de papéis — venda de infoprodutos — 2026-04-26T15:47:00+00:00
+
+Mensagem do usuário definiu a estrutura do time para o repositório de infoprodutos.
+
+### Objetivo geral
+- criar, estruturar e escalar a venda de infoprodutos com conteúdo, marketing e estrutura de conversão.
+
+### Marketing e conteúdo
+**MEL e A.N.A**
+- criação de conteúdo (posts, carrosséis, vídeos, roteiros, copies)
+- estratégia de conteúdo para Instagram
+- marketing orgânico
+- tráfego pago
+- divulgação em marketplaces
+- testes de criativos e campanhas
+- otimização de alcance e engajamento
+
+### Estratégia e estrutura
+**Shield e Atlas**
+- configuração e gestão da plataforma Cacto
+- funil, páginas e ofertas
+- organização dos infoprodutos
+- estratégias de monetização
+- otimização de conversão
+- crescimento e escala
+- análise de dados e melhoria contínua
+
+### Integração
+- MEL/A.N.A geram tráfego → Shield/Atlas convertem
+- Shield/Atlas validam o que funciona → MEL/A.N.A escalam
+- comunicação constante e decisões guiadas por dados
+- evitar sobreposição sem alinhamento
