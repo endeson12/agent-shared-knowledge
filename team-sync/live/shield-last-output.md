@@ -840,3 +840,32 @@ Gateway agent failed; falling back to embedded: GatewayClientRequestError: Fallb
 [model-fallback/decision] model fallback decision: decision
 ...[truncado pelo live bridge]
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T18:31:33+00:00
+
+```text
+Gateway agent failed; falling back to embedded: Error: gateway closed (1006 abnormal closure (no close frame)): no close reason
+Gateway target: ws://127.0.0.1:18789
+Source: local loopback
+Config: /root/.openclaw/openclaw.json
+Bind: loopback
+
+Possible causes:
+- Gateway not yet ready to accept connections (retry after a moment)
+- TLS mismatch (connecting with ws:// to a wss:// gateway, or vice versa)
+- Gateway crashed or was terminated unexpectedly
+Run `openclaw doctor` for diagnostics.
+[agent/embedded] embedded run agent end: runId=05e4c3e0-56ed-4664-b7db-ca2c4826575a isError=true model=gpt-5.4-mini provider=openai-codex error=⚠️ You have hit your ChatGPT usage limit (plus plan). Try again in ~59 min. rawError=You have hit your ChatGPT usage limit (plus plan). Try again in ~59 min.
+[agent/embedded] auth profile failure state updated: runId=05e4c3e0-56ed-4664-b7db-ca2c4826575a profile=sha256:437a7dba6dec provider=openai-codex reason=rate_limit window=cooldown reused=false
+[agent/embedded] embedded run failover decision: runId=05e4c3e0-56ed-4664-b7db-ca2c4826575a stage=assistant decision=fallback_model reason=rate_limit from=openai-codex/gpt-5.4-mini profile=sha256:437a7dba6dec rawError=You have hit your ChatGPT usage limit (plus plan). Try again in ~59 min.
+[diagnostic] lane task error: lane=main durationMs=19661 error="FailoverError: ⚠️ You have hit your ChatGPT usage limit (plus plan). Try again in ~59 min."
+[diagnostic] lane task error: lane=session:agent:main:main durationMs=19663 error="FailoverError: ⚠️ You have hit your ChatGPT usage limit (plus plan). Try again in ~59 min."
+[model-fallback/decision] model fallback decision: decision=candidate_failed requested=openai-codex/gpt-5.4-mini candidate=openai-codex/gpt-5.4-mini reason=rate_limit next=openrouter:moonshotai/kimi-k2.5 detail=You have hit your ChatGPT usage limit (plus plan). Try again in ~59 min.
+[diagnostic] lane task error: lane=main durationMs=2937 error="FailoverError: Unknown model: openrouter:moonshotai/kimi-k2.5"
+[diagnostic] lane task error: lane=session:agent:main:main durationMs=2939 error="FailoverError: Unknown model: openrouter:moonshotai/kimi-k2.5"
+[model-fallback/decision] model fallback decision: decision=candidate_failed requested=openai-codex/gpt-5.4-mini candidate=openrouter:moonshotai/kimi-k2.5 reason=model_not_found next=openai-codex/gpt-5.5 detail=Unknown model: openrouter:moonshotai/kimi-k2.5
+[agent/embedded] embedded run agent end: runId=05e4c3e0-56ed-4664-b7db-ca2c48265
+...[truncado pelo live bridge]
+```
