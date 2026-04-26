@@ -78,3 +78,43 @@ Foco deste ciclo:
 - priorizar ofertas com dor clara, ticket validável e criativos testáveis;
 - separar hipótese de fato comprovado;
 - registrar fontes e próximos testes em sandbox.
+
+---
+
+## Radar de marketing — 2026-04-26 10:00:02
+
+Foco deste ciclo:
+- mapear oportunidades de retorno rápido sem prometer ganho;
+- priorizar ofertas com dor clara, ticket validável e criativos testáveis;
+- separar hipótese de fato comprovado;
+- registrar fontes e próximos testes em sandbox.
+
+---
+
+## Radar de marketing — 2026-04-26 11:00:01
+
+Foco deste ciclo:
+- mapear oportunidades de retorno rápido sem prometer ganho;
+- priorizar ofertas com dor clara, ticket validável e criativos testáveis;
+- separar hipótese de fato comprovado;
+- registrar fontes e próximos testes em sandbox.
+
+---
+
+## Radar de marketing — 2026-04-26 12:00:01
+
+Foco deste ciclo:
+- mapear oportunidades de retorno rápido sem prometer ganho;
+- priorizar ofertas com dor clara, ticket validável e criativos testáveis;
+- separar hipótese de fato comprovado;
+- registrar fontes e próximos testes em sandbox.
+
+---
+
+## Radar de marketing — 2026-04-26 13:00:01
+
+Foco deste ciclo:
+- mapear oportunidades de retorno rápido sem prometer ganho;
+- priorizar ofertas com dor clara, ticket validável e criativos testáveis;
+- separar hipótese de fato comprovado;
+- registrar fontes e próximos testes em sandbox.

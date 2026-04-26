@@ -416,3 +416,206 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 09:20:03 — Stripe API
+
+- URL: https://docs.stripe.com/api
+- Categoria: infoproducts.md
+- Propósito: Checkout, pagamentos, assinaturas e billing.
+- Sandbox: sandbox/api-docs/stripe-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
+
+---
+
+## Pesquisa de APIs — 2026-04-26 10:00:02
+
+Pesquisar e documentar APIs úteis:
+
+- Meta Marketing API
+- Instagram Graph API
+- TikTok Marketing API
+- Google Ads API
+- YouTube Data API
+- WhatsApp Business API
+- Shopify API
+- WooCommerce REST API
+- Stripe API
+- Mercado Pago API
+- Hotmart API
+- Kiwify, se disponível
+- Eduzz, se disponível
+- Braip, se disponível
+- RD Station API
+- ActiveCampaign API
+- Mailchimp API
+- Brevo API
+- Notion API
+- Airtable API
+- Google Sheets API
+
+Para cada API registrar:
+- link oficial
+- finalidade
+- autenticação necessária
+- riscos
+- custo
+- casos de uso para vendas
+- possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 10:20:01 — Mercado Pago Developers
+
+- URL: https://www.mercadopago.com.br/developers/pt/docs
+- Categoria: infoproducts.md
+- Propósito: Checkout, pagamentos no Brasil e automações comerciais.
+- Sandbox: sandbox/api-docs/mercado-pago-developers.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
+
+---
+
+## Pesquisa de APIs — 2026-04-26 11:00:01
+
+Pesquisar e documentar APIs úteis:
+
+- Meta Marketing API
+- Instagram Graph API
+- TikTok Marketing API
+- Google Ads API
+- YouTube Data API
+- WhatsApp Business API
+- Shopify API
+- WooCommerce REST API
+- Stripe API
+- Mercado Pago API
+- Hotmart API
+- Kiwify, se disponível
+- Eduzz, se disponível
+- Braip, se disponível
+- RD Station API
+- ActiveCampaign API
+- Mailchimp API
+- Brevo API
+- Notion API
+- Airtable API
+- Google Sheets API
+
+Para cada API registrar:
+- link oficial
+- finalidade
+- autenticação necessária
+- riscos
+- custo
+- casos de uso para vendas
+- possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 11:20:01 — Hotmart Developers
+
+- URL: https://developers.hotmart.com/
+- Categoria: infoproducts.md
+- Propósito: Infoprodutos, vendas, assinaturas e webhooks.
+- Sandbox: sandbox/api-docs/hotmart-developers.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
+
+---
+
+## Pesquisa de APIs — 2026-04-26 12:00:01
+
+Pesquisar e documentar APIs úteis:
+
+- Meta Marketing API
+- Instagram Graph API
+- TikTok Marketing API
+- Google Ads API
+- YouTube Data API
+- WhatsApp Business API
+- Shopify API
+- WooCommerce REST API
+- Stripe API
+- Mercado Pago API
+- Hotmart API
+- Kiwify, se disponível
+- Eduzz, se disponível
+- Braip, se disponível
+- RD Station API
+- ActiveCampaign API
+- Mailchimp API
+- Brevo API
+- Notion API
+- Airtable API
+- Google Sheets API
+
+Para cada API registrar:
+- link oficial
+- finalidade
+- autenticação necessária
+- riscos
+- custo
+- casos de uso para vendas
+- possibilidade de skill
+
+---
+
+## Pesquisa ativa — 2026-04-26 12:20:01 — RD Station Developers
+
+- Link oficial: https://developers.rdstation.com/
+- Finalidade: CRM, leads, automação de marketing e funil.
+- Status download: HTTP 200
+- Arquivo sandbox: sandbox/api-docs/rd-station-developers.html
+- Texto extraído: sandbox/api-docs/rd-station-developers.txt
+- Uso possível em vendas: criar automações, relatórios, funis, segmentações, integração com CRM/planilhas e geração de campanhas/ideias.
+- Autenticação: verificar OAuth/API key/permissões na documentação oficial antes de qualquer teste.
+- Riscos: custos, limites de uso, políticas da plataforma, privacidade, LGPD, tokens e ações externas.
+- Próximo teste seguro: criar exemplo em sandbox usando dados fake e arquivo .env.example, sem token real.
+- Observação: Baixado para análise em sandbox. Revisar documentação oficial, autenticação, permissões, limites, custos, webhooks e riscos antes de qualquer uso real.
+
+---
+
+## API avaliada — 2026-04-26 12:20:01 — RD Station Developers
+
+- URL: https://developers.rdstation.com/
+- Categoria: api-research.md
+- Propósito: CRM, leads, automação de marketing e funil.
+- Sandbox: sandbox/api-docs/rd-station-developers.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
+
+---
+
+## Pesquisa de APIs — 2026-04-26 13:00:01
+
+Pesquisar e documentar APIs úteis:
+
+- Meta Marketing API
+- Instagram Graph API
+- TikTok Marketing API
+- Google Ads API
+- YouTube Data API
+- WhatsApp Business API
+- Shopify API
+- WooCommerce REST API
+- Stripe API
+- Mercado Pago API
+- Hotmart API
+- Kiwify, se disponível
+- Eduzz, se disponível
+- Braip, se disponível
+- RD Station API
+- ActiveCampaign API
+- Mailchimp API
+- Brevo API
+- Notion API
+- Airtable API
+- Google Sheets API
+
+Para cada API registrar:
+- link oficial
+- finalidade
+- autenticação necessária
+- riscos
+- custo
+- casos de uso para vendas
+- possibilidade de skill

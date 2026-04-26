@@ -152,3 +152,55 @@ Evitar automaticamente:
 - spam em WhatsApp/Instagram/Facebook;
 - alegação de renda garantida ou produto milagroso;
 - violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
+
+---
+
+## Riscos — 2026-04-26 10:00:02
+
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
+
+---
+
+## Riscos — 2026-04-26 11:00:01
+
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
+
+---
+
+## Riscos — 2026-04-26 12:00:01
+
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.
+
+---
+
+## Riscos — 2026-04-26 13:00:01
+
+Evitar automaticamente:
+- gastar dinheiro ou ativar campanha;
+- usar tokens reais em sandbox;
+- instalar pacote suspeito fora de sandbox;
+- scraping proibido;
+- spam em WhatsApp/Instagram/Facebook;
+- alegação de renda garantida ou produto milagroso;
+- violar políticas de Meta Ads, TikTok Ads, Google Ads ou marketplaces.

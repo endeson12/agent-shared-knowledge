@@ -101,3 +101,47 @@ Ideias de canais:
 - prova social ética;
 - conteúdo de comparação e checklist;
 - WhatsApp Business com opt-in, sem spam.
+
+---
+
+## Tráfego orgânico — 2026-04-26 10:00:02
+
+Ideias de canais:
+- Reels/TikTok com demonstração de produto;
+- carrossel educativo para dor + solução;
+- prova social ética;
+- conteúdo de comparação e checklist;
+- WhatsApp Business com opt-in, sem spam.
+
+---
+
+## Tráfego orgânico — 2026-04-26 11:00:01
+
+Ideias de canais:
+- Reels/TikTok com demonstração de produto;
+- carrossel educativo para dor + solução;
+- prova social ética;
+- conteúdo de comparação e checklist;
+- WhatsApp Business com opt-in, sem spam.
+
+---
+
+## Tráfego orgânico — 2026-04-26 12:00:01
+
+Ideias de canais:
+- Reels/TikTok com demonstração de produto;
+- carrossel educativo para dor + solução;
+- prova social ética;
+- conteúdo de comparação e checklist;
+- WhatsApp Business com opt-in, sem spam.
+
+---
+
+## Tráfego orgânico — 2026-04-26 13:00:01
+
+Ideias de canais:
+- Reels/TikTok com demonstração de produto;
+- carrossel educativo para dor + solução;
+- prova social ética;
+- conteúdo de comparação e checklist;
+- WhatsApp Business com opt-in, sem spam.

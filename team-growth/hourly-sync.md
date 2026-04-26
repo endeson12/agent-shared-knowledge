@@ -431,3 +431,203 @@ Não ativar campanhas pagas.
 Não publicar nada automaticamente.
 Não prometer dinheiro rápido sem validação real.
 
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 09:20:03
+
+Fonte estudada: **Stripe API**
+Link: https://docs.stripe.com/api
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.
+
+---
+
+# Ciclo horário — 2026-04-26 10:00:02
+
+## Missão da hora
+
+Shield e MEL devem evoluir conhecimento em:
+
+- vendas
+- marketing digital
+- tráfego pago
+- tráfego orgânico
+- infoprodutos
+- dropshipping
+- produtos ganhadores
+- produtos de venda rápida
+- APIs úteis
+- SDKs úteis
+- skills úteis
+- automações comerciais
+
+## Perguntas obrigatórias
+
+1. Qual oportunidade comercial nova encontramos?
+2. Qual API ou ferramenta vale estudar?
+3. Qual skill pode aumentar produtividade?
+4. Qual campanha ou criativo pode gerar venda?
+5. Qual produto/nicho parece promissor?
+6. Qual risco precisa ser evitado?
+7. O que deve ser testado em sandbox?
+8. O que precisa de aprovação humana?
+
+## Regra
+
+Registrar descobertas no repositório.
+Baixar apenas documentação, SDKs oficiais e repositórios para sandbox.
+Não usar tokens reais em testes.
+Não ativar campanhas pagas.
+Não publicar nada automaticamente.
+Não prometer dinheiro rápido sem validação real.
+
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 10:20:01
+
+Fonte estudada: **Mercado Pago Developers**
+Link: https://www.mercadopago.com.br/developers/pt/docs
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.
+
+---
+
+# Ciclo horário — 2026-04-26 11:00:01
+
+## Missão da hora
+
+Shield e MEL devem evoluir conhecimento em:
+
+- vendas
+- marketing digital
+- tráfego pago
+- tráfego orgânico
+- infoprodutos
+- dropshipping
+- produtos ganhadores
+- produtos de venda rápida
+- APIs úteis
+- SDKs úteis
+- skills úteis
+- automações comerciais
+
+## Perguntas obrigatórias
+
+1. Qual oportunidade comercial nova encontramos?
+2. Qual API ou ferramenta vale estudar?
+3. Qual skill pode aumentar produtividade?
+4. Qual campanha ou criativo pode gerar venda?
+5. Qual produto/nicho parece promissor?
+6. Qual risco precisa ser evitado?
+7. O que deve ser testado em sandbox?
+8. O que precisa de aprovação humana?
+
+## Regra
+
+Registrar descobertas no repositório.
+Baixar apenas documentação, SDKs oficiais e repositórios para sandbox.
+Não usar tokens reais em testes.
+Não ativar campanhas pagas.
+Não publicar nada automaticamente.
+Não prometer dinheiro rápido sem validação real.
+
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 11:20:01
+
+Fonte estudada: **Hotmart Developers**
+Link: https://developers.hotmart.com/
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.
+
+---
+
+# Ciclo horário — 2026-04-26 12:00:01
+
+## Missão da hora
+
+Shield e MEL devem evoluir conhecimento em:
+
+- vendas
+- marketing digital
+- tráfego pago
+- tráfego orgânico
+- infoprodutos
+- dropshipping
+- produtos ganhadores
+- produtos de venda rápida
+- APIs úteis
+- SDKs úteis
+- skills úteis
+- automações comerciais
+
+## Perguntas obrigatórias
+
+1. Qual oportunidade comercial nova encontramos?
+2. Qual API ou ferramenta vale estudar?
+3. Qual skill pode aumentar produtividade?
+4. Qual campanha ou criativo pode gerar venda?
+5. Qual produto/nicho parece promissor?
+6. Qual risco precisa ser evitado?
+7. O que deve ser testado em sandbox?
+8. O que precisa de aprovação humana?
+
+## Regra
+
+Registrar descobertas no repositório.
+Baixar apenas documentação, SDKs oficiais e repositórios para sandbox.
+Não usar tokens reais em testes.
+Não ativar campanhas pagas.
+Não publicar nada automaticamente.
+Não prometer dinheiro rápido sem validação real.
+
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 12:20:01
+
+Fonte estudada: **RD Station Developers**
+Link: https://developers.rdstation.com/
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.
+
+---
+
+# Ciclo horário — 2026-04-26 13:00:01
+
+## Missão da hora
+
+Shield e MEL devem evoluir conhecimento em:
+
+- vendas
+- marketing digital
+- tráfego pago
+- tráfego orgânico
+- infoprodutos
+- dropshipping
+- produtos ganhadores
+- produtos de venda rápida
+- APIs úteis
+- SDKs úteis
+- skills úteis
+- automações comerciais
+
+## Perguntas obrigatórias
+
+1. Qual oportunidade comercial nova encontramos?
+2. Qual API ou ferramenta vale estudar?
+3. Qual skill pode aumentar produtividade?
+4. Qual campanha ou criativo pode gerar venda?
+5. Qual produto/nicho parece promissor?
+6. Qual risco precisa ser evitado?
+7. O que deve ser testado em sandbox?
+8. O que precisa de aprovação humana?
+
+## Regra
+
+Registrar descobertas no repositório.
+Baixar apenas documentação, SDKs oficiais e repositórios para sandbox.
+Não usar tokens reais em testes.
+Não ativar campanhas pagas.
+Não publicar nada automaticamente.
+Não prometer dinheiro rápido sem validação real.
+

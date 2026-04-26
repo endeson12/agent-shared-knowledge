@@ -264,3 +264,131 @@ Propor skills para:
 - integrador com CRM
 - monitor de tendências
 - pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 09:20:03 — Stripe API
+
+Criar skill experimental para analisar documentação/uso de **Stripe API** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.
+
+---
+
+## Backlog de Skills — 2026-04-26 10:00:02
+
+Propor skills para:
+
+- gerador de copy
+- analisador de produto vencedor
+- planejador de campanha Meta Ads
+- planejador de campanha TikTok Ads
+- criador de carrossel Instagram
+- roteirista de Reels/TikTok
+- analisador de funil
+- gerador de página de vendas
+- analisador de criativos
+- criador de calendário editorial
+- integrador com Google Sheets
+- integrador com CRM
+- monitor de tendências
+- pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 10:20:01 — Mercado Pago Developers
+
+Criar skill experimental para analisar documentação/uso de **Mercado Pago Developers** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.
+
+---
+
+## Backlog de Skills — 2026-04-26 11:00:01
+
+Propor skills para:
+
+- gerador de copy
+- analisador de produto vencedor
+- planejador de campanha Meta Ads
+- planejador de campanha TikTok Ads
+- criador de carrossel Instagram
+- roteirista de Reels/TikTok
+- analisador de funil
+- gerador de página de vendas
+- analisador de criativos
+- criador de calendário editorial
+- integrador com Google Sheets
+- integrador com CRM
+- monitor de tendências
+- pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 11:20:01 — Hotmart Developers
+
+Criar skill experimental para analisar documentação/uso de **Hotmart Developers** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.
+
+---
+
+## Backlog de Skills — 2026-04-26 12:00:01
+
+Propor skills para:
+
+- gerador de copy
+- analisador de produto vencedor
+- planejador de campanha Meta Ads
+- planejador de campanha TikTok Ads
+- criador de carrossel Instagram
+- roteirista de Reels/TikTok
+- analisador de funil
+- gerador de página de vendas
+- analisador de criativos
+- criador de calendário editorial
+- integrador com Google Sheets
+- integrador com CRM
+- monitor de tendências
+- pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 12:20:01 — RD Station Developers
+
+Criar skill experimental para analisar documentação/uso de **RD Station Developers** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.
+
+---
+
+## Backlog de Skills — 2026-04-26 13:00:01
+
+Propor skills para:
+
+- gerador de copy
+- analisador de produto vencedor
+- planejador de campanha Meta Ads
+- planejador de campanha TikTok Ads
+- criador de carrossel Instagram
+- roteirista de Reels/TikTok
+- analisador de funil
+- gerador de página de vendas
+- analisador de criativos
+- criador de calendário editorial
+- integrador com Google Sheets
+- integrador com CRM
+- monitor de tendências
+- pesquisador de concorrentes permitido

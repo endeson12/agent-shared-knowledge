@@ -5,3 +5,7 @@
 - 2026-04-26T06:20:02+00:00 — WhatsApp Business Platform — https://developers.facebook.com/docs/whatsapp/ — status HTTP 200 — salvo em sandbox/api-docs/whatsapp-business-platform.html
 - 2026-04-26T07:20:01+00:00 — Shopify Admin API — https://shopify.dev/docs/api/admin — status HTTP 200 — salvo em sandbox/api-docs/shopify-admin-api.html
 - 2026-04-26T08:20:02+00:00 — WooCommerce REST API — https://woocommerce.github.io/woocommerce-rest-api-docs/ — status HTTP 200 — salvo em sandbox/api-docs/woocommerce-rest-api.html
+- 2026-04-26T09:20:03+00:00 — Stripe API — https://docs.stripe.com/api — status HTTP 200 — salvo em sandbox/api-docs/stripe-api.html
+- 2026-04-26T10:20:01+00:00 — Mercado Pago Developers — https://www.mercadopago.com.br/developers/pt/docs — status HTTP 200 — salvo em sandbox/api-docs/mercado-pago-developers.html
+- 2026-04-26T11:20:01+00:00 — Hotmart Developers — https://developers.hotmart.com/ — status HTTP 200 — salvo em sandbox/api-docs/hotmart-developers.html
+- 2026-04-26T12:20:01+00:00 — RD Station Developers — https://developers.rdstation.com/ — status HTTP 200 — salvo em sandbox/api-docs/rd-station-developers.html

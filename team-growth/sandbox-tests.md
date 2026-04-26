@@ -40,3 +40,27 @@ Criar um script local mínimo que não usa token real e apenas valida estrutura 
 ## Teste sandbox sugerido — 2026-04-26 08:20:02 — WooCommerce REST API
 
 Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
+
+---
+
+## Teste sandbox sugerido — 2026-04-26 09:20:03 — Stripe API
+
+Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
+
+---
+
+## Teste sandbox sugerido — 2026-04-26 10:20:01 — Mercado Pago Developers
+
+Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
+
+---
+
+## Teste sandbox sugerido — 2026-04-26 11:20:01 — Hotmart Developers
+
+Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
+
+---
+
+## Teste sandbox sugerido — 2026-04-26 12:20:01 — RD Station Developers
+
+Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
