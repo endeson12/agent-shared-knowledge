@@ -704,3 +704,11 @@ Resumo do documento recebido:
 - comunicação fala com adultos compradores, não com crianças;
 - posicionamento central: **menos telas, mais fé em família**;
 - evitar culpa pesada; usar tom leve, prático e cristão.
+
+---
+## Confirmação de entendimento da função — 2026-04-26T15:38:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário confirmou que o time entendeu a função de cada um.

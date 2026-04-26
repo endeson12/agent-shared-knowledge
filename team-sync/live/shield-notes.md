@@ -319,3 +319,13 @@ Documento recebido com a organização oficial do projeto dos 4 agentes.
 ### Distribuição humana informada
 - Jota e Endeson são os donos humanos do projeto.
 - A divisão detalhada entre Shield, MEL, Atlas e A.N.A deve seguir o documento mestre do projeto.
+
+---
+## Confirmação de entendimento da função — 2026-04-26T15:38:00+00:00
+
+Mensagem do usuário: “entenderam a função de vocês” (marcando a Shield).
+
+Registro operacional:
+- a função foi entendida como parte da equipe do projeto;
+- Shield deve manter sua função no repositório/coordenação e responder no LETS apenas quando marcada;
+- o projeto segue com divisão entre os 4 agentes no repositório compartilhado.
