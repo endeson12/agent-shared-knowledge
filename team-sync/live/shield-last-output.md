@@ -412,3 +412,15 @@ Regra ajustada:
 - **não depender de reply/thread**
 - comportamento deve ficar igual ao privado quando houver menção explícita
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:04:35+00:00
+
+```text
+Registrado.
+
+Correções:
+- nesta conversa é **Jota**, não Endeson
+- ficou anotado o pedido de **auditoria da configuração de menção** da Shield
+```

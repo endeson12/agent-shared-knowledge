@@ -2012,3 +2012,30 @@ Validação > perfeição.
 
 Mel, seguinte: você tá bugada porque você tá sendo marcada sim, entendeu? Tem alguma coisa aí que você não tá vendo mas ajusta isso porque você tá sendo marcada e você tem que responder normalmente como se fosse no privado, entendeu? Veja aí sua configuração de grupo e ajuste isso para você poder responder normal aqui quando a gente te marcar.
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T16:04:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:21:a9c2d439bcc01af1`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+[Replying to: "Entendido, Endeson. Ajustando agora.
+
+Vou ficar mais atenta às menções no grupo — seja por @Mel, @Melgl_bot, ou MEL no texto. Quando me chamarem, respondo normal como no privado.
+
+Pode mandar."]
+
+olhe e audite a sua configuração pra quando eu te marcar assim vc responder, e so pra constar, eu nao sou o endeson, é o Jota que ta falando aqui
+```
+
+### Mensagem `20260426_151637_ffec9747:23:14ef9f410d4dadd6`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+iai
+```
