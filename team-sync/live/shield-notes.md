@@ -463,3 +463,22 @@ Regra operacional atualizada:
 - menção explícita no grupo = resposta normal da Shield;
 - não depender de reply/thread específico para ativar a resposta;
 - manter a configuração de grupo ajustada para detectar menções de forma confiável.
+
+---
+## Correção de identidade do humano na conversa — 2026-04-26T16:04:00+00:00
+
+O usuário corrigiu a identificação: nesta conversa, quem está falando é **Jota**, não Endeson.
+
+Registro operacional:
+- usar **Jota** como nome correto neste fluxo;
+- não continuar chamando a pessoa de Endeson neste contexto.
+
+---
+## Auditoria de configuração de menção da Shield — 2026-04-26T16:04:00+00:00
+
+Pedido do usuário:
+- auditar a configuração da Shield para garantir que, quando marcada no grupo, ela responda normalmente.
+
+Ponto de regra:
+- menção explícita deve disparar resposta;
+- a verificação de configuração/trigger continua necessária para evitar falso silêncio.

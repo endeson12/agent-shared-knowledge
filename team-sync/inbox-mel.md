@@ -830,3 +830,11 @@ O usuário reforçou que a Shield está sendo marcada no grupo e deve responder 
 Regra:
 - menção explícita no grupo = resposta normal;
 - não depender de reply/thread específico.
+
+---
+## Correção de identidade do humano na conversa — 2026-04-26T16:04:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário corrigiu a identificação: nesta conversa, quem fala é **Jota**, não Endeson.
