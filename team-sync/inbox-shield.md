@@ -974,3 +974,22 @@ Other visible chats in the sidebar include:
    - Prev
 ...[truncado pelo live bridge]
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T13:38:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_125152_fd852908:108:8f7c25cdb42cf222`
+- Sessão Hermes: `20260426_125152_fd852908`
+- Arquivo: `session_20260426_125152_fd852908.json`
+
+```text
+1813050827
+aprovem o id numerico do telegram do joao para ele marca voce e voce poder responder
+```
