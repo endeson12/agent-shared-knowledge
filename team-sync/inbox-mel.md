@@ -722,3 +722,11 @@ Status: registrado
 Pedido do usuário:
 - ler o arquivo enviado pelo João;
 - entender e registrar a função dele no projeto.
+
+---
+## Correção de nomenclatura do agente — 2026-04-26T15:42:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Correção do usuário: o nome correto do agente é **A.N.A**, não “Anda”.

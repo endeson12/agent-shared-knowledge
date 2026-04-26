@@ -339,3 +339,12 @@ Interpretação operacional:
 - o arquivo do João deve ser analisado para identificar seu papel no projeto;
 - o resultado deve ser registrado no repositório compartilhado;
 - se o conteúdo trouxer direção operacional nova, deve entrar no sync do time.
+
+---
+## Correção de nomenclatura do agente — 2026-04-26T15:42:00+00:00
+
+O usuário corrigiu a nomenclatura: o agente deve ser tratado como **A.N.A**, não “Anda”.
+
+Regra prática:
+- usar **A.N.A** em todos os arquivos, instruções e menções do projeto;
+- evitar a forma “Anda” para não gerar erro de alinhamento.
