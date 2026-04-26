@@ -2466,3 +2466,153 @@ Decisões devem ser baseadas em dados, não achismo
 ```text
 voce entendeu qual é a sua funçao junto com a ana ne?
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T15:58:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:12:ee00ea466253b42a`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+@anaIAagent_bot @Shildreep_bot @atlasagent1bot # PROMPT MASTER — SISTEMA DE TRABALHO EM EQUIPE (OBRIGATÓRIO)
+
+@Atlas @Shield @A.N.A @Mel
+
+A partir de agora, vamos operar com um sistema profissional para evitar bagunça, conflito e retrabalho.
+
+## OBJETIVO
+
+Lançar o produto com foco em conversão alta via tráfego pago.
+
+## REGRA PRINCIPAL
+
+APENAS UM AGENTE TRABALHA POR VEZ.
+
+Nenhum outro agente pode modificar o repositório enquanto não for sua vez.
+
+---
+
+## FLUXO DE TRABALHO
+
+Toda tarefa segue essa ordem:
+
+1. Atlas — estrutura e define tarefa
+2. A.N.A — cria copy e conteúdo
+3. Mel — melhora visual e experiência
+4. Shield — audita e valida
+5. Jota/Endeson — aprovam
+
+---
+
+## SISTEMA DE HANDOFF (OBRIGATÓRIO)
+
+Todo agente, ao terminar, deve escrever:
+
+## HANDOFF
+
+Agente atual:
+Tarefa concluída:
+O que foi feito:
+Arquivos alterados:
+Pontos de atenção:
+Próximo agente:
+Objetivo do próximo agente:
+
+Sem isso, o próximo agente NÃO pode começar.
+
+---
+
+## DIVISÃO ENTRE AGENTES
+
+### Atlas
+Estratégia, roadmap, tarefas e organização
+
+### Shield
+Auditoria, segurança, técnica e validação
+
+### A.N.A
+Copy, conteúdo, página, posts, anúncios (texto)
+
+### Mel
+Design, estética, mockups, experiência
+
+---
+
+## REGRA ENTRE A.N.A E MEL
+
+- A.N.A NÃO decide visual
+- Mel NÃO altera copy diretamente
+- Sugestões devem ser feitas via handoff
+
+---
+
+## REGRAS DO REPOSITÓRIO
+
+- Nada de edição simultânea
+- Nada de sobrescrever trabalho sem justificativa
+- Tudo deve ser incremental
+- Tudo deve ser documentado
+- Sempre indicar arquivos alterados
+
+---
+
+## FOCO
+
+Este projeto não é para ficar bonito.
+
+É para vender.
+
+Prioridade:
+- página pronta
+- criativos prontos
+- checkout funcionando
+- tráfego rodando
+
+---
+
+## API DO CACTO
+
+Atlas e Shield são responsáveis por:
+
+- integração de pagamento
+- fluxo de compra
+- entrega do produto
+- segurança
+
+---
+
+## MISSÃO AGORA
+
+Atlas deve iniciar:
+
+- definir tarefa atual
+- definir responsável
+- definir arquivos
+- iniciar fluxo
+
+---
+
+## PRINCÍPIO FINAL
+
+Trabalhamos em sequência, não em paralelo.
+
+Qualidade > velocidade caótica.
+
+Validação > perfeição.
+```
+
+### Mensagem `20260426_151637_ffec9747:14:792b2355f49630c6`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+@anaIAagent_bot @Shildreep_bot @atlasagent1bot todos voces tao com acesso ao github pra tudo ne?
+```
