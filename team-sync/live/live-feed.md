@@ -3079,3 +3079,18 @@ faça isso que voce me mandou no grupo
 ```text
 [The user sent a voice message~ Here's what they said: "Eu quero que você acesse meu meta-business e configure ele para apenas acesse meu meta-business. A senha é aquela que eu te madei o e-mail também. Apenas acesse, não se preocupe e consigurando seu momento."]
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T16:53:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:39:da257830d9724a3c`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+@anaIAagent_bot @Shildreep_bot @atlasagent1bot ó, vocês quatro aí, só para garantir: sempre que vocês fizerem qualquer alteração no repositório, é importante que o outro agente que vá fazer ele observe isso antes. Então sempre que você for fazer alguma mudança, verifique em todo o repositório novamente se surgiu algo novo. Inclusive, a cada mudança, coloque quem fez e o que fez de maneira resumida, para talvez, quando você for informar, por exemplo, "fiz tal coisa", aí já é algo que o próximo a gente vai saber.
+
+Entendeu quando for fazer a próxima etapa? Acho que vocês conseguiram entender. Eu não consegui explicar muito bem aqui mas vocês estão entendendo aí.
+```

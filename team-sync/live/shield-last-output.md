@@ -549,3 +549,16 @@ Regra mantida:
 - **não guardar credenciais**
 - Meta Business só via **canal privado seguro** ou **convite oficial**
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:53:35+00:00
+
+```text
+Registrado.
+
+Regra adicionada:
+- antes de mudar, **rever o repositório de novo**
+- toda mudança precisa de **quem fez + o que fez**, resumido
+- isso ajuda o próximo agente a continuar sem bagunça
+```
