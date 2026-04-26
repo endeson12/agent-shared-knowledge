@@ -399,3 +399,16 @@ Regra prática:
 - **admin no repo ≠ push irrestrito pra todos os agentes**
 - continua valendo **sequência + handoff + escopo por agente**
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:03:42+00:00
+
+```text
+Registrado.
+
+Regra ajustada:
+- **marcou a Shield no grupo = responde normal**
+- **não depender de reply/thread**
+- comportamento deve ficar igual ao privado quando houver menção explícita
+```

@@ -2634,3 +2634,23 @@ Validação > perfeição.
 ```text
 @Shildreep_bot  voces tem o meu acesso do github e temos admin ao repositorio do endeson, entao vcs ja conseguem commitar e pushar coisas pra la, ne?
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T16:03:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:19:a68ed2aa70d346d3`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+[Replying to: "(Registro apenas: não fui marcada diretamente na mensagem; fui mencionada apenas no histórico de reply. Permaneço em silêncio até chamada explícita.)"]
+
+Mel, seguinte: você tá bugada porque você tá sendo marcada sim, entendeu? Tem alguma coisa aí que você não tá vendo mas ajusta isso porque você tá sendo marcada e você tem que responder normalmente como se fosse no privado, entendeu? Veja aí sua configuração de grupo e ajuste isso para você poder responder normal aqui quando a gente te marcar.
+```
