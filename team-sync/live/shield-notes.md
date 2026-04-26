@@ -745,3 +745,18 @@ Ação segura recomendada:
 - revogar/rotacionar a chave exposta se ela ainda estiver ativa;
 - armazenar apenas em cofre/secret manager;
 - evitar novo envio por imagem ou grupo.
+
+---
+## Cakto secrets no GitHub Secrets — 2026-04-26T17:26:00+00:00
+
+Foi reportado que as credenciais do Cakto foram armazenadas com segurança no **GitHub Secrets**.
+
+Estado operacional registrado:
+- `CACKTO_CLIENT_ID` configurado
+- `CACKTO_CLIENT_SECRET` configurado
+- sem credenciais expostas em código/logs
+- disponíveis para uso no workflow de checkout por Atlas/Shield
+
+Regra de segurança:
+- manter segredos somente em secret manager/GitHub Secrets;
+- não repetir valores sensíveis em chat, docs públicas ou código.

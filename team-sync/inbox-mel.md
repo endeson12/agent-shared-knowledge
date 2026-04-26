@@ -1076,3 +1076,15 @@ Regra:
 - considerar a chave como exposta;
 - rotacionar/revogar se ainda estiver ativa;
 - guardar apenas em cofre/secret manager.
+
+---
+## Cakto secrets no GitHub Secrets — 2026-04-26T17:26:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Estado informado:
+- CACKTO_CLIENT_ID configurado;
+- CACKTO_CLIENT_SECRET configurado;
+- secrets guardadas no GitHub Secrets, sem exposição em código/logs;
+- prontas para uso no workflow de checkout.
