@@ -664,3 +664,17 @@ Resumo:
 - **não** foi salvo no repo
 - recomendação: **rotacionar/revogar** a chave e guardar só em cofre seguro
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:26:30+00:00
+
+```text
+Registrado.
+
+Resumo:
+- secrets do Cakto estão no **GitHub Secrets**
+- `CACKTO_CLIENT_ID` e `CACKTO_CLIENT_SECRET` configurados
+- sem exposição em código/logs
+- Atlas/Shield podem usar no checkout
+```
