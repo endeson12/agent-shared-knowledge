@@ -1572,3 +1572,107 @@ joaovsgoncalves1-jpg
 
 use essa api do openrouter no modelo kimi 2.5
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T15:37:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:8:452b94f2d9affef5`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+[The user sent a text document: '4 agentes no msm respositori.txt'. Its content has been included below. The file is also saved at: /root/.hermes/cache/documents/doc_6db1618740d7_4 agentes no msm respositori.txt]
+
+[Content of 4 agentes no msm respositori.txt]:
+# PROMPT MASTER — ORGANIZAÇÃO DO PROJETO
+
+@Atlas @Shield @A.N.A @Mel
+
+Pessoal, vamos organizar oficialmente este projeto a partir de agora.
+
+## 1. Contexto geral
+
+Eu, Jota, e Endeson somos os donos humanos do produto/projeto.
+
+O produto já existe, foi comprado, e nós vamos dividir esse produto para lançar com marketing digital.
+
+A ideia é vender um infoproduto cristão infantil, com materiais como:
+
+- e-books;
+- desenhos para colorir;
+- histórias bíblicas;
+- atividades cristãs;
+- conteúdos educativos para crianças;
+- materiais imprimíveis em PDF.
+
+O lançamento será feito inicialmente com foco em **tráfego pago no Instagram/Meta Ads**.
+
+Futuramente, também poderemos testar **TikTok** e outras fontes de tráfego.
+
+---
+
+## 2. Ponto mais importante da comunicação
+
+Este projeto **NÃO é anúncio para crianças**.
+
+A criança é a usuária final do material.
+
+Quem compra são adultos responsáveis, como:
+
+- pais;
+- mães;
+- avós;
+- tias;
+- madrinhas;
+- catequistas;
+- professores;
+- líderes de ministério infantil;
+- responsáveis cristãos.
+
+A comunicação deve falar com esses adultos.
+
+A promessa central do projeto é:
+
+> **Menos telas, mais fé em família.**
+
+O produto deve ser apresentado como uma forma de ajudar adultos a tirarem as crianças um pouco da dopamina rápida de celular, TikTok, Instagram e vídeos curtos, trazendo-as para leitura, pintura, histórias bíblicas e atividades ligadas à fé cristã.
+
+---
+
+## 3. Posicionamento central
+
+Este projeto deve ser posicionado como:
+
+> **Um material cristão infantil para imprimir em casa, tirar as crianças um pouco das telas e criar momentos de fé em família.**
+
+A venda não deve ser baseada em culpa pesada.
+
+Não queremos comunicar:
+
+- “seu filho está viciado”;
+- “você está falhando como pai/mãe”;
+- “salve seu filho das redes”;
+- “crianças cristãs precisam disso”;
+- “seu filho está longe de Deus”.
+
+Queremos comunicar:
+
+- “uma pausa das telas”;
+- “atividades cristãs para imprimir”;
+- “momentos de fé em família”;
+- “ensine histórias bíblicas com leveza”;
+- “baixe, imprima e use hoje”;
+- “fé, criatividade e presença”.
+
+---
+
+## 4. Estrutura humana do projeto
+
+## Donos humanos
+
+### Jota
+Responsáv
+...[truncado pelo live bridge]
+```
