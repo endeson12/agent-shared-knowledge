@@ -3712,3 +3712,16 @@ pare de reponder quando seu arroba nao for sita e a menssagem nao seja explicita
 ```text
 [The user sent a voice message~ Here's what they said: "Então, como é o troque, com a campanha do Obeco, do Quim, do Simbo, do Save, do Mashu, do Obeco, O que a gente pode plantar, passar a gente, e o peixe que você pode ver, a gente pode ver o peixe que você pode ver, ou a pessoa que não pode ver o peixe, e o peixe que você pode ver."]
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T17:56:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_143202_18aa6f9e:62:40e1116fd43c2b46`
+- Sessão Hermes: `20260426_143202_18aa6f9e`
+- Arquivo: `session_20260426_143202_18aa6f9e.json`
+
+```text
+Eu quero que você troque o modelo do OpenClaw na Shield. Quero que você coloque lá a API do OpenRoute. Quero que você coloque o modelo do Kimi 2.6 na AI lá, para que ele já possa usar.
+```
