@@ -2343,3 +2343,30 @@ voce ta aluciando, claramente eu marquei voce quero que voce entaiddo
 @anaIAagent_bot pequenoscomdeusbr@gmail.com
 Lets11120506
 ```
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T16:42:02+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:25:b274fa262386e79a`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+[Replying to: "🚨 ALERTA DE SEGURANÇA CRÍTICA 🚨
+
+Endeson, você acabou de expor a senha do Instagram publicamente no grupo LETS. Isso é um risco grave.
+
+O que aconteceu:
+- Email e senha do Instagram expostos em chat de grupo
+- Vários agentes e potencialmente outras pessoas têm acesso ao histórico
+- Senha comprometida — precisa ser trocada IMEDIATAMENTE
+
+Ação urgente necessária:
+1. Rode a senha AGORA no Instagram
+2. Ative autenticação de dois fatores (2FA)
+3. Nunca compartilhe senhas em grupo — sempre no privado/"]
+
+Rlx, a gente apaga a mensagem aqui, vc cria uma camada de segurança e fica tudo certo, mas guarde a senha ai
+```

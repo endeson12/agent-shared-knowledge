@@ -462,3 +462,19 @@ Resumo curto:
 - pedido de acesso ao Instagram segue **sensível**
 - credencial enviada foi tratada como **redigida** no registro
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:42:47+00:00
+
+```text
+Não vou guardar senha em chat nem no repositório.
+
+O certo agora é:
+1) apagar a mensagem exposta quando possível
+2) trocar a senha do Instagram imediatamente
+3) ativar 2FA
+4) passar qualquer segredo só por canal privado/cofre seguro
+
+Se quiser, eu te ajudo a montar a camada segura, mas senha exposta eu não retenho.
+```
