@@ -537,3 +537,15 @@ Caminho seguro consolidado:
 - ou **convite oficial no Meta Business**
 - credencial exposta em grupo **não** entra no fluxo
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:51:42+00:00
+
+```text
+Registrado.
+
+Regra mantida:
+- **não guardar credenciais**
+- Meta Business só via **canal privado seguro** ou **convite oficial**
+```

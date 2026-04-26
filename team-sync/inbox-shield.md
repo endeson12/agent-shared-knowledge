@@ -3791,3 +3791,21 @@ Se for Opção B, me diz que email devo usar (ou crio um específico para M.E.L)
 
 faça isso que voce me mandou no grupo
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T16:51:03+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_143202_18aa6f9e:34:6275b75ec645d080`
+- Sessão Hermes: `20260426_143202_18aa6f9e`
+- Arquivo: `session_20260426_143202_18aa6f9e.json`
+
+```text
+[The user sent a voice message~ Here's what they said: "Eu quero que você acesse meu meta-business e configure ele para apenas acesse meu meta-business. A senha é aquela que eu te madei o e-mail também. Apenas acesse, não se preocupe e consigurando seu momento."]
+```
