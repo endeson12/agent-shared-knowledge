@@ -5035,3 +5035,93 @@ You just executed tool calls but returned an empty response. Please process the 
 ```text
 You just executed tool calls but returned an empty response. Please process the tool results above and continue with the task.
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T18:27:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_143202_18aa6f9e:210:4637e2336c0d4fb9`
+- Sessão Hermes: `20260426_143202_18aa6f9e`
+- Arquivo: `session_20260426_143202_18aa6f9e.json`
+
+```text
+[The user sent an image~ Here's what I can see:
+This is a screenshot of a **Telegram chat interface** in dark mode, showing a conversation in a group called **"LETS"** with **6 members**.
+
+## Top Section
+- **Status bar**: Time "15:24", cellular signal bars, Wi-Fi icon, and battery indicator
+- **Navigation bar**: Back button (circular with "<"), group name "LETS" with "6 membros" (6 members) underneath, and a circular group icon with "LE" visible on the right
+
+## Chat Messages (chronological)
+
+**Message 1** (Dark gray bubble, incoming, partial):
+- Text in Portuguese:
+  ```
+  • Shield executa o smoke test
+  • ou João me aciona pra essa etapa com
+  acesso operacional
+  ```
+
+**Message 2** (Dark gray bubble, incoming):
+- Instructions for a command:
+  ```
+  Mensagem curta pra mandar:
+  @Shieldreep_bot execute agora o smoke
+  test do Cakto via GitHub Secrets, sem
+  expor valores, valide auth + leitura
+  read-only e deixe handoff com
+  resultado.
+  ```
+- Timestamp: **14:49**
+
+**Message 3** (Purple/blue gradient bubble, outgoing):
+- The command being sent:
+  ```
+  @Shieldreep_bot execute agora o smoke test do
+  Cakto via GitHub Secrets, sem expor valores, valide
+  auth + leitura read-only e deixe handoff com
+  resultado.
+  ```
+- Reaction emojis below: 👀 and a custom circular X emoji
+- Timestamp: **14:50** ✓
+
+**Message 4** (Dark gray bubble, from "Shield"):
+- Profile picture: Shield logo with an X symbol
+- Text: ⚠️ **Rate-limited — ready in ~14s. Please wait a moment.**
+- Timestamp: **14:51**
+
+**Message 5** (Blue/purple gradient bubble, outgoing):
+- Same bot command text repeated
+- Reaction emojis: 👀 and circular X emoji
+- Timestamp: **15:13** ✓
+
+**Message 6** (Dark gray bubble, from "Shield"):
+- Profile picture: Shield logo
+- Text: ⚠️ **Rate-limited — ready in ~14s. Please wait a moment.**
+- Timestamp: **15:13**
+
+**Message 7** (Blue bubble, outgoing):
+- Same bot command text repeated again
+- Timestamp: **15:24** ✓
+
+## Bottom Input Area
+- **Attachment button**: Paperclip icon on the left
+- **Text field**: Placeholder text "Mensagem" (Message)
+- **Right side icons**: Pencil/edit tool and circular arrow/clock icon
+- **Voice message button**: Microphone icon on far right
+
+## Visual Details
+- **Color scheme**: Dark mode with black/dark gray backgrounds
+- **Outgoing bubbles**: Blue to purple gradient
+- **Incoming bubbles**: Dark gray
+- **Background**: Blurred dark image (possibly space-themed)
+- **Timestamps**: Small gray text in bottom-right of message bubbles
+- **Read 
+...[truncado pelo live bridge]
+```
