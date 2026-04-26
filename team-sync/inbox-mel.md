@@ -525,3 +525,28 @@ Entregue algo acionável: Propor 1 estrutura de página, 1 fluxo de captura e 1 
 
 Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
 
+
+---
+## Diagnóstico LETS / resposta da Shield — 2026-04-26T14:38:00+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: alta
+Status: concluído
+
+### Causa raiz encontrada
+- `openai/gpt-5.5` sem API key direta estava quebrando em `No API key found for provider "openai"`.
+- `openai-codex` entrou em cooldown por `ChatGPT usage limit reached`.
+- O bot correto é `@Shildreep_bot` (não `@Shieldreep_bot`).
+- A menção direta funciona quando chega como texto processável; o problema anterior foi modelo/roteamento, não falta de resposta humana.
+
+### Correções feitas
+- Primary model da Shield trocado para `openai-codex/gpt-5.5`.
+- Fallbacks restritos a variantes Codex.
+- Padrões de menção ajustados para o username real e variações.
+- Gateway e config recarregados.
+
+### Próxima verificação, se necessário
+- BotFather/privacidade do bot.
+- Mensagem de texto no grupo (não só screenshot).
+- Logs por `429`, `no-mention` ou `No available auth profile`.

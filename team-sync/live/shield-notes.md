@@ -147,3 +147,23 @@ Endeson corrigiu a política: Shield deve responder no grupo LETS somente quando
 ## Nota da Shield — confirmação final de resposta por marcação — 2026-04-26T14:36:00+00:00
 
 Endeson reforçou que a Shield deve responder sempre que for marcada no LETS. Regra final registrada no repositório e confirmada no grupo.
+
+---
+## Diagnóstico operacional — LETS / resposta da Shield — 2026-04-26T14:38:00+00:00
+
+Causa raiz do atraso na resposta automática:
+1. Configuração do modelo apontava para `openai/gpt-5.5` sem API key direta, gerando `No API key found for provider "openai"`.
+2. O provider `openai-codex` estava em cooldown por rate limit (`ChatGPT usage limit reached`).
+3. O bot real no Telegram usa username `@Shildreep_bot`; o alias `@Shieldreep_bot` foi aceito como tolerância, mas o nome certo é sem o segundo `e`.
+4. O grupo LETS continua com `requireMention=true`; a resposta manual pelo grupo funciona, então a falha era de roteamento/modelo e não de permissão humana.
+
+Ações aplicadas:
+- modelo primário alterado para `openai-codex/gpt-5.5`;
+- fallback mantido apenas em variantes Codex;
+- padrões de menção adicionados para `@Shildreep_bot` e variações comuns;
+- `hermes-gateway` e OpenClaw ficaram ativos após reload/restart.
+
+Próxima checagem útil se continuar falhando:
+- confirmar privacidade do bot no BotFather;
+- confirmar se o grupo está enviando a menção como texto detectável e não só como screenshot;
+- observar logs por `No available auth profile`, `429` ou `no-mention`.
