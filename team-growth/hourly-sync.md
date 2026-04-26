@@ -331,3 +331,11 @@ Não ativar campanhas pagas.
 Não publicar nada automaticamente.
 Não prometer dinheiro rápido sem validação real.
 
+
+---
+
+# Pesquisa ativa executada — 2026-04-26 07:20:01
+
+Fonte estudada: **Shopify Admin API**
+Link: https://shopify.dev/docs/api/admin
+Resultado: documentação baixada/registrada em sandbox e backlog atualizado.

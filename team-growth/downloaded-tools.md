@@ -3,3 +3,4 @@
 - 2026-04-26T04:20:02+00:00 — TikTok Marketing API — https://business-api.tiktok.com/portal/docs — status HTTP 200 — salvo em sandbox/api-docs/tiktok-marketing-api.html
 - 2026-04-26T05:20:01+00:00 — Google Ads API — https://developers.google.com/google-ads/api/docs/start — status HTTP 200 — salvo em sandbox/api-docs/google-ads-api.html
 - 2026-04-26T06:20:02+00:00 — WhatsApp Business Platform — https://developers.facebook.com/docs/whatsapp/ — status HTTP 200 — salvo em sandbox/api-docs/whatsapp-business-platform.html
+- 2026-04-26T07:20:01+00:00 — Shopify Admin API — https://shopify.dev/docs/api/admin — status HTTP 200 — salvo em sandbox/api-docs/shopify-admin-api.html

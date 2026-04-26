@@ -322,3 +322,13 @@ Para cada API registrar:
 - custo
 - casos de uso para vendas
 - possibilidade de skill
+
+---
+
+## API avaliada — 2026-04-26 07:20:01 — Shopify Admin API
+
+- URL: https://shopify.dev/docs/api/admin
+- Categoria: dropshipping.md
+- Propósito: Produtos, pedidos, estoque, loja e automações e-commerce.
+- Sandbox: sandbox/api-docs/shopify-admin-api.html
+- Próxima ação: transformar em checklist de integração segura e possível skill local.
