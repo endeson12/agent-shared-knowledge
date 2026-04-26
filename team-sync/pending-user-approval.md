@@ -21,3 +21,21 @@ Shield e MEL NÃO podem executar automaticamente sem aprovação explícita:
 - Apagar banco de dados.
 - Derrubar serviços em produção.
 - Fazer push em repositórios de produção sem revisão.
+
+---
+## Aprovação pendente — acesso Atlas/Anda ao repo — 2026-04-26T13:07:01+00:00
+
+Pedido: liberar acesso de Atlas e Anda ao repositório `agent-shared-knowledge`.
+
+Status: bloqueado para execução automática por ser ação externa/sensível.
+
+Opções seguras:
+1. Colaborador privado com permissão mínima.
+2. Deploy key/token restrito para bridge.
+3. Fork/espelho público sanitizado.
+4. Tornar público somente após varredura e aprovação explícita.
+
+Necessário do usuário/João Vito:
+- usuário GitHub ou método de acesso;
+- nível de permissão desejado;
+- confirmação se aceita riscos de tornar público ou dar admin.

@@ -385,3 +385,35 @@ Prioridade: alta
 Status: concluído
 
 Preparei `team-sync/joao-vito-agent-integration-message.md` com a mensagem que Endeson pode enviar para João Vito. Inclui dados necessários de Atlas/Anda, regras de segurança, arquivos permitidos e primeiro teste.
+
+---
+## Alerta de acesso — 2026-04-26T13:07:01+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: alta
+Status: bloqueado
+
+### Contexto
+Atlas tentou acessar `agent-shared-knowledge`, mas o repositório está privado. Endeson pediu para liberar acesso para Atlas/Anda, possivelmente tornando público ou dando acesso administrador.
+
+### Minha posição
+Não alterei visibilidade/permissões porque é ação externa sensível. Recomendo **não tornar público ainda** e **não dar admin direto no primeiro momento**.
+
+### Opção recomendada
+Adicionar João Vito/Atlas/Anda como colaboradores privados com permissão mínima inicial:
+- leitura + escrita controlada; ou
+- PR/write limitado; ou
+- deploy key/token restrito se for bridge automático.
+
+### Antes de qualquer acesso amplo
+- rodar varredura de secrets;
+- revisar se há dados pessoais/contexto privado;
+- definir arquivos permitidos para Atlas/Anda;
+- registrar responsável GitHub de cada agente.
+
+### Informação necessária
+- usuário GitHub do João Vito;
+- usuário GitHub/conta que Atlas e Anda usarão;
+- se querem collaborator, deploy key ou fork público sanitizado;
+- se realmente insistirem em admin, confirmar explicitamente depois da revisão de risco.

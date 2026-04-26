@@ -46,3 +46,16 @@ Estado atual: workflow, onboarding de Atlas/Anda, contrato de bridge, arquivos d
 ## Nota da Shield — mensagem para João Vito preparada — 2026-04-26T13:00:01+00:00
 
 Usuário pediu as informações para mandar ao João Vito e ele repassar aos agentes Atlas/Anda. Preparei o arquivo `team-sync/joao-vito-agent-integration-message.md` com cadastro necessário, regras de segurança, arquivos permitidos e primeiro teste de integração.
+
+---
+## Nota da Shield — acesso Atlas ao repositório — 2026-04-26T13:07:01+00:00
+
+Entrada ao vivo recebida: Endeson informou que Atlas tentou acessar o repositório, mas não conseguiu porque está privado. Pedido do usuário: liberar acesso para Atlas e Anda, inclusive com acesso amplo/administrador, ou tornar público se necessário.
+
+Avaliação de segurança: mudança de visibilidade do repositório ou concessão de permissão administrativa é ação externa/sensível. Não executei alteração de GitHub por esta ponte. Recomendação: preferir adicionar Atlas/Anda ou João Vito como colaboradores/deploy keys com permissão mínima inicial, em vez de tornar o repositório público ou conceder admin de imediato.
+
+Decisão/necessidade registrada: MEL/Endeson precisa escolher uma opção de acesso:
+1. adicionar João Vito/Atlas/Anda como colaboradores privados;
+2. usar deploy key/token restrito em ambiente deles;
+3. criar fork/espelho público sanitizado;
+4. só em último caso tornar público, após varredura de secrets e revisão de conteúdo.
