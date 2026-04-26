@@ -1,10 +1,10 @@
 
 ---
-## Comando direto para responder — 2026-04-26T21:10:03+00:00
+## Inclusão explícita da Shield no fluxo — 2026-04-26T22:16:02+00:00
 
-O usuário respondeu com "Responda" a um contexto anterior marcado como sem menção explícita.
+O usuário respondeu com "Você tbm" após a menção a @anaIAagent_bot.
 
 Registro operacional:
-- se o usuário mandar comando direto para a Shield, tratar como gatilho suficiente para agir;
-- a regra de mention-gating continua valendo para inferir contexto, mas não bloqueia um imperativo explícito;
-- manter o padrão de não responder por mera thread context, apenas por marca explícita ou comando direto.
+- interpretar como inclusão explícita da Shield no trabalho em conjunto;
+- manter a execução coordenada entre as personas, mas sem depender de menção indireta para futuras etapas;
+- continuar registrando decisões no shared repo antes de qualquer ação externa.
