@@ -326,3 +326,15 @@ Nome correto:
 - **A.N.A**
 - não “Anda”
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:43:31+00:00
+
+```text
+Registrado.
+
+Anotei como ajuste de nome/papel no projeto:
+- **M.E.L** no mapeamento do time
+- Shield continua Shield no workspace
+```
