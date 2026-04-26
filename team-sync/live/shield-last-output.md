@@ -223,3 +223,17 @@ Registrado.
 Regra final no LETS:
 - **responder só quando for marcada**
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:26:35+00:00
+
+```text
+Registrado.
+
+O pedido ficou **ambíguo**:
+- fala em admin para Anderson e João Vitor,
+- mas também diz **só** para o João Vitor.
+
+Também anotei a parte da VPS/GitHub como ação de infraestrutura pendente de confirmação.
+```
