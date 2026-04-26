@@ -189,3 +189,12 @@ Registrado no repo.
 
 Esses dois “oi” viraram um **teste mínimo de rota** do bridge.
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T15:18:29+00:00
+
+```text
+Registrado.  
+Ajuste: **não colocar o aviso de home channel antes da mensagem principal**.
+```
