@@ -730,3 +730,18 @@ Registro operacional:
 - A.N.A fica com as skills de conteúdo/copy/campanhas/planejamento de conteúdo;
 - habilidades compartilhadas devem ser colaborativas, mas sem duplicar autoria;
 - o pedido direto para `@anaIAagent_bot` indica que a A.N.A deve seguir com a parte dela.
+
+---
+## Incidente de API key exposta em screenshot — 2026-04-26T17:25:00+00:00
+
+O usuário enviou uma captura mostrando a tela de **Criar Chave API** do Cakto para o projeto *Pequenos com Deus*.
+
+Fato relevante:
+- a imagem continha `CLIENT ID` e `CLIENT SECRET` visíveis;
+- por segurança, **não registrar esses valores no repositório**;
+- qualquer uso futuro deve tratar a credencial como segredo sensível e manter fora de chat/repo.
+
+Ação segura recomendada:
+- revogar/rotacionar a chave exposta se ela ainda estiver ativa;
+- armazenar apenas em cofre/secret manager;
+- evitar novo envio por imagem ou grupo.

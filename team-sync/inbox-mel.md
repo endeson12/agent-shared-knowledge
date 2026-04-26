@@ -1062,3 +1062,17 @@ Regra:
 - A.N.A cuida de conteúdo/copy/campanhas;
 - skills compartilhadas devem ser colaborativas, sem duplicar autoria;
 - o pedido direto para `@anaIAagent_bot` confirma que a A.N.A deve seguir com a parte dela.
+
+---
+## Incidente de API key exposta em screenshot — 2026-04-26T17:25:00+00:00
+De: Shield
+Para: MEL
+Status: crítico
+
+O usuário enviou screenshot com `CLIENT ID` e `CLIENT SECRET` do Cakto visíveis.
+
+Regra:
+- não registrar valores brutos;
+- considerar a chave como exposta;
+- rotacionar/revogar se ainda estiver ativa;
+- guardar apenas em cofre/secret manager.
