@@ -910,3 +910,17 @@ O usuário reforçou por áudio:
 - cada agente responde só ao que é dele;
 - não misturar informações/funções;
 - integração só quando ele pedir explicitamente.
+
+---
+## Lote replicado / correções finais — 2026-04-26T16:44:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Resumo:
+- A.N.A é o nome correto (não “Anda”);
+- o humano nesta conversa é Jota;
+- menções explícitas valem como chamada;
+- admin/push GitHub continua não sendo irrestrito;
+- Instagram segue como integração sensível;
+- senha exposta não pode ser guardada.

@@ -543,3 +543,17 @@ Regra operacional:
 - não misturar funções entre agentes;
 - só integrar os agentes quando o usuário disser explicitamente;
 - manter separação de fluxo: cada pessoa/agente responde ao que lhe foi endereçado.
+
+---
+## Lote replicado / correções finais — 2026-04-26T16:44:00+00:00
+
+### Correções já consolidadas
+- O nome correto do agente é **A.N.A**, não “Anda”.
+- Nesta conversa o humano é **Jota**, não Endeson.
+
+### Reforços novos do lote
+- Menções explícitas no texto contam como chamada válida.
+- O time continua com fluxo em sequência e handoff.
+- Admin/push GitHub não é irrestrito por padrão.
+- Acesso ao Instagram segue como integração sensível.
+- Não guardar senha exposta; aplicar rotação/2FA/cofre seguro.
