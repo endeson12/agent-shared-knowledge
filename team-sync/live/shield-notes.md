@@ -632,3 +632,16 @@ O usuário reforçou um padrão importante de trabalho em equipe:
 - o próximo agente deve conseguir entender rápido o que mudou antes de continuar.
 
 Isso complementa o sistema de handoff já registrado.
+
+---
+## Digest curto — último estado por agente no repo — 2026-04-26T16:57:00+00:00
+
+Resumo do que ficou mais recente no repositório compartilhado:
+
+- **Atlas**: ficou alinhado como responsável por estratégia/estrutura/roadmap e parte do sistema de sequência + handoff.
+- **A.N.A**: foco confirmado em marketing/conteúdo; pendência de acesso ao Instagram continua sensível e depende de método oficial.
+- **Mel**: foco confirmado em design/experiência; também segue a regra de trabalhar por vez com handoff.
+- **Shield**: fechou regras de segurança, credenciais, Meta Business/Instagram, menções explícitas e revisão antes de mudanças.
+
+Observação:
+- o repo está em modo de trabalho sequencial e com handoff obrigatório.
