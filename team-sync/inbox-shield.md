@@ -325,3 +325,13 @@ Perguntas para você responder:
 - Que skill devemos priorizar?
 - Existe algum processo que pode ser automatizado com segurança?
 
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 09:10:02
+
+Shield, revise e transforme em plano prático o tema **Conteúdo orgânico: Reels, Shorts, carrosséis e posts**.
+Resultado esperado: Criar 5 pautas curtas com gancho, promessa e CTA.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
