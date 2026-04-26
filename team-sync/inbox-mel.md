@@ -690,3 +690,17 @@ Verificação feita:
 
 Próximo passo seguro:
 - confirmar se existe plugin/provider OpenRouter suportado no stack antes de tentar a troca.
+
+---
+## Prompt master do projeto — 4 agentes no mesmo repositório — 2026-04-26T15:37:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Resumo do documento recebido:
+- produto cristão infantil já existe e foi comprado;
+- materiais: e-books, desenhos, histórias bíblicas, atividades e PDFs imprimíveis;
+- lançamento inicial em Meta Ads/Instagram;
+- comunicação fala com adultos compradores, não com crianças;
+- posicionamento central: **menos telas, mais fé em família**;
+- evitar culpa pesada; usar tom leve, prático e cristão.

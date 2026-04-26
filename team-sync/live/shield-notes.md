@@ -287,3 +287,35 @@ Ação segura registrada:
 - manter a chave como dado sensível e não persistir no repo;
 - se houver suporte futuro para OpenRouter, ativar via configuração documentada antes de ligar o modelo;
 - por enquanto, a troca para Kimi 2.5 fica pendente de suporte explícito no stack.
+
+---
+## Prompt master do projeto — 4 agentes no mesmo repositório — 2026-04-26T15:37:00+00:00
+
+Documento recebido com a organização oficial do projeto dos 4 agentes.
+
+### Direção do produto
+- Produto/infoproduto cristão infantil já existe e foi comprado.
+- Formatos previstos: e-books, desenhos para colorir, histórias bíblicas, atividades cristãs, materiais imprimíveis em PDF.
+- Lançamento inicial focado em tráfego pago no Instagram/Meta Ads.
+- Futuro teste possível: TikTok e outras fontes.
+
+### Público-alvo correto
+- **A criança é a usuária final.**
+- **Quem compra são adultos responsáveis**: pais, mães, avós, tias, madrinhas, catequistas, professores, líderes de ministério infantil.
+- A comunicação deve falar com esses adultos, não com crianças diretamente.
+
+### Posicionamento central
+- “Menos telas, mais fé em família.”
+- Material cristão infantil para imprimir em casa, reduzir telas e criar momentos de fé em família.
+- Evitar culpa pesada ou discurso agressivo.
+
+### Tom recomendado
+- Leve
+- Prático
+- Afetivo
+- Cristão sem moralismo
+- Focado em presença, criatividade e fé
+
+### Distribuição humana informada
+- Jota e Endeson são os donos humanos do projeto.
+- A divisão detalhada entre Shield, MEL, Atlas e A.N.A deve seguir o documento mestre do projeto.
