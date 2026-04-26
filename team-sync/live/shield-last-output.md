@@ -775,3 +775,11 @@ Bind: loopback
 [diagnostic] lane task error: lane=main durationMs=443 error="FailoverError: No available auth profile for openai-codex (all in cooldown or unav
 ...[truncado pelo live bridge]
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T18:20:33+00:00
+
+```text
+OpenClaw/Shield excedeu timeout de 240s; entrada já ficou registrada para o próximo ciclo.
+```
