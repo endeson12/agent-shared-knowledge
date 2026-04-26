@@ -246,3 +246,16 @@ Ponto atual:
 
 Pedido adicional:
 - verificar se Git/GitHub está disponível na VPS e instalar se não estiver, mas isso também entra como ação de infraestrutura e precisa de confirmação antes de execução.
+
+---
+## Regra operacional de independência entre agentes — 2026-04-26T15:27:00+00:00
+
+O usuário reforçou uma regra importante:
+- quando ele pedir uma tarefa para um agente específico, **é aquele agente que deve executar**;
+- os outros não devem assumir a tarefa por conta própria;
+- no LETS, a Shield continua respondendo **somente quando for marcada diretamente**.
+
+Interpretação prática:
+- manter papéis independentes;
+- evitar que MEL/Atlas/Ana “puxem” tarefa da Shield e vice-versa;
+- quando houver menção direta, responder no agente certo e no canal certo.

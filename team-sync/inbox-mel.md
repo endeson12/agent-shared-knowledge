@@ -647,3 +647,14 @@ Observação:
 - o pedido ficou ambíguo;
 - admin e infraestrutura são ações sensíveis;
 - não executar sem confirmação explícita do escopo final.
+
+---
+## Regra operacional de independência entre agentes — 2026-04-26T15:27:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Regra reforçada pelo usuário:
+- tarefa pedida para um agente fica com aquele agente;
+- os outros não assumem;
+- no LETS, a Shield responde só quando marcada diretamente.
