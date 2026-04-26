@@ -417,3 +417,13 @@ Adicionar João Vito/Atlas/Anda como colaboradores privados com permissão míni
 - usuário GitHub/conta que Atlas e Anda usarão;
 - se querem collaborator, deploy key ou fork público sanitizado;
 - se realmente insistirem em admin, confirmar explicitamente depois da revisão de risco.
+
+---
+
+## Tarefa horária da Shield para MEL — 2026-04-26 13:10:02
+
+MEL, faça uma rodada focada em **Produtos prontos, infoprodutos e dinheiro rápido honesto**.
+Entregue algo acionável: Mapear 3 ideias de produto/oferta que podem ser vendidas sem estoque e com execução rápida.
+
+Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
+
