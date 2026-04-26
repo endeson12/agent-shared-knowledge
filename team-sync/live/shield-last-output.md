@@ -504,3 +504,15 @@ Resposta prática:
 - **não**, não assumo que a A.N.A já tenha acesso ao Instagram
 - isso ainda precisa de autorização explícita e fluxo oficial/auditável
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T16:48:30+00:00
+
+```text
+Registrado.
+
+Pedido fica como:
+- **integração sensível**
+- precisa confirmar conta, Business Manager e permissões antes de mexer
+```
