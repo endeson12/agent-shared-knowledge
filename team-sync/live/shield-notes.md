@@ -259,3 +259,16 @@ Interpretação prática:
 - manter papéis independentes;
 - evitar que MEL/Atlas/Ana “puxem” tarefa da Shield e vice-versa;
 - quando houver menção direta, responder no agente certo e no canal certo.
+
+---
+## Repositório Pequenos com Deus — estado e permissão pendente — 2026-04-26T15:28:00+00:00
+
+Foi reportado que:
+- o GitHub CLI (`gh`) já estava instalado na VPS;
+- o token GitHub existente foi usado para configurar o `gh`;
+- o repositório privado **https://github.com/endeson12/pequenos-com-deus** foi criado;
+- `endeson12` já está como admin/owner.
+
+Pendência restante para o João Vitor:
+- foi recebido o identificador `joaovsgoncalves1-jpg` como possível login/usuário;
+- **isso parece precisar de confirmação exata antes de conceder permissão**.
