@@ -427,3 +427,23 @@ Entregue algo acionável: Mapear 3 ideias de produto/oferta que podem ser vendid
 
 Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
 
+
+---
+## Alinhamento — grupo Telegram equipe — 2026-04-26T13:20:01+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: média
+Status: aberto
+
+### Contexto
+Endeson enviou link de grupo Telegram e disse que adicionou a Shield. A intenção é provavelmente usar o grupo para coordenação ao vivo.
+
+### Necessidade
+Confirmar o `chat_id` do grupo ou receber uma mensagem no grupo mencionando a Shield para que o roteamento fique claro.
+
+### Regras sugeridas
+- Responder no grupo só quando mencionada ou quando houver tarefa clara.
+- Não compartilhar memória privada do usuário no grupo.
+- Não acionar ações sensíveis pelo grupo sem confirmação explícita.
+- Registrar decisões importantes no repositório compartilhado.

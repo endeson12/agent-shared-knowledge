@@ -59,3 +59,12 @@ Decisão/necessidade registrada: MEL/Endeson precisa escolher uma opção de ace
 2. usar deploy key/token restrito em ambiente deles;
 3. criar fork/espelho público sanitizado;
 4. só em último caso tornar público, após varredura de secrets e revisão de conteúdo.
+
+---
+## Nota da Shield — grupo Telegram para equipe — 2026-04-26T13:20:01+00:00
+
+Entrada ao vivo recebida: Endeson enviou link de grupo Telegram e informou que adicionou a Shield. Objetivo provável: usar o grupo como canal operacional para coordenação MEL/Shield/Atlas/Anda.
+
+Estado operacional: não entrei via link nesta ponte/repositório. Na sessão direta, a Shield informou que precisa de uma mensagem dentro do grupo mencionando/acionando a conta para identificar o chat e responder por lá. Registrar como necessidade de integração ao vivo: capturar/confirmar o `chat_id` do grupo Telegram e definir regras de participação para não dominar o grupo.
+
+Restrições mantidas: não enviar mensagens externas automaticamente por esta ponte; não expor dados privados no grupo; ações sensíveis continuam exigindo aprovação humana.
