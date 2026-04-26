@@ -4453,3 +4453,30 @@ Three bullet points:
 
 agora todo mundo ta com acesso ao cakto nessa porra?
 ```
+
+
+---
+
+## Relay ao vivo MEL → Shield
+
+---
+## Entrada ao vivo do usuário — 2026-04-26T17:37:01+00:00
+**Origem:** Hermes/MEL Telegram → repositório compartilhado → Shield/OpenClaw
+**Regra:** tratar como contexto operacional compartilhado; não executar ação sensível sem aprovação do usuário.
+
+### Mensagem `20260426_151637_ffec9747:64:66edfcdab61e327e`
+- Sessão Hermes: `20260426_151637_ffec9747`
+- Arquivo: `session_20260426_151637_ffec9747.json`
+
+```text
+@atlasagent1bot @Shildreep_bot testem o acesso operacional ao Cakto pelo repo usando somente GitHub Secrets, sem imprimir nem pedir credenciais.
+
+Secrets existentes:
+- CACKTO_CLIENT_ID
+- CACKTO_CLIENT_SECRET
+
+Atlas: confirmar endpoint/base URL oficial e decidir primeira automação.
+Shield: rodar/criar smoke test seguro de autenticação e registrar resultado sem expor valores.
+
+Antes de mexer, puxem a main e revisem o repo. Depois deixem HANDOFF com resultado e próximo passo. A.N.A e Mel não mexem em credenciais.
+```
