@@ -424,3 +424,14 @@ Propor skills para:
 - integrador com CRM
 - monitor de tendências
 - pesquisador de concorrentes permitido
+
+---
+
+## Possível skill — 2026-04-26 14:20:02 — Mailchimp Marketing API
+
+Criar skill experimental para analisar documentação/uso de **Mailchimp Marketing API** e gerar:
+- checklist de autenticação;
+- casos de uso comercial;
+- riscos e limites;
+- exemplo com dados falsos;
+- plano de integração com aprovação humana para tokens/campanhas/mensagens reais.

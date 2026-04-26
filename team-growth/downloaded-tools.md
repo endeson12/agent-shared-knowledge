@@ -10,3 +10,4 @@
 - 2026-04-26T11:20:01+00:00 — Hotmart Developers — https://developers.hotmart.com/ — status HTTP 200 — salvo em sandbox/api-docs/hotmart-developers.html
 - 2026-04-26T12:20:01+00:00 — RD Station Developers — https://developers.rdstation.com/ — status HTTP 200 — salvo em sandbox/api-docs/rd-station-developers.html
 - 2026-04-26T13:20:01+00:00 — Brevo API — https://developers.brevo.com/ — status HTTP 200 — salvo em sandbox/api-docs/brevo-api.html
+- 2026-04-26T14:20:02+00:00 — Mailchimp Marketing API — https://mailchimp.com/developer/marketing/api/ — status HTTP 200 — salvo em sandbox/api-docs/mailchimp-marketing-api.html

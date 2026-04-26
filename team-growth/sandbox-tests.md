@@ -70,3 +70,9 @@ Criar um script local mínimo que não usa token real e apenas valida estrutura 
 ## Teste sandbox sugerido — 2026-04-26 13:20:01 — Brevo API
 
 Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
+
+---
+
+## Teste sandbox sugerido — 2026-04-26 14:20:02 — Mailchimp Marketing API
+
+Criar um script local mínimo que não usa token real e apenas valida estrutura de payload, endpoints públicos/documentação e modelo de dados esperado.
