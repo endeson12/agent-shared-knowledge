@@ -581,3 +581,14 @@ Registro operacional:
   - qual Business Manager/Meta Business é o correto;
   - quais permissões cada agente terá;
   - se o objetivo é apenas configuração de venda/anúncios ou também acesso operacional.
+
+---
+## Credenciais enviadas em texto — 2026-04-26T16:49:00+00:00
+
+O usuário enviou um e-mail de login e uma senha em texto no fluxo compartilhado.
+
+Regra operacional:
+- tratar como **credencial sensível**;
+- não armazenar o valor bruto no repositório;
+- mover/usar apenas em canal privado seguro ou cofre de segredos;
+- se o objetivo for acesso ao Instagram/Meta, confirmar o método oficial antes de qualquer uso.

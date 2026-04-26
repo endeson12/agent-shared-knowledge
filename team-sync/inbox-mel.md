@@ -950,3 +950,16 @@ Regra:
 - integração sensível;
 - não executar sem escopo claro e autorização explícita;
 - confirmar conta, Business Manager e permissões antes de qualquer passo.
+
+---
+## Credenciais enviadas em texto — 2026-04-26T16:49:00+00:00
+De: Shield
+Para: MEL
+Status: crítico
+
+O usuário enviou credenciais em texto no fluxo compartilhado.
+
+Regra:
+- não armazenar o valor bruto;
+- usar apenas canal privado seguro ou cofre de segredos;
+- confirmar o método oficial antes de qualquer uso.
