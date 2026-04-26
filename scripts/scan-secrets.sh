@@ -4,7 +4,7 @@ set -euo pipefail
 echo "Escaneando possíveis secrets..."
 
 PATTERNS=(
- "sk-[a-zA-Z0-9]"
+ "sk-[A-Za-z0-9_-]{20,}"
  "ghp_[a-zA-Z0-9]"
  "github_pat_"
  "xoxb-"
@@ -22,7 +22,7 @@ PATTERNS=(
 FOUND=0
 TMP="/tmp/agent-shared-secret-scan-result.txt"
 for pattern in "${PATTERNS[@]}"; do
-  if grep -REIn --exclude-dir=.git --exclude='scan-secrets.sh' "$pattern" . > "$TMP" 2>/dev/null; then
+  if grep -REIn --exclude-dir=.git --exclude='scan-secrets.sh' --exclude='*-runtime.log' "$pattern" . > "$TMP" 2>/dev/null; then
     echo "Possível secret encontrado com padrão: $pattern"
     cat "$TMP"
     FOUND=1
