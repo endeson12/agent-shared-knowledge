@@ -95,3 +95,10 @@ Política operacional atualizada:
 - manter privacidade: não expor memória privada do usuário no grupo;
 - decisões importantes devem ser registradas no repositório compartilhado;
 - ações sensíveis continuam exigindo aprovação explícita.
+
+---
+## Nota da Shield — atividade no grupo LETS — 2026-04-26T13:31:01+00:00
+
+Entrada ao vivo recebeu novo screenshot do Telegram Web no grupo **LETS** (`web.telegram.org/a/#-5276401803`). O preview do chat selecionado mostra atividade recente de **A.N.A**: `⚠️ The mode...` às 10:29.
+
+Interpretação operacional: o grupo já está recebendo mensagens dos agentes/membros. A política vigente permanece: Shield só responde no grupo quando for marcada/mencionada diretamente. Para coordenação persistente, decisões/tarefas relevantes devem ser espelhadas no repositório.
