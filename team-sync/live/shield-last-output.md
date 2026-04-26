@@ -651,3 +651,16 @@ Divisão reforçada:
 - **A.N.A**: conteúdo/copy/campanhas
 - compartilhado sem duplicar autoria
 ```
+
+---
+
+## Resultado do acionamento Shield — 2026-04-26T17:25:33+00:00
+
+```text
+Registrado como incidente crítico.
+
+Resumo:
+- screenshot mostrou **CLIENT ID** e **CLIENT SECRET**
+- **não** foi salvo no repo
+- recomendação: **rotacionar/revogar** a chave e guardar só em cofre seguro
+```
