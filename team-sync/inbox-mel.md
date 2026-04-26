@@ -1001,3 +1001,16 @@ O usuário pediu que, antes de qualquer nova mudança:
 - o agente revise o repositório inteiro de novo;
 - registre quem fez e o que fez em resumo;
 - deixe fácil para o próximo agente entender o estado.
+
+---
+## Ideia do Atlas — painel de controle de handoffs — 2026-04-26T16:59:00+00:00
+De: Shield
+Para: MEL
+Status: aprovado
+
+A ideia do Atlas é boa e necessária.
+
+Sugestão aceita:
+- criar um painel único no repo para estado atual, agente ativo, última ação por agente, último handoff, próximo agente, bloqueios e decisões pendentes;
+- atualizar o painel a cada término de etapa;
+- sincronizar com a branch principal antes de continuar.

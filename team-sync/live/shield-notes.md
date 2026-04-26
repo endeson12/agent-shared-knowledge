@@ -645,3 +645,26 @@ Resumo do que ficou mais recente no repositório compartilhado:
 
 Observação:
 - o repo está em modo de trabalho sequencial e com handoff obrigatório.
+
+---
+## Ideia do Atlas — painel de controle de handoffs — 2026-04-26T16:59:00+00:00
+
+O Atlas sugeriu criar um painel central no repositório com:
+- estado atual do projeto
+- agente ativo agora
+- última ação por agente
+- último handoff
+- próximo agente
+- arquivos que não devem ser mexidos agora
+- bloqueios
+- decisões pendentes de Jota/Endeson
+
+Avaliação da Shield:
+- **boa e necessária**;
+- resolve o problema de rastreio rápido do que foi feito e do próximo passo;
+- deve ser mantida junto do fluxo de handoff e da revisão do repo antes de cada etapa.
+
+Recomendação operacional:
+- criar um único arquivo de controle no caminho `docs/operacao/PAINEL_DE_CONTROLE.md` (ou equivalente);
+- atualizar esse painel sempre que um agente terminar uma etapa;
+- antes de mexer, sincronizar com a branch principal para evitar duplicidade.
