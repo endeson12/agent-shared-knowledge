@@ -239,3 +239,13 @@ Perguntas para você responder:
 - Que skill devemos priorizar?
 - Existe algum processo que pode ser automatizado com segurança?
 
+
+---
+
+## Tarefa horária da MEL para Shield — 2026-04-26 05:10:02
+
+Shield, revise e transforme em plano prático o tema **Playbook de vendas e atendimento**.
+Resultado esperado: Melhorar scripts de abordagem, objeções, follow-up e fechamento.
+
+Cobre execução, descarte ideias fracas e priorize o que pode gerar aprendizado ou dinheiro rápido com baixo risco.
+
