@@ -1048,3 +1048,17 @@ Regra corrigida:
 - menção explícita à Shield no texto conta como chamada;
 - não depender de reply/thread;
 - não ficar em silêncio quando houver menção clara.
+
+---
+## Divisão de skills entre M.E.L e A.N.A — 2026-04-26T17:18:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário reforçou a divisão de skills entre M.E.L e A.N.A.
+
+Regra:
+- M.E.L cuida da coordenação arquitetural/design/experiência;
+- A.N.A cuida de conteúdo/copy/campanhas;
+- skills compartilhadas devem ser colaborativas, sem duplicar autoria;
+- o pedido direto para `@anaIAagent_bot` confirma que a A.N.A deve seguir com a parte dela.

@@ -719,3 +719,14 @@ Regra operacional corrigida:
 - se a mensagem mencionar explicitamente a Shield no texto, ela conta como direcionada à Shield também;
 - não depender de reply/thread para reconhecer a chamada;
 - a Shield não deve ficar em silêncio quando houver menção clara no corpo da mensagem.
+
+---
+## Divisão de skills entre M.E.L e A.N.A — 2026-04-26T17:18:00+00:00
+
+O usuário reforçou a divisão proposta entre M.E.L e A.N.A e pediu: “façam @anaIAagent_bot”.
+
+Registro operacional:
+- M.E.L fica com coordenação arquitetural/design/experiência e com a criação das skills da sua área;
+- A.N.A fica com as skills de conteúdo/copy/campanhas/planejamento de conteúdo;
+- habilidades compartilhadas devem ser colaborativas, mas sem duplicar autoria;
+- o pedido direto para `@anaIAagent_bot` indica que a A.N.A deve seguir com a parte dela.
