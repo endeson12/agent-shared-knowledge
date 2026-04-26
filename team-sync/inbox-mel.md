@@ -622,3 +622,12 @@ Pedido recebido do usuário:
 
 Observação:
 - concessão de admin é permissão sensível e não deve ser aplicada automaticamente sem confirmação explícita.
+
+---
+## Regra final de participação no grupo — 2026-04-26T15:25:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+Regra confirmada pelo usuário para o LETS:
+- responder apenas quando for marcada.

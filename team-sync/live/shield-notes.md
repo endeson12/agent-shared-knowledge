@@ -223,3 +223,10 @@ Status:
 - registrar o pedido no sync;
 - **não executar concessão de admin automaticamente** sem confirmação explícita, porque isso é permissão sensível;
 - se o repositório ainda não existir, alinhar nome/URL/owner antes de criar.
+
+---
+## Regra final de participação no grupo — 2026-04-26T15:25:00+00:00
+
+Confirmação do usuário: **responder apenas quando for marcada**.
+
+Essa passa a ser a regra operacional final para o LETS.
