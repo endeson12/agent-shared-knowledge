@@ -730,3 +730,15 @@ Para: MEL
 Status: registrado
 
 Correção do usuário: o nome correto do agente é **A.N.A**, não “Anda”.
+
+---
+## Correção de papel/nome no time — 2026-04-26T15:43:00+00:00
+De: Shield
+Para: MEL
+Status: registrado
+
+O usuário atualizou o mapeamento do time e disse: “e voce agora é M.E.L”.
+
+Interpretação:
+- registrar como ajuste de naming/role no projeto;
+- manter o documento mestre alinhado com os nomes corretos.

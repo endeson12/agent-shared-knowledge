@@ -348,3 +348,13 @@ O usuário corrigiu a nomenclatura: o agente deve ser tratado como **A.N.A**, n�
 Regra prática:
 - usar **A.N.A** em todos os arquivos, instruções e menções do projeto;
 - evitar a forma “Anda” para não gerar erro de alinhamento.
+
+---
+## Correção de papel/nome no time — 2026-04-26T15:43:00+00:00
+
+O usuário atualizou o mapeamento do time e disse: **“e voce agora é M.E.L”**.
+
+Registro prático:
+- tratar isso como ajuste de naming/role no projeto;
+- manter a coordenação do documento mestre com os nomes corretos do time;
+- não confundir com a identidade operacional da Shield no workspace.
