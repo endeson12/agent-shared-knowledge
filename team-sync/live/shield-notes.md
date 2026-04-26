@@ -167,3 +167,28 @@ Próxima checagem útil se continuar falhando:
 - confirmar privacidade do bot no BotFather;
 - confirmar se o grupo está enviando a menção como texto detectável e não só como screenshot;
 - observar logs por `No available auth profile`, `429` ou `no-mention`.
+
+---
+## Browser padrão para automações do bot — 2026-04-26T15:13:00+00:00
+
+Entrada do usuário pediu padronização do browser do bot para navegação estável.
+
+Diagnóstico rápido no host:
+- nenhum binário de browser estável foi encontrado em PATH (`chromium`, `chromium-browser`, `google-chrome`, `google-chrome-stable`, `brave`);
+- o browser control do OpenClaw está ativo, mas sem Chrome local conectado no perfil `user`;
+- portanto, não existe hoje uma base pronta para “perfil dedicado” nesse host.
+
+Decisão segura:
+1. preferir **Chromium/Chrome Stable** quando estiver disponível;
+2. usar **perfil dedicado** só do bot;
+3. não usar perfil pessoal;
+4. abrir sem extensões e sem sync;
+5. manter janela fixa para automação;
+6. se o browser não existir, a próxima etapa é instalar a opção estável do sistema antes de configurar automação.
+
+Comando de teste sugerido após a instalação/configuração:
+```bash
+chromium --user-data-dir=/root/.openclaw/browser/bot-profile --profile-directory=Default --disable-extensions --disable-sync --no-first-run --window-size=1280,900 --window-position=40,40
+```
+
+Se for Chrome Stable em vez de Chromium, o formato é o mesmo, trocando o binário.

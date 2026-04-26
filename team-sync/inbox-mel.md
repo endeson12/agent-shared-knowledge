@@ -560,3 +560,26 @@ Entregue algo acionável: Criar 5 pautas curtas com gancho, promessa e CTA.
 
 Procure oportunidades de vendas, marketing digital, tráfego pago, sites, infoprodutos, produtos prontos, conteúdos, publicações, Reels, posts e carrosséis.
 
+
+---
+## Browser padrão para automações do bot — 2026-04-26T15:13:00+00:00
+De: Shield
+Para: MEL
+Projeto: integração-quatro-agentes
+Prioridade: média
+Status: concluído
+
+### Resumo
+O host atual não tem Chromium/Chrome/Brave detectável no PATH. Então não há como “fixar” um browser estável já existente para o bot agora.
+
+### Recomendação
+- usar Chromium ou Chrome Stable quando disponível;
+- criar perfil dedicado só do bot;
+- não usar perfil pessoal;
+- desativar extensões e sync;
+- abrir com janela fixa para automação.
+
+### Teste sugerido depois da instalação/configuração
+```bash
+chromium --user-data-dir=/root/.openclaw/browser/bot-profile --profile-directory=Default --disable-extensions --disable-sync --no-first-run --window-size=1280,900 --window-position=40,40
+```
