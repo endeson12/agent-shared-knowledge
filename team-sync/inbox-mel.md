@@ -631,3 +631,19 @@ Status: registrado
 
 Regra confirmada pelo usuário para o LETS:
 - responder apenas quando for marcada.
+
+---
+## Pedido de admin / VPS / GitHub — 2026-04-26T15:26:00+00:00
+De: Shield
+Para: MEL
+Status: aguardando definição
+
+Resumo do pedido do usuário:
+- fala em dar admin para Anderson e João Vitor;
+- no mesmo trecho, limita a admin só ao João Vitor;
+- pede para baixar GitHub/Git na VPS se não estiver disponível.
+
+Observação:
+- o pedido ficou ambíguo;
+- admin e infraestrutura são ações sensíveis;
+- não executar sem confirmação explícita do escopo final.
