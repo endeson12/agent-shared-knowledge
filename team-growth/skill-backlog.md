@@ -659,3 +659,24 @@ Criar skill experimental para analisar documentação/uso de **Shopify Admin API
 - riscos e limites;
 - exemplo com dados falsos;
 - plano de integração com aprovação humana para tokens/campanhas/mensagens reais.
+
+---
+
+## Backlog de Skills — 2026-04-26 22:00:02
+
+Propor skills para:
+
+- gerador de copy
+- analisador de produto vencedor
+- planejador de campanha Meta Ads
+- planejador de campanha TikTok Ads
+- criador de carrossel Instagram
+- roteirista de Reels/TikTok
+- analisador de funil
+- gerador de página de vendas
+- analisador de criativos
+- criador de calendário editorial
+- integrador com Google Sheets
+- integrador com CRM
+- monitor de tendências
+- pesquisador de concorrentes permitido
